@@ -1,0 +1,37 @@
+person_cluster,variant_by_standard_lemma,broad_region,mentions,share_within_group,share_within_variant
+Ilmarinen,Ilmarinen,Estonia core/west,0,0.0,0.0
+Ilmarinen,Ilmarinen,South Estonia/Seto,0,0.0,0.0
+Ilmarinen,Ilmarinen,Finland/Savo-Karelia,160,0.5351170568561873,0.5555555555555556
+Ilmarinen,Ilmarinen,Ingria,35,0.11705685618729098,0.12152777777777778
+Ilmarinen,Ilmarinen,East Karelia/Veps/Tver,87,0.2909698996655518,0.3020833333333333
+Ilmarinen,Ilmarinen,Other/unclear,6,0.020066889632107024,0.020833333333333332
+Ilmarinen,Other,Estonia core/west,0,0.0,0.0
+Ilmarinen,Other,South Estonia/Seto,0,0.0,0.0
+Ilmarinen,Other,Finland/Savo-Karelia,7,0.023411371237458192,0.6363636363636364
+Ilmarinen,Other,Ingria,0,0.0,0.0
+Ilmarinen,Other,East Karelia/Veps/Tver,4,0.013377926421404682,0.36363636363636365
+Ilmarinen,Other,Other/unclear,0,0.0,0.0
+Lemminkäinen,Lemminkäinen,Estonia core/west,4,0.01486988847583643,0.016597510373443983
+Lemminkäinen,Lemminkäinen,South Estonia/Seto,0,0.0,0.0
+Lemminkäinen,Lemminkäinen,Finland/Savo-Karelia,61,0.22676579925650558,0.25311203319502074
+Lemminkäinen,Lemminkäinen,Ingria,1,0.0037174721189591076,0.004149377593360996
+Lemminkäinen,Lemminkäinen,East Karelia/Veps/Tver,175,0.6505576208178439,0.7261410788381742
+Lemminkäinen,Lemminkäinen,Other/unclear,0,0.0,0.0
+Lemminkäinen,Other,Estonia core/west,0,0.0,0.0
+Lemminkäinen,Other,South Estonia/Seto,0,0.0,0.0
+Lemminkäinen,Other,Finland/Savo-Karelia,7,0.026022304832713755,0.25
+Lemminkäinen,Other,Ingria,0,0.0,0.0
+Lemminkäinen,Other,East Karelia/Veps/Tver,21,0.07806691449814127,0.75
+Lemminkäinen,Other,Other/unclear,0,0.0,0.0
+Väinämöinen,Väinämöinen,Estonia core/west,1,0.0008163265306122449,0.0008503401360544217
+Väinämöinen,Väinämöinen,South Estonia/Seto,0,0.0,0.0
+Väinämöinen,Väinämöinen,Finland/Savo-Karelia,539,0.44,0.4583333333333333
+Väinämöinen,Väinämöinen,Ingria,88,0.07183673469387755,0.07482993197278912
+Väinämöinen,Väinämöinen,East Karelia/Veps/Tver,532,0.4342857142857143,0.4523809523809524
+Väinämöinen,Väinämöinen,Other/unclear,16,0.013061224489795919,0.013605442176870748
+Väinämöinen,Other,Estonia core/west,0,0.0,0.0
+Väinämöinen,Other,South Estonia/Seto,0,0.0,0.0
+Väinämöinen,Other,Finland/Savo-Karelia,3,0.0024489795918367346,0.061224489795918366
+Väinämöinen,Other,Ingria,2,0.0016326530612244899,0.04081632653061224
+Väinämöinen,Other,East Karelia/Veps/Tver,43,0.03510204081632653,0.8775510204081632
+Väinämöinen,Other,Other/unclear,1,0.0008163265306122449,0.02040816326530612

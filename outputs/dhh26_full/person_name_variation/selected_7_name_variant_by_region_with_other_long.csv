@@ -1,0 +1,235 @@
+person_cluster,variant_collapsed,broad_region,mentions,share_within_group,share_within_variant
+Mary / Maria / Maarja / Mari,Mari,Estonia core/west,1774,0.3503851471459609,0.7336641852770885
+Mary / Maria / Maarja / Mari,Mari,South Estonia/Seto,348,0.06873395220225163,0.14392059553349876
+Mary / Maria / Maarja / Mari,Mari,Finland/Savo-Karelia,71,0.014023306340114557,0.029363110008271298
+Mary / Maria / Maarja / Mari,Mari,Ingria,123,0.024293896899071698,0.05086848635235732
+Mary / Maria / Maarja / Mari,Mari,East Karelia/Veps/Tver,29,0.005727829350187636,0.011993382961124897
+Mary / Maria / Maarja / Mari,Mari,Other/unclear,73,0.014418329053920601,0.030190239867659223
+Mary / Maria / Maarja / Mari,Maria,Estonia core/west,98,0.01935611297649615,0.12173913043478261
+Mary / Maria / Maarja / Mari,Maria,South Estonia/Seto,15,0.002962670353545329,0.018633540372670808
+Mary / Maria / Maarja / Mari,Maria,Finland/Savo-Karelia,362,0.07149911119889393,0.4496894409937888
+Mary / Maria / Maarja / Mari,Maria,Ingria,119,0.02350385147145961,0.14782608695652175
+Mary / Maria / Maarja / Mari,Maria,East Karelia/Veps/Tver,209,0.04127987359273158,0.2596273291925466
+Mary / Maria / Maarja / Mari,Maria,Other/unclear,2,0.00039502271380604387,0.002484472049689441
+Mary / Maria / Maarja / Mari,Maija/Maie,Estonia core/west,4,0.0007900454276120877,0.0057306590257879654
+Mary / Maria / Maarja / Mari,Maija/Maie,South Estonia/Seto,0,0.0,0.0
+Mary / Maria / Maarja / Mari,Maija/Maie,Finland/Savo-Karelia,371,0.07327671341102113,0.5315186246418339
+Mary / Maria / Maarja / Mari,Maija/Maie,Ingria,295,0.05826585028639147,0.42263610315186245
+Mary / Maria / Maarja / Mari,Maija/Maie,East Karelia/Veps/Tver,28,0.005530317993284614,0.04011461318051576
+Mary / Maria / Maarja / Mari,Maija/Maie,Other/unclear,0,0.0,0.0
+Mary / Maria / Maarja / Mari,Maarja,Estonia core/west,355,0.07011653170057278,0.693359375
+Mary / Maria / Maarja / Mari,Maarja,South Estonia/Seto,139,0.02745407860952005,0.271484375
+Mary / Maria / Maarja / Mari,Maarja,Finland/Savo-Karelia,7,0.0013825794983211535,0.013671875
+Mary / Maria / Maarja / Mari,Maarja,Ingria,5,0.0009875567845151097,0.009765625
+Mary / Maria / Maarja / Mari,Maarja,East Karelia/Veps/Tver,0,0.0,0.0
+Mary / Maria / Maarja / Mari,Maarja,Other/unclear,6,0.0011850681414181316,0.01171875
+Mary / Maria / Maarja / Mari,Maaria,Estonia core/west,23,0.0045427612087695045,0.04904051172707889
+Mary / Maria / Maarja / Mari,Maaria,South Estonia/Seto,0,0.0,0.0
+Mary / Maria / Maarja / Mari,Maaria,Finland/Savo-Karelia,203,0.04009480545131345,0.43283582089552236
+Mary / Maria / Maarja / Mari,Maaria,Ingria,137,0.027059055895714005,0.2921108742004264
+Mary / Maria / Maarja / Mari,Maaria,East Karelia/Veps/Tver,102,0.020146158404108237,0.21748400852878466
+Mary / Maria / Maarja / Mari,Maaria,Other/unclear,4,0.0007900454276120877,0.008528784648187633
+Mary / Maria / Maarja / Mari,Other,Estonia core/west,67,0.01323326091250247,0.4161490683229814
+Mary / Maria / Maarja / Mari,Other,South Estonia/Seto,41,0.0080979656330239,0.2546583850931677
+Mary / Maria / Maarja / Mari,Other,Finland/Savo-Karelia,17,0.003357693067351373,0.10559006211180125
+Mary / Maria / Maarja / Mari,Other,Ingria,30,0.005925340707090658,0.18633540372670807
+Mary / Maria / Maarja / Mari,Other,East Karelia/Veps/Tver,4,0.0007900454276120877,0.024844720496894408
+Mary / Maria / Maarja / Mari,Other,Other/unclear,2,0.00039502271380604387,0.012422360248447204
+Jesus / Christ,Jeesus,Estonia core/west,248,0.11096196868008948,0.14187643020594964
+Jesus / Christ,Jeesus,South Estonia/Seto,160,0.07158836689038031,0.09153318077803203
+Jesus / Christ,Jeesus,Finland/Savo-Karelia,677,0.3029082774049217,0.38729977116704806
+Jesus / Christ,Jeesus,Ingria,296,0.13243847874720358,0.16933638443935928
+Jesus / Christ,Jeesus,East Karelia/Veps/Tver,343,0.1534675615212528,0.19622425629290619
+Jesus / Christ,Jeesus,Other/unclear,24,0.010738255033557046,0.013729977116704805
+Jesus / Christ,Jesus,Estonia core/west,7,0.003131991051454139,0.026415094339622643
+Jesus / Christ,Jesus,South Estonia/Seto,1,0.00044742729306487697,0.0037735849056603774
+Jesus / Christ,Jesus,Finland/Savo-Karelia,140,0.06263982102908278,0.5283018867924528
+Jesus / Christ,Jesus,Ingria,53,0.02371364653243848,0.2
+Jesus / Christ,Jesus,East Karelia/Veps/Tver,64,0.028635346756152126,0.24150943396226415
+Jesus / Christ,Jesus,Other/unclear,0,0.0,0.0
+Jesus / Christ,Christ/Kristus,Estonia core/west,41,0.018344519015659956,0.18552036199095023
+Jesus / Christ,Christ/Kristus,South Estonia/Seto,7,0.003131991051454139,0.03167420814479638
+Jesus / Christ,Christ/Kristus,Finland/Savo-Karelia,88,0.039373601789709174,0.39819004524886875
+Jesus / Christ,Christ/Kristus,Ingria,25,0.011185682326621925,0.11312217194570136
+Jesus / Christ,Christ/Kristus,East Karelia/Veps/Tver,55,0.024608501118568233,0.248868778280543
+Jesus / Christ,Christ/Kristus,Other/unclear,5,0.0022371364653243847,0.02262443438914027
+Jesus / Christ,Other,Estonia core/west,0,0.0,0.0
+Jesus / Christ,Other,South Estonia/Seto,0,0.0,0.0
+Jesus / Christ,Other,Finland/Savo-Karelia,1,0.00044742729306487697,1.0
+Jesus / Christ,Other,Ingria,0,0.0,0.0
+Jesus / Christ,Other,East Karelia/Veps/Tver,0,0.0,0.0
+Jesus / Christ,Other,Other/unclear,0,0.0,0.0
+John / Jaan / Jussi / Hans,Jaan,Estonia core/west,951,0.3624237804878049,0.9005681818181818
+John / Jaan / Jussi / Hans,Jaan,South Estonia/Seto,65,0.024771341463414635,0.061553030303030304
+John / Jaan / Jussi / Hans,Jaan,Finland/Savo-Karelia,2,0.0007621951219512195,0.001893939393939394
+John / Jaan / Jussi / Hans,Jaan,Ingria,0,0.0,0.0
+John / Jaan / Jussi / Hans,Jaan,East Karelia/Veps/Tver,1,0.00038109756097560977,0.000946969696969697
+John / Jaan / Jussi / Hans,Jaan,Other/unclear,37,0.014100609756097561,0.035037878787878785
+John / Jaan / Jussi / Hans,Jussi/Juss,Estonia core/west,22,0.008384146341463415,0.034482758620689655
+John / Jaan / Jussi / Hans,Jussi/Juss,South Estonia/Seto,1,0.00038109756097560977,0.001567398119122257
+John / Jaan / Jussi / Hans,Jussi/Juss,Finland/Savo-Karelia,565,0.21532012195121952,0.8855799373040752
+John / Jaan / Jussi / Hans,Jussi/Juss,Ingria,21,0.008003048780487805,0.032915360501567396
+John / Jaan / Jussi / Hans,Jussi/Juss,East Karelia/Veps/Tver,26,0.009908536585365854,0.04075235109717868
+John / Jaan / Jussi / Hans,Jussi/Juss,Other/unclear,3,0.0011432926829268292,0.004702194357366771
+John / Jaan / Jussi / Hans,Hans,Estonia core/west,427,0.16272865853658536,0.9008438818565401
+John / Jaan / Jussi / Hans,Hans,South Estonia/Seto,5,0.0019054878048780487,0.010548523206751054
+John / Jaan / Jussi / Hans,Hans,Finland/Savo-Karelia,2,0.0007621951219512195,0.004219409282700422
+John / Jaan / Jussi / Hans,Hans,Ingria,6,0.0022865853658536584,0.012658227848101266
+John / Jaan / Jussi / Hans,Hans,East Karelia/Veps/Tver,0,0.0,0.0
+John / Jaan / Jussi / Hans,Hans,Other/unclear,34,0.012957317073170731,0.07172995780590717
+John / Jaan / Jussi / Hans,Ants,Estonia core/west,219,0.08346036585365854,0.9163179916317992
+John / Jaan / Jussi / Hans,Ants,South Estonia/Seto,15,0.005716463414634146,0.06276150627615062
+John / Jaan / Jussi / Hans,Ants,Finland/Savo-Karelia,0,0.0,0.0
+John / Jaan / Jussi / Hans,Ants,Ingria,0,0.0,0.0
+John / Jaan / Jussi / Hans,Ants,East Karelia/Veps/Tver,0,0.0,0.0
+John / Jaan / Jussi / Hans,Ants,Other/unclear,5,0.0019054878048780487,0.02092050209205021
+John / Jaan / Jussi / Hans,Iivana,Estonia core/west,0,0.0,0.0
+John / Jaan / Jussi / Hans,Iivana,South Estonia/Seto,0,0.0,0.0
+John / Jaan / Jussi / Hans,Iivana,Finland/Savo-Karelia,6,0.0022865853658536584,0.23076923076923078
+John / Jaan / Jussi / Hans,Iivana,Ingria,15,0.005716463414634146,0.5769230769230769
+John / Jaan / Jussi / Hans,Iivana,East Karelia/Veps/Tver,5,0.0019054878048780487,0.19230769230769232
+John / Jaan / Jussi / Hans,Iivana,Other/unclear,0,0.0,0.0
+John / Jaan / Jussi / Hans,Other,Estonia core/west,102,0.038871951219512195,0.5340314136125655
+John / Jaan / Jussi / Hans,Other,South Estonia/Seto,12,0.004573170731707317,0.06282722513089005
+John / Jaan / Jussi / Hans,Other,Finland/Savo-Karelia,55,0.020960365853658538,0.2879581151832461
+John / Jaan / Jussi / Hans,Other,Ingria,15,0.005716463414634146,0.07853403141361257
+John / Jaan / Jussi / Hans,Other,East Karelia/Veps/Tver,4,0.001524390243902439,0.020942408376963352
+John / Jaan / Jussi / Hans,Other,Other/unclear,3,0.0011432926829268292,0.015706806282722512
+Peter / Pietari / Peeter,Pietari,Estonia core/west,4,0.0022284122562674096,0.005134788189987163
+Peter / Pietari / Peeter,Pietari,South Estonia/Seto,5,0.002785515320334262,0.006418485237483954
+Peter / Pietari / Peeter,Pietari,Finland/Savo-Karelia,445,0.2479108635097493,0.5712451861360719
+Peter / Pietari / Peeter,Pietari,Ingria,138,0.07688022284122563,0.17715019255455713
+Peter / Pietari / Peeter,Pietari,East Karelia/Veps/Tver,183,0.10194986072423398,0.23491655969191272
+Peter / Pietari / Peeter,Pietari,Other/unclear,4,0.0022284122562674096,0.005134788189987163
+Peter / Pietari / Peeter,Peeter,Estonia core/west,406,0.22618384401114205,0.8529411764705882
+Peter / Pietari / Peeter,Peeter,South Estonia/Seto,54,0.030083565459610027,0.1134453781512605
+Peter / Pietari / Peeter,Peeter,Finland/Savo-Karelia,0,0.0,0.0
+Peter / Pietari / Peeter,Peeter,Ingria,0,0.0,0.0
+Peter / Pietari / Peeter,Peeter,East Karelia/Veps/Tver,0,0.0,0.0
+Peter / Pietari / Peeter,Peeter,Other/unclear,16,0.008913649025069638,0.03361344537815126
+Peter / Pietari / Peeter,Pekka,Estonia core/west,0,0.0,0.0
+Peter / Pietari / Peeter,Pekka,South Estonia/Seto,0,0.0,0.0
+Peter / Pietari / Peeter,Pekka,Finland/Savo-Karelia,332,0.18495821727019499,0.8853333333333333
+Peter / Pietari / Peeter,Pekka,Ingria,9,0.005013927576601671,0.024
+Peter / Pietari / Peeter,Pekka,East Karelia/Veps/Tver,30,0.016713091922005572,0.08
+Peter / Pietari / Peeter,Pekka,Other/unclear,4,0.0022284122562674096,0.010666666666666666
+Peter / Pietari / Peeter,Petteri/Petri,Estonia core/west,0,0.0,0.0
+Peter / Pietari / Peeter,Petteri/Petri,South Estonia/Seto,1,0.0005571030640668524,0.008928571428571428
+Peter / Pietari / Peeter,Petteri/Petri,Finland/Savo-Karelia,30,0.016713091922005572,0.26785714285714285
+Peter / Pietari / Peeter,Petteri/Petri,Ingria,40,0.022284122562674095,0.35714285714285715
+Peter / Pietari / Peeter,Petteri/Petri,East Karelia/Veps/Tver,40,0.022284122562674095,0.35714285714285715
+Peter / Pietari / Peeter,Petteri/Petri,Other/unclear,1,0.0005571030640668524,0.008928571428571428
+Peter / Pietari / Peeter,Other,Estonia core/west,31,0.017270194986072424,0.5849056603773585
+Peter / Pietari / Peeter,Other,South Estonia/Seto,10,0.005571030640668524,0.18867924528301888
+Peter / Pietari / Peeter,Other,Finland/Savo-Karelia,4,0.0022284122562674096,0.07547169811320754
+Peter / Pietari / Peeter,Other,Ingria,3,0.001671309192200557,0.05660377358490566
+Peter / Pietari / Peeter,Other,East Karelia/Veps/Tver,3,0.001671309192200557,0.05660377358490566
+Peter / Pietari / Peeter,Other,Other/unclear,2,0.0011142061281337048,0.03773584905660377
+Martin / Mart / Märt,Märt,Estonia core/west,1303,0.3719668855266914,0.9118264520643807
+Martin / Mart / Märt,Märt,South Estonia/Seto,115,0.03282900371110477,0.08047585724282715
+Martin / Mart / Märt,Märt,Finland/Savo-Karelia,0,0.0,0.0
+Martin / Mart / Märt,Märt,Ingria,0,0.0,0.0
+Martin / Mart / Märt,Märt,East Karelia/Veps/Tver,0,0.0,0.0
+Martin / Mart / Märt,Märt,Other/unclear,11,0.003140165572366543,0.007697690692792162
+Martin / Mart / Märt,Mart/Martin,Estonia core/west,1070,0.30545246931201825,0.9789569990850869
+Martin / Mart / Märt,Mart/Martin,South Estonia/Seto,0,0.0,0.0
+Martin / Mart / Märt,Mart/Martin,Finland/Savo-Karelia,3,0.0008564087924636027,0.0027447392497712718
+Martin / Mart / Märt,Mart/Martin,Ingria,0,0.0,0.0
+Martin / Mart / Märt,Mart/Martin,East Karelia/Veps/Tver,1,0.00028546959748786756,0.0009149130832570906
+Martin / Mart / Märt,Mart/Martin,Other/unclear,19,0.005423922352269483,0.01738334858188472
+Martin / Mart / Märt,Mard/Mardi,Estonia core/west,664,0.18955181273194405,0.9693430656934306
+Martin / Mart / Märt,Mard/Mardi,South Estonia/Seto,5,0.0014273479874393378,0.0072992700729927005
+Martin / Mart / Märt,Mard/Mardi,Finland/Savo-Karelia,0,0.0,0.0
+Martin / Mart / Märt,Mard/Mardi,Ingria,0,0.0,0.0
+Martin / Mart / Märt,Mard/Mardi,East Karelia/Veps/Tver,0,0.0,0.0
+Martin / Mart / Märt,Mard/Mardi,Other/unclear,16,0.004567513559805881,0.02335766423357664
+Martin / Mart / Märt,Märti,Estonia core/west,206,0.05880673708250071,0.9196428571428571
+Martin / Mart / Märt,Märti,South Estonia/Seto,4,0.0011418783899514702,0.017857142857142856
+Martin / Mart / Märt,Märti,Finland/Savo-Karelia,0,0.0,0.0
+Martin / Mart / Märt,Märti,Ingria,0,0.0,0.0
+Martin / Mart / Märt,Märti,East Karelia/Veps/Tver,0,0.0,0.0
+Martin / Mart / Märt,Märti,Other/unclear,14,0.003996574364830145,0.0625
+Martin / Mart / Märt,Martti,Estonia core/west,0,0.0,0.0
+Martin / Mart / Märt,Martti,South Estonia/Seto,0,0.0,0.0
+Martin / Mart / Märt,Martti,Finland/Savo-Karelia,39,0.011133314302026834,0.7358490566037735
+Martin / Mart / Märt,Martti,Ingria,13,0.003711104767342278,0.24528301886792453
+Martin / Mart / Märt,Martti,East Karelia/Veps/Tver,1,0.00028546959748786756,0.018867924528301886
+Martin / Mart / Märt,Martti,Other/unclear,0,0.0,0.0
+Martin / Mart / Märt,Other,Estonia core/west,14,0.003996574364830145,0.7368421052631579
+Martin / Mart / Märt,Other,South Estonia/Seto,4,0.0011418783899514702,0.21052631578947367
+Martin / Mart / Märt,Other,Finland/Savo-Karelia,1,0.00028546959748786756,0.05263157894736842
+Martin / Mart / Märt,Other,Ingria,0,0.0,0.0
+Martin / Mart / Märt,Other,East Karelia/Veps/Tver,0,0.0,0.0
+Martin / Mart / Märt,Other,Other/unclear,0,0.0,0.0
+Catherine / Kadri / Katri,Kadri,Estonia core/west,1005,0.4633471645919779,0.8085277554304103
+Catherine / Kadri / Katri,Kadri,South Estonia/Seto,205,0.09451360073766712,0.16492357200321803
+Catherine / Kadri / Katri,Kadri,Finland/Savo-Karelia,0,0.0,0.0
+Catherine / Kadri / Katri,Kadri,Ingria,2,0.0009220839096357768,0.0016090104585679806
+Catherine / Kadri / Katri,Kadri,East Karelia/Veps/Tver,3,0.0013831258644536654,0.002413515687851971
+Catherine / Kadri / Katri,Kadri,Other/unclear,28,0.012909174734900875,0.02252614641995173
+Catherine / Kadri / Katri,Katri,Estonia core/west,284,0.13093591516828032,0.6147186147186147
+Catherine / Kadri / Katri,Katri,South Estonia/Seto,24,0.011065006915629323,0.05194805194805195
+Catherine / Kadri / Katri,Katri,Finland/Savo-Karelia,40,0.018441678192715538,0.08658008658008658
+Catherine / Kadri / Katri,Katri,Ingria,93,0.042876901798063624,0.2012987012987013
+Catherine / Kadri / Katri,Katri,East Karelia/Veps/Tver,21,0.009681881051175657,0.045454545454545456
+Catherine / Kadri / Katri,Katri,Other/unclear,0,0.0,0.0
+Catherine / Kadri / Katri,Kaisa,Estonia core/west,1,0.0004610419548178884,0.004016064257028112
+Catherine / Kadri / Katri,Kaisa,South Estonia/Seto,0,0.0,0.0
+Catherine / Kadri / Katri,Kaisa,Finland/Savo-Karelia,171,0.07883817427385892,0.6867469879518072
+Catherine / Kadri / Katri,Kaisa,Ingria,56,0.02581834946980175,0.2248995983935743
+Catherine / Kadri / Katri,Kaisa,East Karelia/Veps/Tver,18,0.008298755186721992,0.07228915662650602
+Catherine / Kadri / Katri,Kaisa,Other/unclear,3,0.0013831258644536654,0.012048192771084338
+Catherine / Kadri / Katri,Kati,Estonia core/west,2,0.0009220839096357768,0.019230769230769232
+Catherine / Kadri / Katri,Kati,South Estonia/Seto,4,0.0018441678192715537,0.038461538461538464
+Catherine / Kadri / Katri,Kati,Finland/Savo-Karelia,8,0.0036883356385431073,0.07692307692307693
+Catherine / Kadri / Katri,Kati,Ingria,87,0.040110650069156296,0.8365384615384616
+Catherine / Kadri / Katri,Kati,East Karelia/Veps/Tver,1,0.0004610419548178884,0.009615384615384616
+Catherine / Kadri / Katri,Kati,Other/unclear,2,0.0009220839096357768,0.019230769230769232
+Catherine / Kadri / Katri,Katariina/Katriina,Estonia core/west,5,0.002305209774089442,0.08620689655172414
+Catherine / Kadri / Katri,Katariina/Katriina,South Estonia/Seto,2,0.0009220839096357768,0.034482758620689655
+Catherine / Kadri / Katri,Katariina/Katriina,Finland/Savo-Karelia,17,0.007837713231904103,0.29310344827586204
+Catherine / Kadri / Katri,Katariina/Katriina,Ingria,29,0.013370216689718764,0.5
+Catherine / Kadri / Katri,Katariina/Katriina,East Karelia/Veps/Tver,5,0.002305209774089442,0.08620689655172414
+Catherine / Kadri / Katri,Katariina/Katriina,Other/unclear,0,0.0,0.0
+Catherine / Kadri / Katri,Other,Estonia core/west,35,0.016136468418626097,0.660377358490566
+Catherine / Kadri / Katri,Other,South Estonia/Seto,5,0.002305209774089442,0.09433962264150944
+Catherine / Kadri / Katri,Other,Finland/Savo-Karelia,5,0.002305209774089442,0.09433962264150944
+Catherine / Kadri / Katri,Other,Ingria,4,0.0018441678192715537,0.07547169811320754
+Catherine / Kadri / Katri,Other,East Karelia/Veps/Tver,4,0.0018441678192715537,0.07547169811320754
+Catherine / Kadri / Katri,Other,Other/unclear,0,0.0,0.0
+Anna / Anne / Ann / Anni,Anne,Estonia core/west,970,0.42863455589924876,0.9125117591721543
+Anna / Anne / Ann / Anni,Anne,South Estonia/Seto,66,0.029164825452938577,0.062088428974600186
+Anna / Anne / Ann / Anni,Anne,Finland/Savo-Karelia,2,0.0008837825894829872,0.0018814675446848542
+Anna / Anne / Ann / Anni,Anne,Ingria,0,0.0,0.0
+Anna / Anne / Ann / Anni,Anne,East Karelia/Veps/Tver,0,0.0,0.0
+Anna / Anne / Ann / Anni,Anne,Other/unclear,25,0.01104728236853734,0.023518344308560677
+Anna / Anne / Ann / Anni,Anni,Estonia core/west,26,0.011489173663278833,0.04553415061295972
+Anna / Anne / Ann / Anni,Anni,South Estonia/Seto,4,0.0017675651789659744,0.0070052539404553416
+Anna / Anne / Ann / Anni,Anni,Finland/Savo-Karelia,216,0.09544851966416261,0.37828371278458844
+Anna / Anne / Ann / Anni,Anni,Ingria,161,0.07114449845338047,0.2819614711033275
+Anna / Anne / Ann / Anni,Anni,East Karelia/Veps/Tver,161,0.07114449845338047,0.2819614711033275
+Anna / Anne / Ann / Anni,Anni,Other/unclear,3,0.0013256738842244808,0.005253940455341506
+Anna / Anne / Ann / Anni,Ann,Estonia core/west,398,0.17587273530711445,0.8450106157112527
+Anna / Anne / Ann / Anni,Ann,South Estonia/Seto,42,0.01855943437914273,0.08917197452229299
+Anna / Anne / Ann / Anni,Ann,Finland/Savo-Karelia,1,0.0004418912947414936,0.0021231422505307855
+Anna / Anne / Ann / Anni,Ann,Ingria,5,0.002209456473707468,0.010615711252653927
+Anna / Anne / Ann / Anni,Ann,East Karelia/Veps/Tver,10,0.004418912947414936,0.021231422505307854
+Anna / Anne / Ann / Anni,Ann,Other/unclear,15,0.006628369421122404,0.03184713375796178
+Anna / Anne / Ann / Anni,Anna,Estonia core/west,29,0.012814847547503314,0.35802469135802467
+Anna / Anne / Ann / Anni,Anna,South Estonia/Seto,2,0.0008837825894829872,0.024691358024691357
+Anna / Anne / Ann / Anni,Anna,Finland/Savo-Karelia,42,0.01855943437914273,0.5185185185185185
+Anna / Anne / Ann / Anni,Anna,Ingria,2,0.0008837825894829872,0.024691358024691357
+Anna / Anne / Ann / Anni,Anna,East Karelia/Veps/Tver,6,0.0026513477684489617,0.07407407407407407
+Anna / Anne / Ann / Anni,Anna,Other/unclear,0,0.0,0.0
+Anna / Anne / Ann / Anni,Anu,Estonia core/west,30,0.013256738842244807,0.6382978723404256
+Anna / Anne / Ann / Anni,Anu,South Estonia/Seto,3,0.0013256738842244808,0.06382978723404255
+Anna / Anne / Ann / Anni,Anu,Finland/Savo-Karelia,0,0.0,0.0
+Anna / Anne / Ann / Anni,Anu,Ingria,9,0.003977021652673442,0.19148936170212766
+Anna / Anne / Ann / Anni,Anu,East Karelia/Veps/Tver,4,0.0017675651789659744,0.0851063829787234
+Anna / Anne / Ann / Anni,Anu,Other/unclear,1,0.0004418912947414936,0.02127659574468085
+Anna / Anne / Ann / Anni,Other,Estonia core/west,19,0.008395934600088379,0.6333333333333333
+Anna / Anne / Ann / Anni,Other,South Estonia/Seto,6,0.0026513477684489617,0.2
+Anna / Anne / Ann / Anni,Other,Finland/Savo-Karelia,2,0.0008837825894829872,0.06666666666666667
+Anna / Anne / Ann / Anni,Other,Ingria,1,0.0004418912947414936,0.03333333333333333
+Anna / Anne / Ann / Anni,Other,East Karelia/Veps/Tver,2,0.0008837825894829872,0.06666666666666667
+Anna / Anne / Ann / Anni,Other,Other/unclear,0,0.0,0.0

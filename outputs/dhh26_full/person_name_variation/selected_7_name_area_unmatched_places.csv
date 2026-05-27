@@ -1,0 +1,185 @@
+place_name_clean,county,person_cluster,mentions
+Viljandimaa,Viljandimaa,Catherine / Kadri / Katri,67
+Viljandimaa,Viljandimaa,Martin / Mart / Märt,55
+välismaa,välismaa,Mary / Maria / Maarja / Mari,29
+välismaa,välismaa,Martin / Mart / Märt,25
+Itä- ja Pohjois-Inkeri,Itä- ja Pohjois-Inkeri,Mary / Maria / Maarja / Mari,24
+Pohjois-Pohjanmaa,Pohjois-Pohjanmaa,Mary / Maria / Maarja / Mari,23
+Tartu,Tartumaa,Mary / Maria / Maarja / Mari,22
+Etelä-Savo,Etelä-Savo,Mary / Maria / Maarja / Mari,22
+Keski-Inkeri,Keski-Inkeri,Mary / Maria / Maarja / Mari,21
+Narva l.,Virumaa,Mary / Maria / Maarja / Mari,20
+välismaa,välismaa,John / Jaan / Jussi / Hans,20
+Länsi-Inkeri,Länsi-Inkeri,Mary / Maria / Maarja / Mari,19
+Läänemaa,Läänemaa,John / Jaan / Jussi / Hans,16
+Läänemaa,Läänemaa,Martin / Mart / Märt,16
+Pärnu l.,Pärnumaa,Martin / Mart / Märt,16
+Saaremaa,Saaremaa,Catherine / Kadri / Katri,14
+välismaa,välismaa,Anna / Anne / Ann / Anni,14
+Tallinn,Harjumaa,Mary / Maria / Maarja / Mari,13
+Etelä-Savo,Etelä-Savo,Jesus / Christ,13
+Tallinn,Harjumaa,Martin / Mart / Märt,12
+Viljandi l.,Viljandimaa,Mary / Maria / Maarja / Mari,12
+Narva l.,Virumaa,John / Jaan / Jussi / Hans,12
+Tartu,Tartumaa,Anna / Anne / Ann / Anni,12
+Itä- ja Pohjois-Inkeri,Itä- ja Pohjois-Inkeri,Peter / Pietari / Peeter,12
+Viljandi l.,Viljandimaa,Anna / Anne / Ann / Anni,11
+Tartu,Tartumaa,John / Jaan / Jussi / Hans,11
+Läänemaa,Läänemaa,Mary / Maria / Maarja / Mari,11
+Tallinn,Harjumaa,John / Jaan / Jussi / Hans,11
+välismaa,välismaa,Catherine / Kadri / Katri,10
+Hiiumaa,Läänemaa,John / Jaan / Jussi / Hans,10
+Pohjois-Karjala,Pohjois-Karjala,Mary / Maria / Maarja / Mari,10
+Hiiumaa,Läänemaa,Mary / Maria / Maarja / Mari,10
+Pärnu l.,Pärnumaa,Mary / Maria / Maarja / Mari,10
+Tallinn,Harjumaa,Jesus / Christ,9
+Paide l.,Järvamaa,Martin / Mart / Märt,9
+Nokia,Satakunta,Mary / Maria / Maarja / Mari,8
+Tartu,Tartumaa,Martin / Mart / Märt,8
+välismaa,välismaa,Peter / Pietari / Peeter,8
+Pohjois-Savo,Pohjois-Savo,Jesus / Christ,8
+Võrumaa,Võrumaa,Mary / Maria / Maarja / Mari,7
+Uusikirkko Vpl.,Etelä-Karjala,Catherine / Kadri / Katri,7
+Võrumaa,Võrumaa,Anna / Anne / Ann / Anni,7
+Valga,Valgamaa,John / Jaan / Jussi / Hans,7
+Keski-Inkeri,Keski-Inkeri,Anna / Anne / Ann / Anni,7
+Etelä-Karjala,Etelä-Karjala,Anna / Anne / Ann / Anni,7
+Narva l.,Virumaa,Jesus / Christ,7
+Viljandimaa,Viljandimaa,Mary / Maria / Maarja / Mari,7
+Keski-Inkeri,Keski-Inkeri,Catherine / Kadri / Katri,7
+Nokia,Satakunta,John / Jaan / Jussi / Hans,6
+Pohjois-Karjala,Pohjois-Karjala,Anna / Anne / Ann / Anni,6
+Paide l.,Järvamaa,John / Jaan / Jussi / Hans,6
+Viljandimaa,Viljandimaa,Jesus / Christ,6
+Viena,Viena,Mary / Maria / Maarja / Mari,6
+Itä- ja Pohjois-Inkeri,Itä- ja Pohjois-Inkeri,Catherine / Kadri / Katri,6
+Läänemaa,Läänemaa,Anna / Anne / Ann / Anni,5
+Peräpohjola,Peräpohjola,Catherine / Kadri / Katri,5
+Paide l.,Järvamaa,Anna / Anne / Ann / Anni,5
+välismaa,välismaa,Jesus / Christ,5
+Peräpohjola,Peräpohjola,Peter / Pietari / Peeter,5
+Hiiumaa,Läänemaa,Jesus / Christ,5
+Itä- ja Pohjois-Inkeri,Itä- ja Pohjois-Inkeri,Anna / Anne / Ann / Anni,5
+Võrumaa,Võrumaa,John / Jaan / Jussi / Hans,5
+Pohjois-Karjala,Pohjois-Karjala,Peter / Pietari / Peeter,5
+Viljandi l.,Viljandimaa,Peter / Pietari / Peeter,5
+Viljandi l.,Viljandimaa,John / Jaan / Jussi / Hans,5
+Pohjois-Karjala,Pohjois-Karjala,Jesus / Christ,4
+Tartu,Tartumaa,Peter / Pietari / Peeter,4
+Pärnu l.,Pärnumaa,John / Jaan / Jussi / Hans,4
+Toijala,Häme,Peter / Pietari / Peeter,4
+Saaremaa,Saaremaa,Anna / Anne / Ann / Anni,4
+Tartu,Tartumaa,Catherine / Kadri / Katri,4
+Peräpohjola,Peräpohjola,Mary / Maria / Maarja / Mari,4
+Porvoo mlk,Uusimaa,Peter / Pietari / Peeter,4
+Sortavala mlk,Laatokan Karjala (Raja-Karjala),Peter / Pietari / Peeter,4
+Pohjois-Savo,Pohjois-Savo,Mary / Maria / Maarja / Mari,4
+Viena,Viena,Jesus / Christ,4
+Viena,Viena,Anna / Anne / Ann / Anni,4
+Valga,Valgamaa,Mary / Maria / Maarja / Mari,4
+Länsi-Inkeri,Länsi-Inkeri,Anna / Anne / Ann / Anni,4
+Länsi-Inkeri,Länsi-Inkeri,Catherine / Kadri / Katri,4
+Läänemaa,Läänemaa,Peter / Pietari / Peeter,4
+Metsäsuomalaisten alue,Metsäsuomalaisten alue,Jesus / Christ,4
+Heinola mlk,Häme,Jesus / Christ,4
+Viljandimaa,Viljandimaa,Anna / Anne / Ann / Anni,4
+Viljandi l.,Viljandimaa,Catherine / Kadri / Katri,4
+Narva l.,Virumaa,Anna / Anne / Ann / Anni,4
+Etelä-Karjala,Etelä-Karjala,John / Jaan / Jussi / Hans,4
+Haapsalu,Läänemaa,Anna / Anne / Ann / Anni,3
+Haapsalu,Läänemaa,Mary / Maria / Maarja / Mari,3
+Saaremaa,Saaremaa,Mary / Maria / Maarja / Mari,3
+Etelä-Savo,Etelä-Savo,Peter / Pietari / Peeter,3
+Heinola mlk,Häme,Mary / Maria / Maarja / Mari,3
+Sortavala mlk,Laatokan Karjala (Raja-Karjala),Jesus / Christ,3
+Itä- ja Pohjois-Inkeri,Itä- ja Pohjois-Inkeri,John / Jaan / Jussi / Hans,3
+Võru l.,Võrumaa,Mary / Maria / Maarja / Mari,3
+Sortavala mlk,Laatokan Karjala (Raja-Karjala),John / Jaan / Jussi / Hans,3
+Keminmaa,Peräpohjola,Mary / Maria / Maarja / Mari,3
+Uusikirkko Vpl.,Etelä-Karjala,Jesus / Christ,3
+Viipuri mlk,Etelä-Karjala,Anna / Anne / Ann / Anni,3
+Keski-Inkeri,Keski-Inkeri,Peter / Pietari / Peeter,3
+Säyneinen,Pohjois-Karjala,Peter / Pietari / Peeter,3
+Pohjois-Karjala,Pohjois-Karjala,Catherine / Kadri / Katri,3
+Uusikirkko Vpl.,Etelä-Karjala,John / Jaan / Jussi / Hans,3
+Valga,Valgamaa,Peter / Pietari / Peeter,3
+Pohjois-Karjala,Pohjois-Karjala,John / Jaan / Jussi / Hans,3
+Toijala,Häme,John / Jaan / Jussi / Hans,3
+Läänemaa,Läänemaa,Catherine / Kadri / Katri,3
+Länsi-Inkeri,Länsi-Inkeri,Peter / Pietari / Peeter,3
+Tallinn,Harjumaa,Peter / Pietari / Peeter,2
+Uusimaa,Uusimaa,John / Jaan / Jussi / Hans,2
+Uusikirkko Vpl.,Etelä-Karjala,Peter / Pietari / Peeter,2
+Tornio,Peräpohjola,Mary / Maria / Maarja / Mari,2
+Äyräpää,Etelä-Karjala,Mary / Maria / Maarja / Mari,2
+Uusikirkko Vpl.,Etelä-Karjala,Mary / Maria / Maarja / Mari,2
+Tallinn,Harjumaa,Anna / Anne / Ann / Anni,2
+Sõrve,Saaremaa,Catherine / Kadri / Katri,2
+Äyräpää,Etelä-Karjala,Peter / Pietari / Peeter,2
+Metsäsuomalaisten alue,Metsäsuomalaisten alue,Peter / Pietari / Peeter,2
+Pärnu l.,Pärnumaa,Jesus / Christ,2
+Keminmaa,Peräpohjola,Peter / Pietari / Peeter,2
+Keminmaa,Peräpohjola,Jesus / Christ,2
+Narva l.,Virumaa,Peter / Pietari / Peeter,2
+Kajaani mlk,Kainuu,Anna / Anne / Ann / Anni,2
+Pohjois-Pohjanmaa,Pohjois-Pohjanmaa,Peter / Pietari / Peeter,2
+Porvoo mlk,Uusimaa,Mary / Maria / Maarja / Mari,2
+Hiiumaa,Läänemaa,Martin / Mart / Märt,2
+Peräpohjola,Peräpohjola,Jesus / Christ,2
+Etelä-Savo,Etelä-Savo,Catherine / Kadri / Katri,2
+Saaremaa,Saaremaa,John / Jaan / Jussi / Hans,2
+Etelä-Savo,Etelä-Savo,John / Jaan / Jussi / Hans,2
+Etelä-Pohjanmaa,Etelä-Pohjanmaa,Mary / Maria / Maarja / Mari,2
+Etelä-Savo,Etelä-Savo,Anna / Anne / Ann / Anni,2
+Kajaani mlk,Kainuu,Mary / Maria / Maarja / Mari,1
+Kuusankoski,Häme,Mary / Maria / Maarja / Mari,1
+Kuusankoski,Häme,Catherine / Kadri / Katri,1
+Kuopio mlk,Pohjois-Savo,Peter / Pietari / Peeter,1
+Kouvola,Häme,Mary / Maria / Maarja / Mari,1
+Keski-Inkeri,Keski-Inkeri,Jesus / Christ,1
+Etelä-Pohjanmaa,Etelä-Pohjanmaa,Peter / Pietari / Peeter,1
+Kajaani mlk,Kainuu,Peter / Pietari / Peeter,1
+Viljandimaa,Viljandimaa,John / Jaan / Jussi / Hans,1
+Harjumaa,Harjumaa,Mary / Maria / Maarja / Mari,1
+Harjumaa,Harjumaa,John / Jaan / Jussi / Hans,1
+Virumaa,Virumaa,John / Jaan / Jussi / Hans,1
+Vuolijoki,Kainuu,John / Jaan / Jussi / Hans,1
+Vuolijoki,Kainuu,Peter / Pietari / Peeter,1
+Kainuu,Kainuu,Mary / Maria / Maarja / Mari,1
+Viipuri mlk,Etelä-Karjala,Catherine / Kadri / Katri,1
+Kainuu,Kainuu,Jesus / Christ,1
+Võrumaa,Võrumaa,Jesus / Christ,1
+Järvamaa,Järvamaa,John / Jaan / Jussi / Hans,1
+Hiiumaa,Läänemaa,Peter / Pietari / Peeter,1
+Viipuri mlk,Etelä-Karjala,Peter / Pietari / Peeter,1
+Säyneinen,Pohjois-Karjala,Mary / Maria / Maarja / Mari,1
+Laatokan Karjala (Raja-Karjala),Laatokan Karjala (Raja-Karjala),Anna / Anne / Ann / Anni,1
+Lappeenranta,Etelä-Savo,Martin / Mart / Märt,1
+Säyneinen,Pohjois-Karjala,Anna / Anne / Ann / Anni,1
+Suolahti,Keski-Suomi,John / Jaan / Jussi / Hans,1
+Sortavala mlk,Laatokan Karjala (Raja-Karjala),Mary / Maria / Maarja / Mari,1
+Saaremaa,Saaremaa,Peter / Pietari / Peeter,1
+Saaremaa,Saaremaa,Martin / Mart / Märt,1
+Riihimäki,Häme,Anna / Anne / Ann / Anni,1
+Pärnumaa,Pärnumaa,Mary / Maria / Maarja / Mari,1
+Tartu,Tartumaa,Jesus / Christ,1
+Pärnu l.,Pärnumaa,Catherine / Kadri / Katri,1
+Pärnu l.,Pärnumaa,Anna / Anne / Ann / Anni,1
+Pohjois-Savo,Pohjois-Savo,Peter / Pietari / Peeter,1
+Pohjois-Savo,Pohjois-Savo,Catherine / Kadri / Katri,1
+Tornio,Peräpohjola,Peter / Pietari / Peeter,1
+Uusikirkko Vpl.,Etelä-Karjala,Anna / Anne / Ann / Anni,1
+Peräpohjola,Peräpohjola,Anna / Anne / Ann / Anni,1
+Paide l.,Järvamaa,Mary / Maria / Maarja / Mari,1
+Paide l.,Järvamaa,Jesus / Christ,1
+Paide l.,Järvamaa,Catherine / Kadri / Katri,1
+Nokia,Satakunta,Peter / Pietari / Peeter,1
+Valga,Valgamaa,Catherine / Kadri / Katri,1
+Narva l.,Virumaa,Martin / Mart / Märt,1
+Mikkeli mlk,Etelä-Savo,Peter / Pietari / Peeter,1
+Mikkeli mlk,Etelä-Savo,Mary / Maria / Maarja / Mari,1
+Valgamaa,Valgamaa,Peter / Pietari / Peeter,1
+Valkeakoski,Häme,Peter / Pietari / Peeter,1
+Säyneinen,Pohjois-Karjala,Jesus / Christ,1
+Metsäsuomalaisten alue,Metsäsuomalaisten alue,Mary / Maria / Maarja / Mari,1
+Aunus,Aunus,Peter / Pietari / Peeter,1

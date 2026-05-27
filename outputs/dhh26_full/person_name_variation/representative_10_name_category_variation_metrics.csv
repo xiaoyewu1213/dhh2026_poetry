@@ -1,0 +1,11 @@
+name,category,mentions,standard_lemmas,local_lemmas,top_standard_name,top_standard_share,standard_entropy_norm,top_local_name,top_local_share,local_entropy_norm
+Väinämöinen,mythic epic,1225,15,91,Väinämöinen,0.961,0.094,Väinämöinen,0.673,0.406
+Ilmarinen,mythic epic,299,5,40,Ilmarinen,0.963,0.124,Ilmarinen,0.599,0.554
+Lemminkäinen,mythic epic,269,8,40,Lemminkäinen,0.896,0.251,Lemminkäinen,0.639,0.509
+John / Jaan / Jussi / Hans,ordinary/biblical given-name,2624,61,116,Jaan,0.331,0.483,Jaan,0.248,0.543
+Anna / Anne / Ann / Anni,ordinary/biblical given-name,2263,63,147,Anne,0.313,0.463,Anne,0.282,0.492
+Peter / Pietari / Peeter,ordinary/biblical given-name,1795,31,173,Pietari,0.423,0.444,Pietari,0.286,0.545
+Martin / Mart / Märt,ordinary/ritual given-name,3503,47,51,Märt,0.258,0.593,Mart,0.152,0.646
+Catherine / Kadri / Katri,ordinary/saint given-name,2169,45,99,Kadri,0.412,0.545,Kadri,0.373,0.516
+Mary / Maria / Maarja / Mari,religious/biblical,5063,99,330,Mari,0.248,0.46,Mari,0.214,0.549
+Jesus / Christ,religious/biblical,2235,29,156,Jeesus,0.766,0.246,Jeesus,0.433,0.509

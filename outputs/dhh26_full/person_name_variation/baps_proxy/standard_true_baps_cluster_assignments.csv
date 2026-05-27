@@ -1,0 +1,257 @@
+area_name,baps_id,cluster,Ilmarinen,Väinämöinen,Lemminkäinen,Jesus / Christ,Mary / Maria / Maarja / Mari,John / Jaan / Jussi / Hans,Peter / Pietari / Peeter,Martin / Mart / Märt,Catherine / Kadri / Katri,Anna / Anne / Ann / Anni,macroRegion,langLabel,langCode,n_groups,proper_name_mentions
+Alatornio,1,3,,,,Jeesus,Maija/Maie,,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,5,20
+Alavus,2,5,,,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,,,Finland/Savo-Karelia,Finnish,su,4,12
+Ambla,3,8,,,,Jeesus,Mari,Hans,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,183
+Asikkala,4,3,,,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,6,27
+Audru,5,8,,,,,Mari,Hans,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,6,126
+Brandval,6,4,Ilmarinen,Väinämöinen,,Other,Maria,,,,Kati,,Finland/Savo-Karelia,Finnish,su,5,11
+Eno,7,2,Ilmarinen,Väinämöinen,,Jeesus,Mari,,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,6,18
+Hageri,8,7,,,,,Mari,Jaan,Peeter,Mart/Martin,,,Estonia core/west,North Estonian,viP,4,18
+Haljala,9,8,,,,Jeesus,Mari,Ants,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,337
+Halliste,10,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,459
+Hanila,11,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,7,47
+Hargla,12,7,,,,Jeesus,Mari,Jaan,,Mard/Mardi,Katri,Anne,South Estonia/Seto,South Estonian,viE,6,48
+Harju-Jaani,13,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,96
+Harju-Madise,14,8,,,,,Mari,Hans,Peeter,Mard/Mardi,Kadri,,Estonia core/west,North Estonian,viP,5,17
+Hartola,15,5,,,,Other,Maija/Maie,Jussi/Juss,Pekka,,Katariina/Katriina,,Finland/Savo-Karelia,Finnish,su,5,15
+Hattula,16,3,,,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,5,37
+Hauho,17,2,,,,Jeesus,Maaria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,18
+Heinjoki,18,1,,,,,Mari,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,4,13
+Heinävesi,19,5,Ilmarinen,,,,Maija/Maie,Jussi/Juss,Pekka,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,6,36
+Helme,20,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,555
+Hietamäki,21,3,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,,,Martti,Katri,Anni,Ingria,Finnish,su,7,22
+Hollola,22,3,,,,,Maija/Maie,,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,4,11
+Hämeenlinna,23,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,5,22
+Häädemeeste,24,7,,,,Jeesus,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,111
+Iisaku,25,8,,,,,Mari,Hans,Peeter,Mart/Martin,Other,Anne,Estonia core/west,North Estonian,viP,6,34
+Iisalmi,26,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,Martti,,,Finland/Savo-Karelia,Finnish,su,7,30
+Ilomantsi,27,2,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,9,431
+Impilahti,28,4,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Other,Pietari,,Kaisa,Anni,East Karelia/Veps/Tver,Livvi-Karelian,ka,9,96
+Isojoki,29,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,11
+Jaani,30,7,,,,,Mari,Jaan,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,5,10
+Jalasjärvi,31,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Janakkala,32,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,4,13
+Joroinen,33,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,8,46
+Juuka,34,4,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,,,Finland/Savo-Karelia,Finnish,su,6,17
+Juuru,35,7,,,,Jeesus,Mari,Jaan,,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,41
+Juva,36,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,7,75
+Jällivaara,37,4,,,,Jeesus,Maria,Jussi/Juss,Petteri/Petri,,,,Finland/Savo-Karelia,Tornedalen Finnish,su,4,12
+Järva-Jaani,38,8,,,,Jeesus,Mari,Hans,Peeter,Märt,Kadri,Anu,Estonia core/west,North Estonian,viP,7,67
+Järva-Madise,39,7,,,,,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,68
+Jõelähtme,40,8,,,,Jeesus,Mari,Ants,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,6,55
+Jõhvi,41,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,169
+Jüri,42,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,57
+Kaarma,43,8,,,,Jeesus,Other,Hans,Peeter,Mart/Martin,,Ann,Estonia core/west,North Estonian,viP,6,38
+Kaavi,44,2,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pietari,,,Anna,Finland/Savo-Karelia,Finnish,su,7,35
+Kadrina,45,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,216
+Kalajoki,46,3,,,,Jeesus,Maija/Maie,Jussi/Juss,,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,5,31
+Kambja,47,7,,,,,Maarja,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,6,24
+Kanepi,48,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,South Estonia/Seto,South Estonian,viE,7,31
+Kangaslampi,49,5,Ilmarinen,Väinämöinen,,,,Jussi/Juss,Pekka,,,Anna,Finland/Savo-Karelia,Finnish,su,5,10
+Kangasniemi,50,5,,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,Katri,Anna,Finland/Savo-Karelia,Finnish,su,7,24
+Kankaanpää,51,6,,,,Jeesus,Maaria,Other,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,10
+Kaprio,52,1,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Iivana,Pietari,Martti,Katri,Anni,Ingria,Finnish,su,9,104
+Karja,53,8,,,,,Mari,Hans,Peeter,,,Ann,Estonia core/west,North Estonian,viP,4,29
+Karksi,54,7,,,,Jeesus,Maarja,Jaan,Peeter,Other,Kadri,Anne,Estonia core/west,South Estonian,viE,7,394
+Karula,55,8,,,,Other,Mari,Other,Peeter,,Other,Anne,South Estonia/Seto,South Estonian,viE,6,106
+Karuna,56,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,4,10
+Karuse,57,7,,,,,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,156
+Kattila,58,6,,,,Jeesus,Maria,,Other,Martti,,Anu,Ingria,Votic,su,5,21
+Kauhava,59,2,,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,5,18
+Keila,60,7,,,,,Mari,,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,5,15
+Keltto,61,1,Ilmarinen,Väinämöinen,,Jeesus,Maria,,Pietari,,Katri,,Ingria,Finnish,su,6,11
+Kemi,62,5,,,,Jeesus,Maija/Maie,Jussi/Juss,Petteri/Petri,,Katariina/Katriina,,Finland/Savo-Karelia,Finnish,su,5,16
+Kerimäki,63,4,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,Kaisa,,Finland/Savo-Karelia,Finnish,su,7,19
+Kestilä,64,5,,Väinämöinen,,Jeesus,Maria,,Pekka,Martti,,Anna,Finland/Savo-Karelia,Finnish,su,6,13
+Kesälahti,65,6,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maaria,Other,Pietari,,,,Finland/Savo-Karelia,Finnish,su,7,62
+Kiestinki,66,2,,Väinämöinen,,Jeesus,Maria,,,Martti,,Anni,East Karelia/Veps/Tver,Karelian Proper,ka,5,27
+Kiihtelysvaara,67,4,Ilmarinen,,,Jeesus,Maria,Jussi/Juss,Pietari,,Katariina/Katriina,,Finland/Savo-Karelia,Finnish,su,6,29
+Kiimaisjärvi,68,6,,Väinämöinen,Lemminkäinen,Jeesus,Maaria,Other,Pietari,,,,East Karelia/Veps/Tver,Karelian Proper,ka,6,37
+Kitee,69,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,8,133
+Kiuruvesi,70,4,,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,Martti,Kaisa,,Finland/Savo-Karelia,Finnish,su,7,50
+Kivennapa,71,2,,,,Christ/Kristus,Mari,Jussi/Juss,Pietari,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,34
+Kivijärvi,72,4,,Väinämöinen,,Other,Maria,Other,,Martti,Katariina/Katriina,,Finland/Savo-Karelia,Finnish,su,6,19
+Kodavere,73,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,7,80
+Koeru,74,7,,,,Jeesus,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,168
+Koivisto,75,1,,,,Jeesus,Mari,,Pekka,Martti,Katri,Anni,Finland/Savo-Karelia,Finnish,su,6,35
+Kolga-Jaani,76,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,,Anne,Estonia core/west,North Estonian,viP,6,226
+Kontiolahti,77,2,Ilmarinen,Väinämöinen,,Jeesus,Mari,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,8,36
+Kontokki,78,4,,Väinämöinen,Lemminkäinen,Jeesus,Maria,Jussi/Juss,Petteri/Petri,Mart/Martin,,Anni,East Karelia/Veps/Tver,Karelian Proper,ka,8,52
+Koprina,79,1,,,,Jeesus,Maria,Other,Pietari,,Katri,Anni,Ingria,Finnish,su,6,49
+Korpilahti,80,3,,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,,,,Anni,Finland/Savo-Karelia,Finnish,su,5,18
+Korpiselkä,81,1,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Jussi/Juss,Pietari,,Kati,Anni,East Karelia/Veps/Tver,Karelian Proper,ka,9,154
+Kose,82,8,,,,,Mari,Hans,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,155
+Kuhmo,83,1,,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pekka,Martti,Katri,Anni,Finland/Savo-Karelia,Finnish,su,8,21
+Kuhmoinen,84,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,6,22
+Kullamaa,85,7,,,,,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anni,Estonia core/west,North Estonian,viP,6,41
+Kuopio,86,4,,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,24
+Kupanitsa,87,1,,,,Jeesus,Mari,Other,Pietari,,Kati,Anni,Ingria,Finnish,su,6,29
+Kurikka,88,5,,,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,Kaisa,,Finland/Savo-Karelia,Finnish,su,5,10
+Kursi,89,7,,,,,Mari,Jaan,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,5,45
+Kuusalu,90,7,,,Lemminkäinen,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,8,264
+Kuusamo,91,1,Other,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,,,,Anni,Finland/Savo-Karelia,Finnish,su,6,28
+Käina,92,8,,,,,Maarja,Other,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,6,19
+Kärla,93,8,,,,,Mari,Ants,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,6,14
+Kõpu,94,8,,,,Jeesus,Mari,Hans,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,65
+Laihia,95,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,5,18
+Laiuse,96,7,,,,Christ/Kristus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,110
+Lapinlahti,97,2,Ilmarinen,Väinämöinen,,,,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Lappee,98,4,,,,Jeesus,Maria,Jussi/Juss,Pekka,,Kaisa,Other,Finland/Savo-Karelia,Finnish,su,6,15
+Lapua,99,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,,Anna,Finland/Savo-Karelia,Finnish,su,4,11
+Lavansaari,100,1,,,,Jeesus,Mari,,Pekka,,Katri,Anni,Finland/Savo-Karelia,Finnish,su,5,11
+Lemi,101,3,,Väinämöinen,,,Maija/Maie,,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,14
+Lempaala,102,2,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pietari,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,9,155
+Leppävirta,103,4,,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,,Other,Finland/Savo-Karelia,Finnish,su,6,33
+Liissilä,104,1,Ilmarinen,,,Jeesus,Maria,Jussi/Juss,Pietari,,Katri,Anni,Ingria,Finnish,su,7,64
+Liperi,105,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,7,37
+Loppi,106,2,,,,Jeesus,Maaria,Jussi/Juss,Pietari,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,21
+Luopioinen,107,2,,,,Jeesus,Maaria,Jussi/Juss,,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,5,10
+Lääne-Nigula,108,8,,,,,Mari,Ants,Peeter,Mart/Martin,Kadri,Anu,Estonia core/west,North Estonian,viP,6,16
+Lüganuse,109,7,,,,Jeesus,Mari,Jaan,Peeter,Mard/Mardi,,Anne,Estonia core/west,North Estonian,viP,6,61
+Maaninka,110,5,,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,Katri,,Finland/Savo-Karelia,Finnish,su,6,23
+Maarja-Magdaleena,111,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,7,77
+Markkova,112,6,,,,Other,Mari,Other,Pietari,,Katri,,Ingria,Finnish,suI,5,12
+Martna,113,7,,,,,Mari,Jaan,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,5,31
+Metsäpirtti,114,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,Martti,,Anni,Finland/Savo-Karelia,Finnish,su,8,31
+Mihkli,115,7,,,,,Mari,Jaan,,Mard/Mardi,,Anne,Estonia core/west,North Estonian,viP,4,60
+Moloskovitsa,116,1,Ilmarinen,,,Jeesus,Mari,Jussi/Juss,Pietari,,Katri,Anni,Ingria,Finnish,su,7,57
+Muhos,117,5,,,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,Martti,Kaisa,,Finland/Savo-Karelia,Finnish,su,6,10
+Muhu,118,7,,,,Jeesus,Mari,Jaan,Peeter,,Kadri,Ann,Estonia core/west,North Estonian,viP,6,125
+Muolaa,119,1,,,,,Mari,Jussi/Juss,Pekka,,,Anni,Finland/Savo-Karelia,Finnish,su,4,17
+Mustjala,120,8,,,,,Mari,Ants,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,5,30
+Muurla,121,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,29
+Muuruvesi,122,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,,,,,Finland/Savo-Karelia,Finnish,su,5,10
+Mynämäki,123,3,,,Lemminkäinen,,Maija/Maie,Jussi/Juss,,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,13
+Mäntsälä,124,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,4,11
+Mäntyharju,125,5,,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,Martti,,Anni,Finland/Savo-Karelia,Finnish,su,7,23
+Märjamaa,126,7,,,,,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,6,85
+Narvusi,127,3,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Iivana,Pietari,Martti,Kati,Anni,Ingria,Ingrian,in,9,597
+Nilsiä,128,5,Ilmarinen,,Lemminkäinen,Jeesus,Other,Jussi/Juss,Pekka,,,,Finland/Savo-Karelia,Finnish,su,6,33
+Nurmes,129,5,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pekka,Martti,Katariina/Katriina,Anne,Finland/Savo-Karelia,Finnish,su,9,85
+Nõo,130,7,,,,,Mari,Jaan,,Other,Kadri,Anne,Estonia core/west,South Estonian,viE,5,45
+Orimattila,131,2,,,,,Maaria,Jussi/Juss,Pietari,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,6,15
+Otepää,132,7,,,,,Mari,Jaan,Peeter,,Other,Anne,Estonia core/west,South Estonian,viE,5,42
+Oulu,133,2,Ilmarinen,,,Jeesus,Maria,,,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,5,10
+Paide,134,8,,,,,Mari,Other,,Mard/Mardi,,Anne,Estonia core/west,North Estonian,viP,4,43
+Paistu,135,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Katri,Anne,Estonia core/west,South Estonian,viE,7,515
+Palamuse,136,8,,,,Jeesus,Mari,Hans,Peeter,Märt,Other,Anne,Estonia core/west,North Estonian,viP,7,175
+Paltamo,137,4,Ilmarinen,Väinämöinen,,Other,Maria,Other,Pekka,Mart/Martin,,,Finland/Savo-Karelia,Finnish,su,7,28
+Peetri,138,7,,,,,Mari,Jaan,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,6,145
+Perniö,139,2,,,,Christ/Kristus,Maria,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,6,10
+Pieksämäki,140,4,Ilmarinen,Väinämöinen,,Jeesus,Maria,,Pekka,,,Anni,Finland/Savo-Karelia,Finnish,su,6,20
+Pielavesi,141,4,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,Martti,Kaisa,,Finland/Savo-Karelia,Finnish,su,8,62
+Pielisjärvi,142,5,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,Katariina/Katriina,Anni,Finland/Savo-Karelia,Finnish,su,8,37
+Piippola,143,4,,Väinämöinen,,Other,Maria,,,Martti,,Other,Finland/Savo-Karelia,Finnish,su,5,13
+Pilistvere,144,7,,,,Christ/Kristus,Mari,Jaan,Peeter,Mart/Martin,,Anne,Estonia core/west,North Estonian,viP,6,142
+Pistojärvi,145,4,,Väinämöinen,Lemminkäinen,Jeesus,Maria,,,,,,East Karelia/Veps/Tver,Karelian Proper,ka,4,12
+Porajärvi,146,5,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maaria,,Pekka,,,Anni,East Karelia/Veps/Tver,Karelian Proper,kaV,7,101
+Pudasjärvi,147,3,,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,Martti,,Anni,Finland/Savo-Karelia,Finnish,su,7,19
+Puhja,148,7,,,,Jeesus,Mari,Jaan,Peeter,Other,,Anne,Estonia core/west,South Estonian,viE,6,77
+Puolanka,149,5,,Väinämöinen,,Jeesus,Maaria,,Pekka,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,14
+Puumala,150,2,,,,Jeesus,Maria,,Pietari,Martti,Kaisa,,Finland/Savo-Karelia,Finnish,su,5,23
+Pyhäjärvi Ol.,151,4,,Väinämöinen,,Other,Maria,Jussi/Juss,Pekka,Mart/Martin,,,Finland/Savo-Karelia,Finnish,su,6,14
+Pyhäjärvi Ul.,152,3,,,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,5,14
+Pyhäjärvi Vpl.,153,3,,Väinämöinen,,Christ/Kristus,Maija/Maie,,Pietari,Martti,Katri,Anni,Finland/Savo-Karelia,Finnish,su,7,27
+Pälkjärvi,154,4,,,,Other,Maria,Jussi/Juss,Pietari,,,Other,Finland/Savo-Karelia,Finnish,su,5,16
+Pärnu,155,7,,,,,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,6,118
+Pärnu-Jaagupi,156,7,,,,Jeesus,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,139
+Põltsamaa,157,8,,,,Jeesus,Mari,Hans,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,193
+Põlva,158,7,,,,Christ/Kristus,Mari,Jaan,Peeter,Märt,Kadri,Anne,South Estonia/Seto,South Estonian,viE,7,66
+Pöide,159,7,,,,Jeesus,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Ann,Estonia core/west,North Estonian,viP,7,74
+Pöytyä,160,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,Kati,,Finland/Savo-Karelia,Finnish,su,4,15
+Pühalepa,161,7,,,,Other,Mari,Jaan,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,7,41
+Rakvere,162,7,,,,,Mari,Jaan,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,6,30
+Rannu,163,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,55
+Ranua,164,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,,Anna,Finland/Savo-Karelia,Finnish,su,4,19
+Rapla,165,7,,,,,Mari,Jaan,,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,5,57
+Rautavaara,166,2,,,,Jeesus,Maaria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,21
+Reigi,167,8,,,,,Mari,Ants,Peeter,Mart/Martin,,Ann,Estonia core/west,North Estonian,viP,5,19
+Renko,168,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,Anna,Finland/Savo-Karelia,Finnish,su,5,14
+Repola,169,1,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Iivana,Pietari,,Katri,Anni,East Karelia/Veps/Tver,Karelian Proper,kaV,9,118
+Ridala,170,7,,,,,Mari,Jaan,,Mard/Mardi,,Ann,Estonia core/west,North Estonian,viP,4,33
+Risti,171,7,,,,Jeesus,Mari,Jaan,Other,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,113
+Rovaniemi,172,5,Ilmarinen,,,Jeesus,Maija/Maie,Other,Petteri/Petri,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,29
+Ruovesi,173,3,,,,,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,12
+Räpina,174,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Other,Anne,South Estonia/Seto,South Estonian,viE,7,214
+Rääkkylä,175,2,,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,6,38
+Rääpyvä,176,6,,Väinämöinen,,Other,Maaria,Jussi/Juss,,,Katri,,Ingria,Finnish,su,5,15
+Rõngu,177,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,153
+Rõuge,178,7,,,,Jeesus,Mari,Jaan,Peeter,,Kadri,Anni,South Estonia/Seto,South Estonian,viE,6,79
+Saarde,179,8,,,,Jeesus,Maarja,Hans,,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,155
+Saarijärvi,180,3,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,9,67
+Sakkola,181,2,,Väinämöinen,,Jeesus,Mari,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,32
+Salmi,182,4,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,,Pietari,,Katariina/Katriina,Anni,East Karelia/Veps/Tver,Livvi-Karelian,ka,8,114
+Sangaste,183,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,141
+Savitaipale,184,2,,Väinämöinen,,Jeesus,Maria,,Pietari,,Kaisa,Anne,Finland/Savo-Karelia,Finnish,su,6,14
+Savonlinna,185,5,,,,,Maija/Maie,Jussi/Juss,Pekka,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,14
+Seiskari,186,1,,,,Jeesus,Mari,,Pietari,,Katri,Anni,Finland/Savo-Karelia,Finnish,su,5,14
+Serepetta,187,6,Ilmarinen,,,Jeesus,Other,Other,Petteri/Petri,Martti,Katri,Anu,Ingria,Finnish,su,8,40
+Setumaa,188,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,South Estonia/Seto,South Estonian,viE,7,471
+Simo,189,5,,,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,,Anni,Finland/Savo-Karelia,Finnish,su,5,11
+Simuna,190,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,93
+Skuoritsa,191,1,,,,Jeesus,,,Petteri/Petri,,Kati,Anni,Ingria,Finnish,su,4,15
+Soanlahti,192,4,,Väinämöinen,Lemminkäinen,Other,Maria,Jussi/Juss,Pietari,,Katri,Anni,East Karelia/Veps/Tver,Finnish,su,8,51
+Sodankylä,193,4,,,,Jeesus,Maria,,Petteri/Petri,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,15
+Soikkola,194,3,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Iivana,Pietari,,Kaisa,Anni,Ingria,Ingrian,in,8,254
+Somero,195,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,21
+Sonkajärvi,196,5,,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,Katariina/Katriina,,Finland/Savo-Karelia,Finnish,su,6,25
+Sortavala,197,3,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,Katri,Anni,East Karelia/Veps/Tver,Finnish,su,8,35
+Sotkamo,198,5,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pekka,,,Anna,Finland/Savo-Karelia,Finnish,su,7,36
+Soutjärvi,199,2,,,,Christ/Kristus,Maria,,Pietari,,Kadri,,East Karelia/Veps/Tver,Veps,ve,4,17
+Suistamo,200,2,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,Anni,East Karelia/Veps/Tver,Livvi-Karelian,ka,9,598
+Suojärvi,201,4,Ilmarinen,Väinämöinen,Lemminkäinen,Other,Maria,Other,Pietari,,Katri,Anni,East Karelia/Veps/Tver,Finnish,su,9,352
+Suomussalmi,202,5,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Jussi/Juss,Pekka,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,8,23
+Suonenjoki,203,5,Ilmarinen,Väinämöinen,,Jeesus,Maaria,Other,Pekka,,,Anna,Finland/Savo-Karelia,Finnish,su,7,19
+Suure-Jaani,204,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,281
+Sysmä,205,6,,,,Other,,Jussi/Juss,Pietari,,,Anna,Finland/Savo-Karelia,Finnish,su,4,12
+Sääksmäki,206,4,,,,Jeesus,Maria,Jussi/Juss,,,Kaisa,Other,Finland/Savo-Karelia,Finnish,su,5,40
+Säämäjärvi,207,6,Ilmarinen,Väinämöinen,,,Maaria,,Pietari,,,Anu,East Karelia/Veps/Tver,Livvi-Karelian,ka,5,10
+Tammela,208,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,5,42
+Tampere,209,2,,,,Christ/Kristus,,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,5,12
+Tartu-Maarja,210,7,,,,,Mari,Jaan,,Other,Kadri,Anne,Estonia core/west,South Estonian,viE,5,51
+Tarvastu,211,8,,,,Jeesus,Mari,Hans,Peeter,Märt,Kadri,Anne,Estonia core/west,South Estonian,viE,7,361
+Terijoki,212,1,,,,Jeesus,Mari,Jussi/Juss,,,Katri,Anni,Finland/Savo-Karelia,Finnish,su,5,11
+Tervo,213,4,,,,Jeesus,Maria,Jussi/Juss,Pekka,Martti,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,7,14
+Tervola,214,6,,,,Jeesus,Maria,Other,Other,,,,Finland/Savo-Karelia,Finnish,su,4,10
+Tohmajärvi,215,4,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pekka,,Katri,Anni,Finland/Savo-Karelia,Finnish,su,8,53
+Toksova,216,1,Ilmarinen,Väinämöinen,,Jeesus,Mari,,Pietari,Martti,Kati,Anni,Ingria,Finnish,su,8,45
+Tori,217,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,201
+Torma,218,7,,,,,Mari,Jaan,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,6,256
+Tulemajärvi,219,1,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maaria,,Petteri/Petri,,,Anni,East Karelia/Veps/Tver,Livvi-Karelian,ka,7,69
+Turku,220,6,,,,,Maaria,Other,Pietari,,Kaisa,Anna,Finland/Savo-Karelia,Finnish,su,5,10
+Tuulos,221,2,,,,Jeesus,Maaria,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,13
+Tuupovaara,222,4,,Väinämöinen,,Other,Maria,,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,6,33
+Tuusniemi,223,3,,Väinämöinen,,,Maija/Maie,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Tyrvää,224,3,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,,,Finland/Savo-Karelia,Finnish,su,6,20
+Tyrö,225,2,Ilmarinen,Väinämöinen,,Jeesus,Mari,Jussi/Juss,Pietari,,Kaisa,Anni,Ingria,Finnish,su,8,102
+Tõstamaa,226,7,,,,Jeesus,Mari,Jaan,Peeter,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,7,111
+Töysä,227,2,,,,Jeesus,Maria,Jussi/Juss,Pietari,,,Anni,Finland/Savo-Karelia,Finnish,su,5,18
+Türi,228,8,,,,Jeesus,Mari,Hans,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,81
+Uhtua,229,2,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,,East Karelia/Veps/Tver,Karelian Proper,ka,8,47
+Urvaste,230,7,,,,Jeesus,Mari,Jaan,Peeter,Märt,Kadri,Anne,South Estonia/Seto,South Estonian,viE,7,202
+Uskela,231,3,,,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,Anni,Finland/Savo-Karelia,Finnish,su,6,48
+Uukuniemi,232,6,Ilmarinen,Väinämöinen,,Other,Maaria,,Pietari,,Katri,,East Karelia/Veps/Tver,Finnish,su,6,29
+Uusikaupunki,233,5,,,,Christ/Kristus,Maija/Maie,Jussi/Juss,Pekka,,,Anni,Finland/Savo-Karelia,Finnish,su,5,21
+Uusikirkko Tl.,234,3,,,Lemminkäinen,,Maija/Maie,,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,4,10
+Vaivara,235,8,,,,,Mari,Ants,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,6,61
+Valtimo,236,1,,Väinämöinen,,Jeesus,,,Pekka,Martti,Katri,,Finland/Savo-Karelia,Finnish,su,5,12
+Varbla,237,7,,,,,Mari,Jaan,Peeter,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,6,105
+Varpaisjärvi,238,4,,Väinämöinen,,Jeesus,Maria,,Pekka,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Vastseliina,239,8,,,,Jeesus,Maarja,Ants,Other,,Katri,Anne,South Estonia/Seto,South Estonian,viE,6,114
+Venjoki,240,2,Ilmarinen,Väinämöinen,,Jeesus,Maria,Jussi/Juss,Pietari,,Kaisa,Anni,Ingria,Finnish,su,8,54
+Vieljärvi,241,4,Ilmarinen,Väinämöinen,,,Maria,,Petteri/Petri,,Katariina/Katriina,Anni,East Karelia/Veps/Tver,Livvi-Karelian,kaA,6,24
+Vigala,242,7,,,,Jeesus,Mari,Jaan,Peeter,Other,Kadri,Ann,Estonia core/west,North Estonian,viP,7,151
+Vihanti,243,2,Ilmarinen,,,Jeesus,Maria,,Pietari,,,,Finland/Savo-Karelia,Finnish,su,4,12
+Viitasaari,244,4,,,,,Maria,,Pekka,Mart/Martin,Katri,,Finland/Savo-Karelia,Finnish,su,4,11
+Viljandi,245,8,,,,Jeesus,Mari,Hans,Peeter,Märt,Katri,Anne,Estonia core/west,North Estonian,viP,7,318
+Virtasalmi,246,5,,,,Jeesus,Mari,Jussi/Juss,Pekka,,Katariina/Katriina,Anna,Finland/Savo-Karelia,Finnish,su,6,14
+Viru-Jaagupi,247,7,,,,,Mari,Jaan,,Mart/Martin,Kadri,Ann,Estonia core/west,North Estonian,viP,5,54
+Viru-Nigula,248,8,,,,Jeesus,Mari,Hans,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,7,124
+Vuokkiniemi,249,1,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Mari,Jussi/Juss,Petteri/Petri,,,Anni,East Karelia/Veps/Tver,Karelian Proper,ka,8,138
+Vuole,250,1,Ilmarinen,Väinämöinen,Lemminkäinen,Jeesus,Maria,Other,Pietari,Martti,Kati,Anni,Ingria,Finnish,su,10,124
+Väike-Maarja,251,8,,,,Jeesus,Mari,Hans,Peeter,Mard/Mardi,Kadri,Anne,Estonia core/west,North Estonian,viP,7,154
+Vändra,252,8,,,,Jeesus,Mari,Hans,,Mart/Martin,Kadri,Anne,Estonia core/west,North Estonian,viP,6,166
+Võnnu,253,8,,,,,Mari,Hans,Peeter,Märt,Kadri,Ann,Estonia core/west,South Estonian,viE,6,101
+Yläne,254,3,,,,Jeesus,Maija/Maie,Jussi/Juss,Pietari,,Kaisa,,Finland/Savo-Karelia,Finnish,su,5,13
+Äksi,255,8,,,,,Mari,Other,Peeter,Märt,Kadri,Anne,Estonia core/west,North Estonian,viP,6,93
+Östmark,256,5,Ilmarinen,Väinämöinen,,Jeesus,Maija/Maie,Other,Pekka,,,,Finland/Savo-Karelia,Finnish,su,6,18

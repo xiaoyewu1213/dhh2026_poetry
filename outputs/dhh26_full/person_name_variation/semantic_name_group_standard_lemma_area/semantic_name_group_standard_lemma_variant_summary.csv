@@ -1,0 +1,829 @@
+feature_rank_by_size,semantic_name_group,standard_lemma,standard_lemma_map_category,mentions,overall_share,is_top_map_variant
+1,Mary / Maria / Maarja / Mari,Mari,Mari,1086,0.2805476621028158,True
+1,Mary / Maria / Maarja / Mari,Maria,Maria,719,0.18574011883234307,True
+1,Mary / Maria / Maarja / Mari,Maija,Maija,498,0.12864892792560062,True
+1,Mary / Maria / Maarja / Mari,Maarja,Maarja,452,0.11676569361921985,True
+1,Mary / Maria / Maarja / Mari,Maaria,Maaria,416,0.10746577111857401,True
+1,Mary / Maria / Maarja / Mari,Maie,Maie,165,0.042624644794626715,True
+1,Mary / Maria / Maarja / Mari,Mai,Mai,53,0.013691552570395246,True
+1,Mary / Maria / Maarja / Mari,Marikene,Marikene,32,0.008266597778351847,True
+1,Mary / Maria / Maarja / Mari,Marike,Other,25,0.006458279514337381,False
+1,Mary / Maria / Maarja / Mari,Maari,Other,24,0.006199948333763886,False
+1,Mary / Maria / Maarja / Mari,Maije,Other,20,0.005166623611469905,False
+1,Mary / Maria / Maarja / Mari,mari,Other,19,0.0049082924308964096,False
+1,Mary / Maria / Maarja / Mari,maija,Other,18,0.004649961250322914,False
+1,Mary / Maria / Maarja / Mari,Marian,Other,17,0.004391630069749419,False
+1,Mary / Maria / Maarja / Mari,Marja,Other,16,0.0041332988891759235,False
+1,Mary / Maria / Maarja / Mari,mai,Other,16,0.0041332988891759235,False
+1,Mary / Maria / Maarja / Mari,maiekene,Other,16,0.0041332988891759235,False
+1,Mary / Maria / Maarja / Mari,marikene,Other,14,0.003616636528028933,False
+1,Mary / Maria / Maarja / Mari,maaria,Other,12,0.003099974166881943,False
+1,Mary / Maria / Maarja / Mari,mustamaija,Other,8,0.0020666494445879618,False
+1,Mary / Maria / Maarja / Mari,Marija,Other,7,0.0018083182640144665,False
+1,Mary / Maria / Maarja / Mari,Maarjale,Other,5,0.0012916559028674762,False
+1,Mary / Maria / Maarja / Mari,Mari+kene,Other,5,0.0012916559028674762,False
+1,Mary / Maria / Maarja / Mari,Neitsyt Maria,Other,5,0.0012916559028674762,False
+1,Mary / Maria / Maarja / Mari,maarjapuu,Other,4,0.0010333247222939809,False
+1,Mary / Maria / Maarja / Mari,maria,Other,4,0.0010333247222939809,False
+1,Mary / Maria / Maarja / Mari,marja,Other,4,0.0010333247222939809,False
+1,Mary / Maria / Maarja / Mari,Maarian,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,Maarija,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,Maijan,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,Marijale,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,maarjamägi,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,marianpäivä,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,neitsytmaaria,Other,3,0.0007749935417204857,False
+1,Mary / Maria / Maarja / Mari,(name) Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,(proper noun),Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Jämsä & Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Maali,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Maari & ema,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Maaria & -ine,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Maieken,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Maiel,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Mari&ni,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Marianen,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Marie,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Marilla,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Marimägi,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Marjatta,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Mittu-Maaria,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,Neitsyt-Maria,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,kampela & Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,länsimaija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maa/Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maariainen,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maarja,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maarjamaa,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maarjapäev,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maarjeit,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,mai+ke,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maie,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,makkara & Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,mari & kene,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,maritütar,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,mettumaari,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,musta & Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,musta-Maija,Other,2,0.0005166623611469904,False
+1,Mary / Maria / Maarja / Mari,(name),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,(proper),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,(unclear),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Akeri-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Anna-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Annamari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Elsa-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Heikin-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Helsa & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Helsanmaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Helsinki & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Helssa & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Helssa-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Hölttä-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Jurist-Mari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Juurikka-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Kasperinmar,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Lassi & maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Lassinmaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maari (proper name),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maaria & aine,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maaria+maa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maaria/maa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maariaan,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarian maa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maariana,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarianainen,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarianpoika,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maariinen,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarja lehm,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarjainen,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarjamaa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarjat,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maarjatta,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maie (proper noun),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maie-l,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maie/maa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maija (diminutive),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maija (prop.),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maija-lla-ni,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijamaa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijani,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijatytär,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijelleni,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijetyttö,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijetytär,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maijukka,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maikki,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mari & -kene,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mari & sisar,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mari (poss.),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mari&nensa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mari/mariama,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maria & emo,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maria (loan),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maria+n,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mariainen/muori,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mariale,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Marialta,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Marian aine,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mariasta,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Marile,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Marin,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Marinen,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Maritse,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mati/Mari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mats-Mari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Matsu & Mari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Moari (archaic),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Moaria,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Muari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Mustamaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,Torkkomaijan,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,ahkeramaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,akerias & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,akkelismaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,akkuna & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,harakka & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,helsinki & maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,hertta & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,kala & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,kuppari & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,lammas-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,lanka & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,länsi & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarian,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maariankukka (hypothetical),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarianne,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarja&hais,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjahein,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjakene,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjalehm,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjanpäivä,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjavars,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maarjuke,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,mahti + Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maie+ke,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maijamaa,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maito & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maito/maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maja/maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,makaranmaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,makkara&Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,makkara-Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,makkaramaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,manitsema,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,mariapiika,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,maritütreke,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,marja (berry) or Maria (name),Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,marjainen,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,marjuke,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,marjukene,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,meri,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,musta&Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,mustapäämari,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,neitien Maria,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,neitsyt & Maaria,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,neitsyt-Maarja,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,neitsytmarja,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,ranta&Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,rämppä & maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,taevaema,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,varesmaija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,varis & Maija,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,varis & Maija/maja,Other,1,0.0002583311805734952,False
+1,Mary / Maria / Maarja / Mari,varis-maija,Other,1,0.0002583311805734952,False
+2,Martin / Mart / Märt,Märt,Märt,884,0.3022222222222222,True
+2,Martin / Mart / Märt,Mart,Mart,507,0.17333333333333334,True
+2,Martin / Mart / Märt,mart,mart,353,0.12068376068376069,True
+2,Martin / Mart / Märt,mard,mard,255,0.08717948717948718,True
+2,Martin / Mart / Märt,märt,märt,191,0.0652991452991453,True
+2,Martin / Mart / Märt,Mard,Mard,163,0.055726495726495726,True
+2,Martin / Mart / Märt,Märti,Märti,138,0.04717948717948718,True
+2,Martin / Mart / Märt,marti,marti,55,0.018803418803418803,True
+2,Martin / Mart / Märt,märti,Other,51,0.017435897435897435,False
+2,Martin / Mart / Märt,Martti,Other,49,0.016752136752136753,False
+2,Martin / Mart / Märt,Mardi,Other,34,0.011623931623931624,False
+2,Martin / Mart / Märt,mardisand,Other,27,0.009230769230769232,False
+2,Martin / Mart / Märt,mardisandid,Other,14,0.004786324786324786,False
+2,Martin / Mart / Märt,mardikene,Other,11,0.0037606837606837607,False
+2,Martin / Mart / Märt,mardikas,Other,10,0.003418803418803419,False
+2,Martin / Mart / Märt,mardike,Other,10,0.003418803418803419,False
+2,Martin / Mart / Märt,Marti,Other,9,0.003076923076923077,False
+2,Martin / Mart / Märt,märd,Other,9,0.003076923076923077,False
+2,Martin / Mart / Märt,mardisant,Other,8,0.002735042735042735,False
+2,Martin / Mart / Märt,Mardis,Other,7,0.002393162393162393,False
+2,Martin / Mart / Märt,Märten,Other,6,0.0020512820512820513,False
+2,Martin / Mart / Märt,Märtisand,Other,5,0.0017094017094017094,False
+2,Martin / Mart / Märt,mardi,Other,5,0.0017094017094017094,False
+2,Martin / Mart / Märt,mardid,Other,5,0.0017094017094017094,False
+2,Martin / Mart / Märt,pääsuke,Other,5,0.0017094017094017094,False
+2,Martin / Mart / Märt,Mardus,Other,4,0.0013675213675213675,False
+2,Martin / Mart / Märt,Martin,Other,4,0.0013675213675213675,False
+2,Martin / Mart / Märt,Märtisant,Other,4,0.0013675213675213675,False
+2,Martin / Mart / Märt,mardipäev,Other,4,0.0013675213675213675,False
+2,Martin / Mart / Märt,märdisand,Other,4,0.0013675213675213675,False
+2,Martin / Mart / Märt,Mardi (prop.name),Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,Mardisand,Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,Mardisandid,Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,Mardisant,Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,Märdi,Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,sandi,Other,3,0.0010256410256410256,False
+2,Martin / Mart / Märt,Juhanimartin,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,Mard (proper noun),Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,Mardil,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,Mart (proper noun),Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,Märtile,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,Talli-Märt,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,mardisant & mardisandid,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,martinkello,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,märdike,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,märgid,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,märtisand,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,märtisant,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,märtsant,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,sandimardi,Other,2,0.0006837606837606838,False
+2,Martin / Mart / Märt,(proper name),Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Järva-Märt,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Mardike,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Mardile,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Mardipäev,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Mardu,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Marti (proper name),Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Martike,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Martta,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märdikene,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märt/mäger,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märteni,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märtenil,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märti (proper noun),Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Märtike,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Pajumardi,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Sandi-Mardi,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Sepamardi,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Taanun Martti,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,Tasa-Martin,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,kõrsi-Märt,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,magu_kene,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,maja,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mard+sand,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardiema,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardilaps,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardimees,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardipääh,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardisandike,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardiõhtu,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mardmees,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,mart & sand,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,martisand,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,marttiaika,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,märdi,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,märdi+sänd,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,märdisandid,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,märtipäev,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,märts,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,räpäsky,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,sand&mart,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,sandid,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,sandimard,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,sandimart,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,sant,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,tasa & martti,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,tasamartti,Other,1,0.0003418803418803419,False
+2,Martin / Mart / Märt,vana-Märt,Other,1,0.0003418803418803419,False
+3,John / Jaan / Jussi / Hans,Jaan,Jaan,760,0.28368794326241137,True
+3,John / Jaan / Jussi / Hans,Jussi,Jussi,582,0.21724524076147816,True
+3,John / Jaan / Jussi / Hans,Hans,Hans,370,0.13811123553564764,True
+3,John / Jaan / Jussi / Hans,Ants,Ants,234,0.08734602463605823,True
+3,John / Jaan / Jussi / Hans,jaan,jaan,125,0.04665920119447555,True
+3,John / Jaan / Jussi / Hans,jaanike,jaanike,88,0.032848077640910786,True
+3,John / Jaan / Jussi / Hans,Juhan,Juhan,72,0.026875699888017916,True
+3,John / Jaan / Jussi / Hans,Jaani,Jaani,36,0.013437849944008958,True
+3,John / Jaan / Jussi / Hans,Jaanike,Other,34,0.01269130272489735,False
+3,John / Jaan / Jussi / Hans,jaanikene,Other,25,0.00933184023889511,False
+3,John / Jaan / Jussi / Hans,Johannes,Other,16,0.0059723777528928705,False
+3,John / Jaan / Jussi / Hans,jaanilill,Other,15,0.005599104143337066,False
+3,John / Jaan / Jussi / Hans,hansuke,Other,14,0.005225830533781261,False
+3,John / Jaan / Jussi / Hans,Juss,Other,13,0.0048525569242254575,False
+3,John / Jaan / Jussi / Hans,Jaanikene,Other,12,0.004479283314669653,False
+3,John / Jaan / Jussi / Hans,Iivana,Other,11,0.004106009705113848,False
+3,John / Jaan / Jussi / Hans,jaanikann,Other,11,0.004106009705113848,False
+3,John / Jaan / Jussi / Hans,jaanituli,Other,11,0.004106009705113848,False
+3,John / Jaan / Jussi / Hans,kooli-Jaani,Other,11,0.004106009705113848,False
+3,John / Jaan / Jussi / Hans,hans,Other,8,0.0029861888764464353,False
+3,John / Jaan / Jussi / Hans,Juhana,Other,7,0.0026129152668906306,False
+3,John / Jaan / Jussi / Hans,Juhani,Other,7,0.0026129152668906306,False
+3,John / Jaan / Jussi / Hans,Tua-Jaan,Other,6,0.0022396416573348264,False
+3,John / Jaan / Jussi / Hans,jaanuke,Other,5,0.001866368047779022,False
+3,John / Jaan / Jussi / Hans,Antsu,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,Antsuke,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,Jaanituli,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,jaani,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,jaanikuu,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,jaaniõhtu,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,juhannes,Other,4,0.0014930944382232176,False
+3,John / Jaan / Jussi / Hans,Hansuke,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Hansupoeg,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Hants,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Juhanile,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Juhanpoeg,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Toa-Jaan,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,ants,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,hants,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,jaanikivi,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,jaanikutuli,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,jaanipäev,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,kukkojussi,Other,3,0.0011198208286674132,False
+3,John / Jaan / Jussi / Hans,Antsmõisa,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Hansu,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Hansukene,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Harju-Jaani,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Jaan & kann,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Jaanipäev,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Jaanuke,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Joan,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Juhannes,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Jukka,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Jussipussi,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Kolga-Jaani,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,Talli-Jaan,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,antsuke,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,jaanik,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,jaanililled,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,jaaninädal,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,jaanirohi,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,juhanikene,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,talo+jussi,Other,2,0.0007465472191116088,False
+3,John / Jaan / Jussi / Hans,(proper),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Antsu_südamed,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Antsule,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Antsulegi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Aru-Jaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Aru-Jaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Hans+gi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Hans+ke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Hansu+kene,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Hansu+le,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Harju-Jaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaak,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaakko,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaakko & Jaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaan+i,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanideni,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanikaja,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanil,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanile,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanilt,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanukene,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jaanõhtu,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Johannese,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juha,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juhan-Leena,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juhanike,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juhanjussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juhannes (Juhani),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juho,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Julliskoukku,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Juss (modern Estonian equivalent),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussi & mylläri,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussi (name),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussi sanoo,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussiheinä,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussin,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussin kukko,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussinjäkki,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Jussiseta,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Järva-Jaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Järvajaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Kaara-Jaanikene,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Kalmu-Ants,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Karjajaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Kolgajaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Kontjaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Kukko-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Lopo-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Moori-Jaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Papi-Jaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Pudruhansu,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Sipro-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Suure-Jaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Tallijaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Tua-Jaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,Tupakka-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,ala-ants,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hannes,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hannsuke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hans (from Hans) + -ke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hanssi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hansu+ke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hantsuke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,hantsukene,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaani (dial.),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaani&hein,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanik & tuli,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanikaim,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanikiri,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanil,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanilill (St. John's herb),Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanililleke,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanitädi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaaniõis,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jaanõhtu,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jauho/Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,johanneksen,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,johanneksenpäivä,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,juhan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,juottaa-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,jussinjäkki,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kanajaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,korpijussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kota-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kuiva & Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kukk-Ants,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kupari-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,kõrtsijaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,must+ants,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,pihka-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,savi & Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,suutari-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,terva-Jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,terva-jussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,toa+ääre+Juhan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,tuba_jaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,tuhkajuss,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,unijussi,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,vaabijaan,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,vanha/Iivana,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,viinajaani,Other,1,0.0003732736095558044,False
+3,John / Jaan / Jussi / Hans,välja-Hans,Other,1,0.0003732736095558044,False
+4,Catherine / Kadri / Katri,Kadri,Kadri,830,0.3752260397830018,True
+4,Catherine / Kadri / Katri,Katri,Katri,269,0.12160940325497288,True
+4,Catherine / Kadri / Katri,Kaie,Kaie,224,0.10126582278481013,True
+4,Catherine / Kadri / Katri,Kaisa,Kaisa,189,0.08544303797468354,True
+4,Catherine / Kadri / Katri,kadri,kadri,158,0.07142857142857142,True
+4,Catherine / Kadri / Katri,Kati,Kati,92,0.04159132007233273,True
+4,Catherine / Kadri / Katri,kadrik,kadrik,47,0.021247739602169982,True
+4,Catherine / Kadri / Katri,kadrina,kadrina,44,0.019891500904159132,True
+4,Catherine / Kadri / Katri,Kai,Other,41,0.018535262206148283,False
+4,Catherine / Kadri / Katri,Katrina,Other,33,0.014918625678119348,False
+4,Catherine / Kadri / Katri,Katariina,Other,30,0.013562386980108499,False
+4,Catherine / Kadri / Katri,kadrike,Other,26,0.011754068716094032,False
+4,Catherine / Kadri / Katri,kaisa,Other,23,0.010397830018083183,False
+4,Catherine / Kadri / Katri,Katriina,Other,21,0.00949367088607595,False
+4,Catherine / Kadri / Katri,Kadrina,Other,14,0.006329113924050633,False
+4,Catherine / Kadri / Katri,kadr,Other,13,0.005877034358047016,False
+4,Catherine / Kadri / Katri,Kadril,Other,9,0.00406871609403255,False
+4,Catherine / Kadri / Katri,kaie,Other,8,0.003616636528028933,False
+4,Catherine / Kadri / Katri,kaiekene,Other,8,0.003616636528028933,False
+4,Catherine / Kadri / Katri,kadrisandid,Other,7,0.0031645569620253164,False
+4,Catherine / Kadri / Katri,kadripäev,Other,6,0.0027124773960217,False
+4,Catherine / Kadri / Katri,kai,Other,6,0.0027124773960217,False
+4,Catherine / Kadri / Katri,varduga Kaie,Other,6,0.0027124773960217,False
+4,Catherine / Kadri / Katri,Kadrike,Other,5,0.0022603978300180833,False
+4,Catherine / Kadri / Katri,kadrikene,Other,5,0.0022603978300180833,False
+4,Catherine / Kadri / Katri,Kadri & Udri,Other,4,0.0018083182640144665,False
+4,Catherine / Kadri / Katri,kadrisand,Other,4,0.0018083182640144665,False
+4,Catherine / Kadri / Katri,katri,Other,4,0.0018083182640144665,False
+4,Catherine / Kadri / Katri,Kadrisandid,Other,3,0.00135623869801085,False
+4,Catherine / Kadri / Katri,Kadrisant,Other,3,0.00135623869801085,False
+4,Catherine / Kadri / Katri,kadrisant,Other,3,0.00135623869801085,False
+4,Catherine / Kadri / Katri,katrina,Other,3,0.00135623869801085,False
+4,Catherine / Kadri / Katri,Kaarina,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kadrile,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kaia,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kaieken,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kaisa+pa,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kaisa-Liisa,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Kaiuke,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,Katti,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,kadril,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,kadrile,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,katrinainen,Other,2,0.0009041591320072332,False
+4,Catherine / Kadri / Katri,(proper noun),Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadri sukk,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadri sõnad,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadri&kene,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadri_päev,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrik,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrikari,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrikarja,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrikese,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrisaadik,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrisand,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kadrivarbad,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,"Kadunud tekstist', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', 'kõrge', '",Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaie+kene,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaie-l,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaiekene,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaiel,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaisa-kin,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaisan,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaisastiina,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kaisojen,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Karppi-Kaisa,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kateriina,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Katina,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Katri & sand,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Katri & sisar,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Katrinen,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Katrna,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Kuppula-Kaisa,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Laurin Kaisa,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,Tuku-Kati,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,[refrain],Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadrikeisa,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadriköis,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadrilaps,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadrinad,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadrisaadik,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadriõhtu,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kadriõnn,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kaebama,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kaie+ke,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kaja/kai,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kappa-Kaisa,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kati/kaati,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,katikukka,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,katinkukka,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,katriina,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,katrisäänd,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kudriskadris,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,kõrtsikadri,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,saadik,Other,1,0.0004520795660036166,False
+4,Catherine / Kadri / Katri,siidi-Kadri,Other,1,0.0004520795660036166,False
+5,Jesus / Christ,Jeesus,Jeesus,1622,0.7523191094619666,True
+5,Jesus / Christ,Jesus,Jesus,251,0.11641929499072357,True
+5,Jesus / Christ,Kristus,Kristus,194,0.08998144712430427,True
+5,Jesus / Christ,Jeesuksen,Jeesuksen,16,0.0074211502782931356,True
+5,Jesus / Christ,Kiesus,Kiesus,11,0.00510204081632653,True
+5,Jesus / Christ,Jeesukene,Jeesukene,10,0.00463821892393321,True
+5,Jesus / Christ,(proper noun),(proper noun),7,0.003246753246753247,True
+5,Jesus / Christ,Jeesuke,Jeesuke,6,0.0027829313543599257,True
+5,Jesus / Christ,Jeesuse,Other,4,0.0018552875695732839,False
+5,Jesus / Christ,hristos,Other,3,0.0013914656771799629,False
+5,Jesus / Christ,Eesuke,Other,2,0.0009276437847866419,False
+5,Jesus / Christ,Jeesu,Other,2,0.0009276437847866419,False
+5,Jesus / Christ,Jeesusesse,Other,2,0.0009276437847866419,False
+5,Jesus / Christ,Kristian,Other,2,0.0009276437847866419,False
+5,Jesus / Christ,Antti & Kristus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Eesus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Hristos,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Hristos (Russian),Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Iesus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Isus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Jeesu_kene,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Jeesukselta,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Jeesus & vija,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Jeesusikene,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Jumala,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kiesuksen,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kiesus (proper noun),Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kiesus-ni,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kristo,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kristos,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kristus & raati,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Kristus (loanword),Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Raamattu & Kristus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,Ristus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,jeesus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,jesus,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,kristittyjen maa,Other,1,0.00046382189239332097,False
+5,Jesus / Christ,kristuksen,Other,1,0.00046382189239332097,False
+6,Anna / Anne / Ann / Anni,Anne,Anne,642,0.29874360167519776,True
+6,Anna / Anne / Ann / Anni,Anni,Anni,467,0.21731037691949745,True
+6,Anna / Anne / Ann / Anni,Ann,Ann,400,0.18613308515588645,True
+6,Anna / Anne / Ann / Anni,Anna,Anna,280,0.13029315960912052,True
+6,Anna / Anne / Ann / Anni,anne,anne,48,0.022335970218706376,True
+6,Anna / Anne / Ann / Anni,Anu,Anu,35,0.016286644951140065,True
+6,Anna / Anne / Ann / Anni,anneke,anneke,24,0.011167985109353188,True
+6,Anna / Anne / Ann / Anni,anni,anni,19,0.008841321544904607,True
+6,Anna / Anne / Ann / Anni,Annekene,Other,18,0.00837598883201489,False
+6,Anna / Anne / Ann / Anni,Anneke,Other,15,0.006979990693345742,False
+6,Anna / Anne / Ann / Anni,Annukene,Other,14,0.006514657980456026,False
+6,Anna / Anne / Ann / Anni,Annuke,Other,12,0.005583992554676594,False
+6,Anna / Anne / Ann / Anni,antaa,Other,12,0.005583992554676594,False
+6,Anna / Anne / Ann / Anni,Annike,Other,9,0.004187994416007445,False
+6,Anna / Anne / Ann / Anni,annekene,Other,8,0.0037226617031177293,False
+6,Anna / Anne / Ann / Anni,Annake,Other,7,0.003257328990228013,False
+6,Anna / Anne / Ann / Anni,Annolle,Other,7,0.003257328990228013,False
+6,Anna / Anne / Ann / Anni,Annin,Other,6,0.002791996277338297,False
+6,Anna / Anne / Ann / Anni,andma,Other,5,0.002326663564448581,False
+6,Anna / Anne / Ann / Anni,annukene,Other,5,0.002326663564448581,False
+6,Anna / Anne / Ann / Anni,Annakene,Other,4,0.0018613308515588647,False
+6,Anna / Anne / Ann / Anni,Annikki,Other,4,0.0018613308515588647,False
+6,Anna / Anne / Ann / Anni,ann,Other,4,0.0018613308515588647,False
+6,Anna / Anne / Ann / Anni,Annille,Other,3,0.0013959981386691485,False
+6,Anna / Anne / Ann / Anni,anu,Other,3,0.0013959981386691485,False
+6,Anna / Anne / Ann / Anni,Ann&kene,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anna (name),Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anna/and,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anna/andma,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anna/hänen,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Annan,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Annat,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anne+kene,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Annekese,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Annel,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anni-ainutkertainen,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,Anni-kin,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,andma/Anna,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,anna+kene,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,annake,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,annakene,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,anne & kene,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,anne (name),Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,anneteke,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,annetütar,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,annivakk,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,anta-,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,antaa/Anni,Other,2,0.0009306654257794323,False
+6,Anna / Anne / Ann / Anni,And/Anne,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anike (proper noun),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anikka,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Ann/and,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anna & piika,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anna (gen),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anna / antaa,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anna-Riitta,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annapää,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annastiina,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anne & -ke,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anne (name),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anne-l,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anne_sidu,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anneke(ne),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annekõne,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anni & Eeva,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anni (diminutive),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anni+neito,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anni+neitsyt,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anni-Kaija,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annikainen,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annikka (hypocoristic),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annile,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annineito,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anninen,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annsüda,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Annukainen,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Anuke,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Kallen Anna,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Laati-Anna,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Muki-Ann,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Ristiina,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Tua-Ann,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,aani,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,annanpäivä,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anne+kene,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anne-kõne,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anneken,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,annekesekene,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,annetütreke,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anninmaja,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,annu,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,annuke,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anoa,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,anu (proper noun),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,hane,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,hanhi (goose?),Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,kyyräanni,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,vellianna,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Änni,Other,1,0.00046533271288971617,False
+6,Anna / Anne / Ann / Anni,Ännä (proper noun),Other,1,0.00046533271288971617,False
+7,Peter / Pietari / Peeter,Pietari,Pietari,595,0.36637931034482757,True
+7,Peter / Pietari / Peeter,Peeter,Peeter,405,0.24938423645320196,True
+7,Peter / Pietari / Peeter,Pekka,Pekka,331,0.20381773399014777,True
+7,Peter / Pietari / Peeter,Petteri,Petteri,64,0.03940886699507389,True
+7,Peter / Pietari / Peeter,Petri,Petri,30,0.01847290640394089,True
+7,Peter / Pietari / Peeter,Peetrus,Peetrus,29,0.017857142857142856,True
+7,Peter / Pietari / Peeter,Pekko,Pekko,26,0.01600985221674877,True
+7,Peter / Pietari / Peeter,Petra,Petra,7,0.004310344827586207,True
+7,Peter / Pietari / Peeter,Pietarinpoika,Other,7,0.004310344827586207,False
+7,Peter / Pietari / Peeter,Pedri,Other,6,0.003694581280788177,False
+7,Peter / Pietari / Peeter,Pietarin,Other,6,0.003694581280788177,False
+7,Peter / Pietari / Peeter,Piiter,Other,6,0.003694581280788177,False
+7,Peter / Pietari / Peeter,Peetri,Other,5,0.003078817733990148,False
+7,Peter / Pietari / Peeter,peeter,Other,5,0.003078817733990148,False
+7,Peter / Pietari / Peeter,pietarinpoika,Other,5,0.003078817733990148,False
+7,Peter / Pietari / Peeter,pikipöksypietari,Other,5,0.003078817733990148,False
+7,Peter / Pietari / Peeter,pitkäpietari,Other,5,0.003078817733990148,False
+7,Peter / Pietari / Peeter,Perttu,Other,3,0.0018472906403940886,False
+7,Peter / Pietari / Peeter,Piitre,Other,3,0.0018472906403940886,False
+7,Peter / Pietari / Peeter,pikipietari,Other,3,0.0018472906403940886,False
+7,Peter / Pietari / Peeter,pätöpekka,Other,3,0.0018472906403940886,False
+7,Peter / Pietari / Peeter,Pekko (proper noun),Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,Petro,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,Petter,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,Pietarista,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,pekko,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,petraluu,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,piitrekene,Other,2,0.0012315270935960591,False
+7,Peter / Pietari / Peeter,(retained),Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,*Petteri,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Juurikka-Pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Kosose-Pekko,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Liiva-Peeter,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Peetri sõel,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Peetriga,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Peetrikene,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Peetrikõne,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Peetripurk,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekka & poika,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekka-poika,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekka-retku,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekka/pekko,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekkanen,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekko (archaic/dialectal),Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pekko-Pietar,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Perttuli,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Petraluu (compound),Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Petrus,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Petteri & luu,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Petterille,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pietarin päivä,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pietarinkukka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pieter,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Piiteririie,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pikipietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pitkä-Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Pyhä Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Sonkula-Pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,Ystävä-Pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,liiva&Peeter,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,paimen&Pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,patapekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,peedil,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,peetri,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,peetri_kene,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,peetrike,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,peetrikene,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pekaran+soo,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pekon,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pellonpekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,petralaukka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,petteri,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pieni poika & Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pietarinkukka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pietarinmolainen,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pietarinprutki,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,piiter,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,piki & pöksy & Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,piki&pöksy&Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,piki-Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pikipoika & Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pikipoksypietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pikisuu-Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pikku pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pikku-Pekka,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,pitkä & Pietari,Other,1,0.0006157635467980296,False
+7,Peter / Pietari / Peeter,puoti & Pekka,Other,1,0.0006157635467980296,False
+8,Väinämöinen,Väinämöinen,Väinämöinen,1069,0.8614020950846092,True
+8,Väinämöinen,Väinö,Väinö,109,0.08783239323126511,True
+8,Väinämöinen,Väinämöisen,Väinämöisen,9,0.007252215954875101,True
+8,Väinämöinen,väinö,väinö,8,0.0064464141821112,True
+8,Väinämöinen,(as above),(as above),7,0.0056406124093473006,True
+8,Väinämöinen,väinä & möö,väinä & möö,5,0.0040290088638195,True
+8,Väinämöinen,väinämöinen,väinämöinen,5,0.0040290088638195,True
+8,Väinämöinen,Väinämö,Väinämö,4,0.0032232070910556,True
+8,Väinämöinen,Väinön,Other,3,0.0024174053182917004,False
+8,Väinämöinen,Wäinämöinen,Other,3,0.0024174053182917004,False
+8,Väinämöinen,Väinämöisen seinä,Other,2,0.0016116035455278,False
+8,Väinämöinen,Väinö & poika,Other,2,0.0016116035455278,False
+8,Väinämöinen,(proper noun),Other,1,0.0008058017727639,False
+8,Väinämöinen,Vaino,Other,1,0.0008058017727639,False
+8,Väinämöinen,Vainonpirttö,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinämöinen+llä,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinämöisellä,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinämöistä,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinö & mies,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinö & viikate,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinö/väinä,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinöjärvi,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinölä,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinön poika,Other,1,0.0008058017727639,False
+8,Väinämöinen,Väinönmeri,Other,1,0.0008058017727639,False
+8,Väinämöinen,väin & verran,Other,1,0.0008058017727639,False
+8,Väinämöinen,väinäättäri,Other,1,0.0008058017727639,False
+9,Ilmarinen,Ilmarinen,Ilmarinen,257,0.8831615120274914,True
+9,Ilmarinen,Ilmari,Ilmari,21,0.07216494845360824,True
+9,Ilmarinen,(as above),(as above),3,0.010309278350515464,True
+9,Ilmarinen,Ilmar,Ilmar,3,0.010309278350515464,True
+9,Ilmarinen,Ilmari & isä,Ilmari & isä,3,0.010309278350515464,True
+9,Ilmarinen,(prop.name),Other,1,0.003436426116838488,False
+9,Ilmarinen,Ilja,Ilja,1,0.003436426116838488,True
+9,Ilmarinen,Ilmarinen & itkeä,Ilmarinen & itkeä,1,0.003436426116838488,True
+9,Ilmarinen,Ilmarinta,Ilmarinta,1,0.003436426116838488,True
+10,Lemminkäinen,Lemminkäinen,Lemminkäinen,215,0.7413793103448276,True
+10,Lemminkäinen,Lemmingäinen,Lemmingäinen,27,0.09310344827586207,True
+10,Lemminkäinen,Lemming,Lemming,12,0.041379310344827586,True
+10,Lemminkäinen,sopuli,sopuli,8,0.027586206896551724,True
+10,Lemminkäinen,lemminkäinen,lemminkäinen,5,0.017241379310344827,True
+10,Lemminkäinen,Lemminkäistä,Lemminkäistä,4,0.013793103448275862,True
+10,Lemminkäinen,lemmingäistä,lemmingäistä,3,0.010344827586206896,True
+10,Lemminkäinen,lempi & -inen,lempi & -inen,3,0.010344827586206896,True
+10,Lemminkäinen,(proper name),Other,2,0.006896551724137931,False
+10,Lemminkäinen,Lemminkäisen,Other,2,0.006896551724137931,False
+10,Lemminkäinen,Lämminkäinen,Other,2,0.006896551724137931,False
+10,Lemminkäinen,lemmingäinen,Other,2,0.006896551724137931,False
+10,Lemminkäinen,lemmingäisen,Other,2,0.006896551724137931,False
+10,Lemminkäinen,lemminkäistä,Other,2,0.006896551724137931,False
+10,Lemminkäinen,(proper noun),Other,1,0.0034482758620689655,False

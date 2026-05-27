@@ -1,0 +1,262 @@
+area_name,macroRegion,langLabel,proper_name_mentions,n_groups,cluster,membership_confidence
+Alatornio,Finland/Savo-Karelia,Finnish,17,5,1,0.9995476915725071
+Alavus,Finland/Savo-Karelia,Finnish,14,4,1,0.9999616872858003
+Ambla,Estonia core/west,North Estonian,190,7,2,0.9999978472076352
+Anseküla,Estonia core/west,North Estonian,12,4,2,0.9995563794387063
+Asikkala,Finland/Savo-Karelia,Finnish,28,6,1,0.9999194593706527
+Audru,Estonia core/west,North Estonian,147,6,2,0.9999999353211079
+Eno,Finland/Savo-Karelia,Finnish,18,6,1,0.9602058920282687
+Haljala,Estonia core/west,North Estonian,285,8,2,0.9999999745615739
+Halliste,Estonia core/west,South Estonian,383,7,2,0.9999999811617919
+Hanila,Estonia core/west,North Estonian,44,7,2,0.999998274146688
+Hargla,South Estonia/Seto,South Estonian,21,6,2,0.9975322279851908
+Harju-Jaani,Estonia core/west,North Estonian,100,7,2,0.9999634273114341
+Harju-Madise,Estonia core/west,North Estonian,14,4,2,0.9999998891032112
+Hartola,Finland/Savo-Karelia,Finnish,14,5,1,0.9997277177523922
+Hattula,Finland/Savo-Karelia,Finnish,43,5,1,0.9999909592589842
+Hauho,Finland/Savo-Karelia,Finnish,18,4,1,0.9965330595209294
+Heinjoki,Finland/Savo-Karelia,Finnish,14,4,1,0.9997191648952916
+Heinävesi,Finland/Savo-Karelia,Finnish,43,5,1,0.9999999427278853
+Helme,Estonia core/west,South Estonian,447,7,2,0.9999999811617919
+Hietamäki,Ingria,Finnish,26,8,1,0.9999996780640273
+Hollola,Finland/Savo-Karelia,Finnish,13,5,1,0.9999965430361285
+Hämeenlinna,Finland/Savo-Karelia,Finnish,24,5,1,0.9999965430361285
+Häädemeeste,Estonia core/west,North Estonian,113,7,2,0.9999999989929158
+Iisaku,Estonia core/west,North Estonian,36,6,2,0.9999992187043928
+Iisalmi,Finland/Savo-Karelia,Finnish,31,7,1,0.9999966210295161
+Ilomantsi,Finland/Savo-Karelia,Finnish,424,9,1,0.9999997780025807
+Impilahti,East Karelia/Veps/Tver,Livvi-Karelian,92,7,2,0.990135356908786
+Isojoki,Finland/Savo-Karelia,Finnish,11,4,1,0.9965330595209294
+Jaakkima,Finland/Savo-Karelia,Finnish,13,5,1,0.7115536286909334
+Jaani,Estonia core/west,North Estonian,11,4,2,0.8967564402121041
+Jalasjärvi,Finland/Savo-Karelia,Finnish,12,4,1,0.9965330595209294
+Janakkala,Finland/Savo-Karelia,Finnish,15,4,1,0.9934040723286671
+Joroinen,Finland/Savo-Karelia,Finnish,42,8,1,0.9999994737832444
+Juuka,Finland/Savo-Karelia,Finnish,19,6,1,0.9998574989832123
+Juuru,Estonia core/west,North Estonian,39,6,2,0.9999442655307637
+Juva,Finland/Savo-Karelia,Finnish,75,8,1,0.9999522207568577
+Jällivaara,Finland/Savo-Karelia,Tornedalen Finnish,13,5,1,0.9994605106634494
+Järva-Jaani,Estonia core/west,North Estonian,65,7,2,0.9999956576103177
+Järva-Madise,Estonia core/west,North Estonian,63,6,2,0.999999999355965
+Jõelähtme,Estonia core/west,North Estonian,56,7,2,0.9057666121421621
+Jõhvi,Estonia core/west,North Estonian,151,7,2,0.999858135203828
+Jüri,Estonia core/west,North Estonian,55,7,2,0.9999516840352038
+Kaarma,Estonia core/west,North Estonian,33,6,2,0.9998430559783077
+Kaavi,Finland/Savo-Karelia,Finnish,40,8,1,0.9999994737832444
+Kadrina,Estonia core/west,North Estonian,210,7,2,0.9999997015624161
+Kalajoki,Finland/Savo-Karelia,Finnish,30,5,1,0.9999238235216653
+Kambja,Estonia core/west,South Estonian,26,6,2,0.9999999943819242
+Kanepi,South Estonia/Seto,South Estonian,37,6,2,0.9999580217019024
+Kangaslampi,Finland/Savo-Karelia,Finnish,10,5,1,0.9999980177731724
+Kangasniemi,Finland/Savo-Karelia,Finnish,29,8,1,0.9999975829734209
+Kankaanpää,Finland/Savo-Karelia,Finnish,11,4,2,0.6352125132312114
+Kaprio,Ingria,Finnish,111,9,1,0.9999994585715455
+Karja,Estonia core/west,North Estonian,28,4,2,0.9934969855097465
+Karksi,Estonia core/west,South Estonian,396,7,2,0.9999999657014881
+Karula,South Estonia/Seto,South Estonian,100,6,2,0.9999997148063524
+Karuna,Finland/Savo-Karelia,Finnish,10,4,1,0.9999907054997716
+Karuse,Estonia core/west,North Estonian,166,6,2,0.999999998969531
+Kattila,Ingria,Votic,21,5,1,0.784477675681295
+Kauhava,Finland/Savo-Karelia,Finnish,25,6,1,0.9993051029103089
+Keila,Estonia core/west,North Estonian,16,5,2,0.9999623746854774
+Keltto,Ingria,Finnish,10,5,1,0.972089230315265
+Kemi,Finland/Savo-Karelia,Finnish,13,4,1,0.9965330595209294
+Kerimäki,Finland/Savo-Karelia,Finnish,22,8,1,0.9999994737832444
+Kestilä,Finland/Savo-Karelia,Finnish,13,6,1,0.9998407200543369
+Kesälahti,Finland/Savo-Karelia,Finnish,57,6,1,0.9877510341507203
+Kiestinki,East Karelia/Veps/Tver,Karelian Proper,27,5,1,0.7102209713803772
+Kiihtelysvaara,Finland/Savo-Karelia,Finnish,28,7,1,0.9999533567874046
+Kiimaisjärvi,East Karelia/Veps/Tver,Karelian Proper,32,4,1,0.9741994647545708
+Kitee,Finland/Savo-Karelia,Finnish,130,8,1,0.9999522207568577
+Kittilä,Finland/Savo-Karelia,Finnish,11,4,1,0.9984610130965988
+Kiuruvesi,Finland/Savo-Karelia,Finnish,52,8,1,0.9999995597094041
+Kivennapa,Finland/Savo-Karelia,Finnish,34,6,1,0.9999856147653478
+Kivijärvi,Finland/Savo-Karelia,Finnish,19,7,1,0.9999991718429594
+Kodavere,Estonia core/west,North Estonian,96,8,2,0.999999996842555
+Koeru,Estonia core/west,North Estonian,159,8,2,0.9999999831672649
+Koivisto,Finland/Savo-Karelia,Finnish,36,6,1,0.9999966284846252
+Kolga-Jaani,Estonia core/west,North Estonian,217,7,2,0.9999991868295723
+Kontiolahti,Finland/Savo-Karelia,Finnish,37,8,1,0.9999980052734432
+Kontokki,East Karelia/Veps/Tver,Karelian Proper,54,8,1,0.9996433670898907
+Koprina,Ingria,Finnish,46,6,1,0.9999999920491511
+Korpilahti,Finland/Savo-Karelia,Finnish,18,5,1,0.9999954047262786
+Korpiselkä,East Karelia/Veps/Tver,Karelian Proper,160,9,1,0.9999998373870048
+Kose,Estonia core/west,North Estonian,160,6,2,0.999999935836667
+Kuhmo,Finland/Savo-Karelia,Finnish,22,8,1,0.9999999865360928
+Kuhmoinen,Finland/Savo-Karelia,Finnish,24,6,1,0.9991726833679483
+Kullamaa,Estonia core/west,North Estonian,38,6,2,0.9999999663698494
+Kuopio,Finland/Savo-Karelia,Finnish,22,7,1,0.9999999503963058
+Kupanitsa,Ingria,Finnish,32,6,1,0.9994008356013815
+Kurikka,Finland/Savo-Karelia,Finnish,12,5,1,0.9999238235216653
+Kursi,Estonia core/west,North Estonian,38,6,2,0.9993809665437793
+Kuusalu,Estonia core/west,North Estonian,210,8,2,0.9999999976935818
+Kuusamo,Finland/Savo-Karelia,Finnish,28,6,1,0.999994927526968
+Käina,Estonia core/west,North Estonian,20,6,2,0.999999556777127
+Kärla,Estonia core/west,North Estonian,12,5,2,0.9999991779071125
+Kõpu,Estonia core/west,North Estonian,63,7,2,0.9999999970121172
+Laihia,Finland/Savo-Karelia,Finnish,18,5,1,0.9987077119108632
+Laiuse,Estonia core/west,North Estonian,108,7,2,0.9999320525011036
+Lapinlahti,Finland/Savo-Karelia,Finnish,17,5,1,0.9999875730617925
+Lappee,Finland/Savo-Karelia,Finnish,15,7,1,0.9999989791191524
+Lavansaari,Finland/Savo-Karelia,Finnish,13,6,1,0.9995898186044695
+Lemi,Finland/Savo-Karelia,Finnish,15,4,1,0.9122374284492726
+Lempaala,Finland/Savo-Karelia,Finnish,152,9,1,0.9999994585715455
+Leppävirta,Finland/Savo-Karelia,Finnish,32,6,1,0.9999999843165571
+Liissilä,Ingria,Finnish,68,8,1,0.9999842537627495
+Liperi,Finland/Savo-Karelia,Finnish,34,7,1,0.9999946369031015
+Loppi,Finland/Savo-Karelia,Finnish,21,7,1,0.999996894324062
+Luumäki,Finland/Savo-Karelia,Finnish,14,5,1,0.9999941934728626
+Lääne-Nigula,Estonia core/west,North Estonian,14,6,2,0.9999998503871345
+Lüganuse,Estonia core/west,North Estonian,46,7,2,0.9999264363088114
+Maaninka,Finland/Savo-Karelia,Finnish,24,8,1,0.9999996774873474
+Maarja-Magdaleena,Estonia core/west,North Estonian,78,7,2,0.9999991868295723
+Markkova,Ingria,Finnish,11,4,2,0.607328886398159
+Martna,Estonia core/west,North Estonian,25,4,1,0.6011918089704116
+Metsäpirtti,Finland/Savo-Karelia,Finnish,42,9,1,0.9999907112792579
+Mihkli,Estonia core/west,North Estonian,48,4,2,0.9999994336856752
+Moloskovitsa,Ingria,Finnish,56,7,1,0.9999972811271203
+Muhos,Finland/Savo-Karelia,Finnish,12,7,1,0.999999671296356
+Muhu,Estonia core/west,North Estonian,101,6,2,0.999955204731764
+Muolaa,Finland/Savo-Karelia,Finnish,20,5,1,0.996902658881908
+Mustjala,Estonia core/west,North Estonian,27,6,2,0.9999999999025455
+Muurla,Finland/Savo-Karelia,Finnish,27,4,1,0.9965330595209294
+Muuruvesi,Finland/Savo-Karelia,Finnish,10,5,1,0.9992174804383965
+Mynämäki,Finland/Savo-Karelia,Finnish,11,4,1,0.9999438237250236
+Mäntsälä,Finland/Savo-Karelia,Finnish,12,4,1,0.9999907054997716
+Mäntyharju,Finland/Savo-Karelia,Finnish,23,8,1,0.9999999945982108
+Märjamaa,Estonia core/west,North Estonian,75,6,2,0.9999999972486657
+Narvusi,Ingria,Ingrian,594,9,1,0.9999787875956958
+Nilsiä,Finland/Savo-Karelia,Finnish,35,7,1,0.9999997070045693
+Nurmes,Finland/Savo-Karelia,Finnish,86,9,1,0.9999999957293983
+Nõo,Estonia core/west,South Estonian,33,5,2,0.9999999806262594
+Orimattila,Finland/Savo-Karelia,Finnish,15,6,1,0.9999968071521489
+Otepää,Estonia core/west,South Estonian,42,5,2,0.9997888663781748
+Oulu,Finland/Savo-Karelia,Finnish,12,6,1,0.9999901110114292
+Paide,Estonia core/west,North Estonian,54,5,2,0.9999852583485888
+Paistu,Estonia core/west,South Estonian,428,7,2,0.99920077894912
+Palamuse,Estonia core/west,North Estonian,148,7,2,0.9999998224612348
+Paltamo,Finland/Savo-Karelia,Finnish,29,8,1,0.9997376633868842
+Peetri,Estonia core/west,North Estonian,183,6,2,0.9999957711889157
+Perho,Finland/Savo-Karelia,Finnish,10,5,1,0.9999757289425857
+Perniö,Finland/Savo-Karelia,Finnish,10,6,1,0.9898280822778264
+Pieksämäki,Finland/Savo-Karelia,Finnish,20,6,1,0.9999920516616437
+Pielavesi,Finland/Savo-Karelia,Finnish,61,8,1,0.9999987432422183
+Pielisjärvi,Finland/Savo-Karelia,Finnish,38,8,1,0.9999999884750449
+Piippola,Finland/Savo-Karelia,Finnish,12,4,1,0.9189661736423627
+Pilistvere,Estonia core/west,North Estonian,144,7,2,0.9990024367747716
+Pistojärvi,East Karelia/Veps/Tver,Karelian Proper,13,5,1,0.9998032392689901
+Porajärvi,East Karelia/Veps/Tver,Karelian Proper,102,7,1,0.9999991154076064
+Pudasjärvi,Finland/Savo-Karelia,Finnish,22,7,1,0.9999568762783113
+Puhja,Estonia core/west,South Estonian,64,7,2,0.9992610510399188
+Puolanka,Finland/Savo-Karelia,Finnish,15,7,1,0.9999735881980486
+Puumala,Finland/Savo-Karelia,Finnish,21,5,2,0.5248886704701219
+Pyhäjärvi Ol.,Finland/Savo-Karelia,Finnish,12,6,1,0.9999923702997939
+Pyhäjärvi Ul.,Finland/Savo-Karelia,Finnish,15,5,1,0.9999909592589842
+Pyhäjärvi Vpl.,Finland/Savo-Karelia,Finnish,27,7,1,0.9999987523018911
+Pälkjärvi,Finland/Savo-Karelia,Finnish,16,5,1,0.9994605106634494
+Pärnu,Estonia core/west,North Estonian,105,6,2,0.9999989112035278
+Pärnu-Jaagupi,Estonia core/west,North Estonian,123,7,2,0.9999999989929158
+Põltsamaa,Estonia core/west,North Estonian,185,7,2,0.99999998139218
+Põlva,South Estonia/Seto,South Estonian,64,7,2,0.9999999890245058
+Pöide,Estonia core/west,North Estonian,76,8,2,0.9999998160460484
+Pöytyä,Finland/Savo-Karelia,Finnish,18,4,1,0.9999237305535343
+Pühalepa,Estonia core/west,North Estonian,37,7,2,0.9999803311813293
+Rakvere,Estonia core/west,North Estonian,30,5,2,0.9999988488214173
+Rannu,Estonia core/west,South Estonian,43,7,2,0.9999999076877246
+Ranua,Finland/Savo-Karelia,Finnish,21,4,1,0.999777408191249
+Rapla,Estonia core/west,North Estonian,56,5,2,0.9999999970910292
+Rautavaara,Finland/Savo-Karelia,Finnish,23,6,1,0.7896773253011198
+Reigi,Estonia core/west,North Estonian,12,5,2,0.999976791305258
+Renko,Finland/Savo-Karelia,Finnish,14,5,1,0.9994605106634494
+Repola,East Karelia/Veps/Tver,Karelian Proper,125,7,1,0.9999196836768832
+Ridala,Estonia core/west,North Estonian,29,4,2,0.9998832372161304
+Risti,Estonia core/west,North Estonian,118,7,2,0.999995755397086
+Rovaniemi,Finland/Savo-Karelia,Finnish,27,6,1,0.9997996362219722
+Ruovesi,Finland/Savo-Karelia,Finnish,13,4,1,0.9994665694989778
+Räisälä,Finland/Savo-Karelia,Finnish,13,6,1,0.9999983828255028
+Räpina,South Estonia/Seto,South Estonian,184,7,2,0.9999685744517078
+Rääkkylä,Finland/Savo-Karelia,Finnish,39,6,1,0.9993051029103089
+Rääpyvä,Ingria,Finnish,15,5,1,0.8057149003504605
+Rõngu,Estonia core/west,South Estonian,111,7,2,0.9999999811617919
+Rõuge,South Estonia/Seto,South Estonian,82,6,2,0.9999557988884276
+Saarde,Estonia core/west,North Estonian,141,6,2,0.9999999302562868
+Saarijärvi,Finland/Savo-Karelia,Finnish,72,9,1,0.9999999109334778
+Sakkola,Finland/Savo-Karelia,Finnish,36,7,1,0.9999999503963058
+Salmi,East Karelia/Veps/Tver,Livvi-Karelian,111,8,1,0.9999843271382544
+Sangaste,Estonia core/west,South Estonian,120,7,2,0.9999901397607036
+Sauvo,Finland/Savo-Karelia,Finnish,11,5,1,0.999935333817901
+Savitaipale,Finland/Savo-Karelia,Finnish,14,6,1,0.9856886164747428
+Savonlinna,Finland/Savo-Karelia,Finnish,14,4,1,0.999994122239256
+Seiskari,Finland/Savo-Karelia,Finnish,12,4,1,0.990613793567628
+Serepetta,Ingria,Finnish,39,7,1,0.9679153226152538
+Setumaa,South Estonia/Seto,South Estonian,333,7,2,0.9982824890499423
+Simo,Finland/Savo-Karelia,Finnish,12,5,1,0.9999999004336019
+Simuna,Estonia core/west,North Estonian,126,7,2,0.9999999758845591
+Skuoritsa,Ingria,Finnish,16,4,1,0.9997803774888521
+Soanlahti,East Karelia/Veps/Tver,Finnish,54,8,1,0.9997377676844621
+Sodankylä,Finland/Savo-Karelia,Finnish,16,5,1,0.9736935218112447
+Soikkola,Ingria,Ingrian,253,9,1,0.9996301736864254
+Somerniemi,Finland/Savo-Karelia,Finnish,10,5,1,0.950809046065209
+Somero,Finland/Savo-Karelia,Finnish,23,5,1,0.9999774663440886
+Sonkajärvi,Finland/Savo-Karelia,Finnish,28,7,1,0.999999749904217
+Sortavala,East Karelia/Veps/Tver,Finnish,49,8,1,0.9999771637187584
+Sotkamo,Finland/Savo-Karelia,Finnish,35,7,1,0.9999985851903171
+Soutjärvi,East Karelia/Veps/Tver,Veps,10,6,2,0.8586232045402148
+Suistamo,East Karelia/Veps/Tver,Livvi-Karelian,641,9,1,0.9999998373870048
+Suojärvi,East Karelia/Veps/Tver,Finnish,345,8,1,0.9999781172067481
+Suomussalmi,Finland/Savo-Karelia,Finnish,22,8,1,0.9999999780320714
+Suonenjoki,Finland/Savo-Karelia,Finnish,19,7,1,0.9999985851903171
+Suure-Jaani,Estonia core/west,North Estonian,268,7,2,0.9999472856132927
+Sysmä,Finland/Savo-Karelia,Finnish,12,4,1,0.9992649255669636
+Sääksmäki,Finland/Savo-Karelia,Finnish,38,5,1,0.9943690824681355
+Tammela,Finland/Savo-Karelia,Finnish,44,5,1,0.9987077119108632
+Tampere,Finland/Savo-Karelia,Finnish,12,5,1,0.9999803958447865
+Tartu-Maarja,Estonia core/west,South Estonian,41,6,2,0.9999999982483372
+Tarvastu,Estonia core/west,South Estonian,365,7,2,0.9999997241349295
+Terijoki,Finland/Savo-Karelia,Finnish,15,6,1,0.9999938607921274
+Tervo,Finland/Savo-Karelia,Finnish,15,7,1,0.9999971267420427
+Tervola,Finland/Savo-Karelia,Finnish,10,4,2,0.6352125132312114
+Tohmajärvi,Finland/Savo-Karelia,Finnish,55,8,1,0.9999999839085044
+Toksova,Ingria,Finnish,40,8,1,0.9999271437841352
+Tori,Estonia core/west,North Estonian,176,7,2,0.9999999654258961
+Torma,Estonia core/west,North Estonian,249,6,2,0.9999530031115957
+Tulemajärvi,East Karelia/Veps/Tver,Livvi-Karelian,75,7,1,0.9999196836768832
+Turku,Finland/Savo-Karelia,Finnish,12,5,2,0.7549545394661271
+Tuulos,Finland/Savo-Karelia,Finnish,13,4,1,0.9965330595209294
+Tuupovaara,Finland/Savo-Karelia,Finnish,32,7,1,0.9977506573522779
+Tuusniemi,Finland/Savo-Karelia,Finnish,14,4,1,0.9992294337611636
+Tyrvää,Finland/Savo-Karelia,Finnish,23,7,1,0.9999484607754582
+Tyrö,Ingria,Finnish,98,8,1,0.999982282858809
+Tõstamaa,Estonia core/west,North Estonian,105,7,2,0.9999999991327675
+Töysä,Finland/Savo-Karelia,Finnish,23,5,1,0.9994605106634494
+Türi,Estonia core/west,North Estonian,88,7,2,0.9999999994298339
+Uhtua,East Karelia/Veps/Tver,Karelian Proper,45,9,1,0.9999999975551463
+Urvaste,South Estonia/Seto,South Estonian,195,7,2,0.9999999793605101
+Uskela,Finland/Savo-Karelia,Finnish,56,6,1,0.999999519439406
+Uukuniemi,East Karelia/Veps/Tver,Finnish,31,6,1,0.9787204127813027
+Uusikaupunki,Finland/Savo-Karelia,Finnish,23,5,1,0.9999998291054335
+Uusikirkko Tl.,Finland/Savo-Karelia,Finnish,10,4,1,0.9920700103333825
+Vaivara,Estonia core/west,North Estonian,62,6,2,0.9999996320360822
+Valtimo,Finland/Savo-Karelia,Finnish,13,5,1,0.9996189260978577
+Varbla,Estonia core/west,North Estonian,107,6,2,0.9991483103595745
+Varpaisjärvi,Finland/Savo-Karelia,Finnish,15,5,1,0.9995702718221441
+Vastseliina,South Estonia/Seto,South Estonian,119,6,2,0.9987868771589717
+Venjoki,Ingria,Finnish,59,8,1,0.9985770629357282
+Vesilahti,Finland/Savo-Karelia,Finnish,10,4,1,0.9997952147059254
+Vieljärvi,East Karelia/Veps/Tver,Livvi-Karelian,25,5,1,0.9992585618707525
+Vigala,Estonia core/west,North Estonian,153,7,2,0.9999998576705534
+Vihanti,Finland/Savo-Karelia,Finnish,11,4,1,0.8282659203592999
+Viitasaari,Finland/Savo-Karelia,Finnish,12,4,1,0.9997853478509254
+Viljandi,Estonia core/west,North Estonian,326,7,2,0.9999997762255239
+Virrat,Finland/Savo-Karelia,Finnish,11,4,1,0.9995721916061393
+Virtasalmi,Finland/Savo-Karelia,Finnish,16,6,1,0.9999859349196494
+Viru-Jaagupi,Estonia core/west,North Estonian,71,5,2,0.9999958863187888
+Viru-Nigula,Estonia core/west,North Estonian,121,7,2,0.999994634202991
+Vuokkiniemi,East Karelia/Veps/Tver,Karelian Proper,140,8,1,0.9999990788015987
+Vuole,Ingria,Finnish,108,9,1,0.9999999997076507
+Väike-Maarja,Estonia core/west,North Estonian,166,7,2,0.9971992737087082
+Vändra,Estonia core/west,North Estonian,159,6,2,0.9999998122892205
+Võnnu,Estonia core/west,South Estonian,106,6,2,0.9999984729628328
+Yläne,Finland/Savo-Karelia,Finnish,14,5,1,0.9994811258374063
+Äksi,Estonia core/west,North Estonian,83,6,2,0.9999999874009343
+Östmark,Finland/Savo-Karelia,Finnish,16,6,2,0.8662633254054226

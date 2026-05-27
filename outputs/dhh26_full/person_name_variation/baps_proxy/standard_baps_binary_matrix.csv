@@ -1,0 +1,257 @@
+area_name,Ilmarinen::Ilmarinen,Ilmarinen::Other,Väinämöinen::Väinämöinen,Lemminkäinen::Lemminkäinen,Jesus / Christ::Jeesus,Jesus / Christ::Christ/Kristus,Jesus / Christ::Other,Mary / Maria / Maarja / Mari::Mari,Mary / Maria / Maarja / Mari::Maria,Mary / Maria / Maarja / Mari::Maija/Maie,Mary / Maria / Maarja / Mari::Maarja,Mary / Maria / Maarja / Mari::Maaria,Mary / Maria / Maarja / Mari::Other,John / Jaan / Jussi / Hans::Jaan,John / Jaan / Jussi / Hans::Jussi/Juss,John / Jaan / Jussi / Hans::Hans,John / Jaan / Jussi / Hans::Ants,John / Jaan / Jussi / Hans::Iivana,John / Jaan / Jussi / Hans::Other,Peter / Pietari / Peeter::Pietari,Peter / Pietari / Peeter::Peeter,Peter / Pietari / Peeter::Pekka,Peter / Pietari / Peeter::Petteri/Petri,Peter / Pietari / Peeter::Other,Martin / Mart / Märt::Märt,Martin / Mart / Märt::Mart/Martin,Martin / Mart / Märt::Mard/Mardi,Martin / Mart / Märt::Martti,Martin / Mart / Märt::Other,Catherine / Kadri / Katri::Kadri,Catherine / Kadri / Katri::Katri,Catherine / Kadri / Katri::Kaisa,Catherine / Kadri / Katri::Kati,Catherine / Kadri / Katri::Katariina/Katriina,Catherine / Kadri / Katri::Other,Anna / Anne / Ann / Anni::Anne,Anna / Anne / Ann / Anni::Anni,Anna / Anne / Ann / Anni::Ann,Anna / Anne / Ann / Anni::Anna,Anna / Anne / Ann / Anni::Anu,Anna / Anne / Ann / Anni::Other,macroRegion,langLabel,langCode,n_groups,proper_name_mentions
+Alatornio,,,,,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,20
+Alavus,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,12
+Ambla,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,183
+Asikkala,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,6,27
+Audru,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,126
+Brandval,1,0,1,,0,0,1,0,1,0,0,0,0,,,,,,,,,,,,,,,,,0,0,0,1,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,11
+Eno,1,0,1,,1,0,0,1,0,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,18
+Hageri,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,,,,,,,Estonia core/west,North Estonian,viP,4,18
+Haljala,,,,,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,337
+Halliste,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,459
+Hanila,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,7,47
+Hargla,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,6,48
+Harju-Jaani,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,96
+Harju-Madise,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,,,,,,,Estonia core/west,North Estonian,viP,5,17
+Hartola,,,,,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,0,0,1,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,15
+Hattula,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,37
+Hauho,,,,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,18
+Heinjoki,,,,,,,,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,13
+Heinävesi,1,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,36
+Helme,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,555
+Hietamäki,1,0,1,,1,0,0,0,0,1,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,7,22
+Hollola,,,,,,,,0,0,1,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,11
+Hämeenlinna,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,22
+Häädemeeste,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,111
+Iisaku,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,34
+Iisalmi,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,7,30
+Ilomantsi,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,9,431
+Impilahti,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Livvi-Karelian,ka,9,96
+Isojoki,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,11
+Jaani,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,10
+Jalasjärvi,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Janakkala,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,13
+Joroinen,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,8,46
+Juuka,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,17
+Juuru,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,41
+Juva,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,7,75
+Jällivaara,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Tornedalen Finnish,su,4,12
+Järva-Jaani,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Estonia core/west,North Estonian,viP,7,67
+Järva-Madise,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,68
+Jõelähtme,,,,,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,55
+Jõhvi,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,169
+Jüri,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,57
+Kaarma,,,,,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,38
+Kaavi,1,0,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,7,35
+Kadrina,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,216
+Kalajoki,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,5,31
+Kambja,,,,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,6,24
+Kanepi,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,7,31
+Kangaslampi,1,0,1,,,,,,,,,,,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,5,10
+Kangasniemi,,,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,1,0,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,7,24
+Kankaanpää,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,10
+Kaprio,1,0,1,,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,9,104
+Karja,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,,,,,,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,4,29
+Karksi,,,,,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,394
+Karula,,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,6,106
+Karuna,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,10
+Karuse,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,156
+Kattila,,,,,1,0,0,0,1,0,0,0,0,,,,,,,0,0,0,0,1,0,0,0,1,0,,,,,,,0,0,0,0,1,0,Ingria,Votic,su,5,21
+Kauhava,,,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,5,18
+Keila,,,,,,,,1,0,0,0,0,0,,,,,,,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,15
+Keltto,1,0,1,,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,1,0,0,0,0,,,,,,,Ingria,Finnish,su,6,11
+Kemi,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,0,0,0,0,1,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,16
+Kerimäki,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,7,19
+Kestilä,,,1,,1,0,0,0,1,0,0,0,0,,,,,,,0,0,1,0,0,0,0,0,1,0,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,6,13
+Kesälahti,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,7,62
+Kiestinki,,,1,,1,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,,,,,,,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,ka,5,27
+Kiihtelysvaara,1,0,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,0,0,1,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,29
+Kiimaisjärvi,,,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,,,,,,,,,,,,,East Karelia/Veps/Tver,Karelian Proper,ka,6,37
+Kitee,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,8,133
+Kiuruvesi,,,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,7,50
+Kivennapa,,,,,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,34
+Kivijärvi,,,1,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,,,,,,0,0,0,1,0,0,0,0,0,1,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,19
+Kodavere,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,80
+Koeru,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,168
+Koivisto,,,,,1,0,0,1,0,0,0,0,0,,,,,,,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,35
+Kolga-Jaani,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,226
+Kontiolahti,1,0,1,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,36
+Kontokki,,,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,,,,,,,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,ka,8,52
+Koprina,,,,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,6,49
+Korpilahti,,,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,18
+Korpiselkä,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,0,1,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,ka,9,154
+Kose,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,155
+Kuhmo,,,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,21
+Kuhmoinen,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,22
+Kullamaa,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Estonia core/west,North Estonian,viP,6,41
+Kuopio,,,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,24
+Kupanitsa,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,0,0,1,0,0,0,1,0,0,0,0,Ingria,Finnish,su,6,29
+Kurikka,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,10
+Kursi,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,45
+Kuusalu,,,,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,8,264
+Kuusamo,0,1,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,28
+Käina,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,19
+Kärla,,,,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,14
+Kõpu,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,65
+Laihia,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,18
+Laiuse,,,,,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,110
+Lapinlahti,1,0,1,,,,,,,,,,,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Lappee,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,0,0,0,0,0,1,Finland/Savo-Karelia,Finnish,su,6,15
+Lapua,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,4,11
+Lavansaari,,,,,1,0,0,1,0,0,0,0,0,,,,,,,0,0,1,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,11
+Lemi,,,1,,,,,0,0,1,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Lempaala,1,0,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,9,155
+Leppävirta,,,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,0,0,0,0,1,Finland/Savo-Karelia,Finnish,su,6,33
+Liissilä,1,0,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,7,64
+Liperi,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,37
+Loppi,,,,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,21
+Luopioinen,,,,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,,,,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,10
+Lääne-Nigula,,,,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Estonia core/west,North Estonian,viP,6,16
+Lüganuse,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,61
+Maaninka,,,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,1,0,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,23
+Maarja-Magdaleena,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,77
+Markkova,,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,1,0,0,0,0,,,,,,,Ingria,Finnish,suI,5,12
+Martna,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,31
+Metsäpirtti,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,31
+Mihkli,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,0,1,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,4,60
+Moloskovitsa,1,0,,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,7,57
+Muhos,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,10
+Muhu,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,125
+Muolaa,,,,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,17
+Mustjala,,,,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,30
+Muurla,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,29
+Muuruvesi,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,5,10
+Mynämäki,,,,1,,,,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,13
+Mäntsälä,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,4,11
+Mäntyharju,,,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,23
+Märjamaa,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,85
+Narvusi,1,0,1,,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Ingria,Ingrian,in,9,597
+Nilsiä,1,0,,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,33
+Nurmes,1,0,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,Finland/Savo-Karelia,Finnish,su,9,85
+Nõo,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,5,45
+Orimattila,,,,,,,,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,15
+Otepää,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,5,42
+Oulu,1,0,,,1,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,5,10
+Paide,,,,,,,,1,0,0,0,0,0,0,0,0,0,0,1,,,,,,0,0,1,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,4,43
+Paistu,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,515
+Palamuse,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,175
+Paltamo,1,0,1,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,7,28
+Peetri,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,145
+Perniö,,,,,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,10
+Pieksämäki,1,0,1,,1,0,0,0,1,0,0,0,0,,,,,,,0,0,1,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,20
+Pielavesi,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,8,62
+Pielisjärvi,1,0,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,0,0,1,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,37
+Piippola,,,1,,0,0,1,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,,,,,,,0,0,0,0,0,1,Finland/Savo-Karelia,Finnish,su,5,13
+Pilistvere,,,,,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,142
+Pistojärvi,,,1,1,1,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,East Karelia/Veps/Tver,Karelian Proper,ka,4,12
+Porajärvi,1,0,1,1,1,0,0,0,0,0,0,1,0,,,,,,,0,0,1,0,0,,,,,,,,,,,,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,kaV,7,101
+Pudasjärvi,,,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,19
+Puhja,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,,,,,,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,6,77
+Puolanka,,,1,,1,0,0,0,0,0,0,1,0,,,,,,,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,14
+Puumala,,,,,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,23
+Pyhäjärvi Ol.,,,1,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,14
+Pyhäjärvi Ul.,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,14
+Pyhäjärvi Vpl.,,,1,,0,1,0,0,0,1,0,0,0,,,,,,,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,27
+Pälkjärvi,,,,,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,0,0,1,Finland/Savo-Karelia,Finnish,su,5,16
+Pärnu,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,118
+Pärnu-Jaagupi,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,139
+Põltsamaa,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,193
+Põlva,,,,,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,7,66
+Pöide,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,7,74
+Pöytyä,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,0,1,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Pühalepa,,,,,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,7,41
+Rakvere,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,30
+Rannu,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,55
+Ranua,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,4,19
+Rapla,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,5,57
+Rautavaara,,,,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,21
+Reigi,,,,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,5,19
+Renko,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,5,14
+Repola,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,kaV,9,118
+Ridala,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,0,1,0,0,,,,,,,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,4,33
+Risti,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,113
+Rovaniemi,1,0,,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,29
+Ruovesi,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,12
+Räpina,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,7,214
+Rääkkylä,,,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,38
+Rääpyvä,,,1,,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,,,,,,,,,,,0,1,0,0,0,0,,,,,,,Ingria,Finnish,su,5,15
+Rõngu,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,153
+Rõuge,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,,,,,1,0,0,0,0,0,0,1,0,0,0,0,South Estonia/Seto,South Estonian,viE,6,79
+Saarde,,,,,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,,,,,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,155
+Saarijärvi,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,9,67
+Sakkola,,,1,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,32
+Salmi,1,0,1,1,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,0,0,1,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Livvi-Karelian,ka,8,114
+Sangaste,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,141
+Savitaipale,,,1,,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,1,0,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,14
+Savonlinna,,,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Seiskari,,,,,1,0,0,1,0,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,14
+Serepetta,1,0,,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,Ingria,Finnish,su,8,40
+Setumaa,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,7,471
+Simo,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,11
+Simuna,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,93
+Skuoritsa,,,,,1,0,0,,,,,,,,,,,,,0,0,0,1,0,,,,,,0,0,0,1,0,0,0,1,0,0,0,0,Ingria,Finnish,su,4,15
+Soanlahti,,,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Finnish,su,8,51
+Sodankylä,,,,,1,0,0,0,1,0,0,0,0,,,,,,,0,0,0,1,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Soikkola,1,0,1,,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Ingria,Ingrian,in,8,254
+Somero,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,21
+Sonkajärvi,,,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,0,0,1,0,,,,,,,Finland/Savo-Karelia,Finnish,su,6,25
+Sortavala,1,0,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Finnish,su,8,35
+Sotkamo,1,0,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,7,36
+Soutjärvi,,,,,0,1,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,1,0,0,0,0,0,,,,,,,East Karelia/Veps/Tver,Veps,ve,4,17
+Suistamo,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Livvi-Karelian,ka,9,598
+Suojärvi,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Finnish,su,9,352
+Suomussalmi,1,0,1,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,23
+Suonenjoki,1,0,1,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,7,19
+Suure-Jaani,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,281
+Sysmä,,,,,0,0,1,,,,,,,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,4,12
+Sääksmäki,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,,,,,,,,,0,0,1,0,0,0,0,0,0,0,0,1,Finland/Savo-Karelia,Finnish,su,5,40
+Säämäjärvi,1,0,1,,,,,0,0,0,0,1,0,,,,,,,1,0,0,0,0,,,,,,,,,,,,0,0,0,0,1,0,East Karelia/Veps/Tver,Livvi-Karelian,ka,5,10
+Tammela,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,42
+Tampere,,,,,0,1,0,,,,,,,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,12
+Tartu-Maarja,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,5,51
+Tarvastu,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,South Estonian,viE,7,361
+Terijoki,,,,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,,,,,,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,11
+Tervo,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,7,14
+Tervola,,,,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,10
+Tohmajärvi,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,8,53
+Toksova,1,0,1,,1,0,0,1,0,0,0,0,0,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Ingria,Finnish,su,8,45
+Tori,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,201
+Torma,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,256
+Tulemajärvi,1,0,1,1,1,0,0,0,0,0,0,1,0,,,,,,,0,0,0,1,0,,,,,,,,,,,,0,1,0,0,0,0,East Karelia/Veps/Tver,Livvi-Karelian,ka,7,69
+Turku,,,,,,,,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,5,10
+Tuulos,,,,,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,13
+Tuupovaara,,,1,,0,0,1,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,33
+Tuusniemi,,,1,,,,,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,14
+Tyrvää,1,0,1,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,20
+Tyrö,1,0,1,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,8,102
+Tõstamaa,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,111
+Töysä,,,,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,18
+Türi,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,81
+Uhtua,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,East Karelia/Veps/Tver,Karelian Proper,ka,8,47
+Urvaste,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,7,202
+Uskela,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,6,48
+Uukuniemi,1,0,1,,0,0,1,0,0,0,0,1,0,,,,,,,1,0,0,0,0,,,,,,0,1,0,0,0,0,,,,,,,East Karelia/Veps/Tver,Finnish,su,6,29
+Uusikaupunki,,,,,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,0,1,0,0,0,0,Finland/Savo-Karelia,Finnish,su,5,21
+Uusikirkko Tl.,,,,1,,,,0,0,1,0,0,0,,,,,,,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,10
+Vaivara,,,,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,61
+Valtimo,,,1,,1,0,0,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,12
+Varbla,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,6,105
+Varpaisjärvi,,,1,,1,0,0,0,1,0,0,0,0,,,,,,,0,0,1,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,15
+Vastseliina,,,,,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,,,,,,0,1,0,0,0,0,1,0,0,0,0,0,South Estonia/Seto,South Estonian,viE,6,114
+Venjoki,1,0,1,,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,0,1,0,0,0,0,Ingria,Finnish,su,8,54
+Vieljärvi,1,0,1,,,,,0,1,0,0,0,0,,,,,,,0,0,0,1,0,,,,,,0,0,0,0,1,0,0,1,0,0,0,0,East Karelia/Veps/Tver,Livvi-Karelian,kaA,6,24
+Vigala,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,7,151
+Vihanti,1,0,,,1,0,0,0,1,0,0,0,0,,,,,,,1,0,0,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,4,12
+Viitasaari,,,,,,,,0,1,0,0,0,0,,,,,,,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,4,11
+Viljandi,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,318
+Virtasalmi,,,,,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,,,,,0,0,0,0,1,0,0,0,0,1,0,0,Finland/Savo-Karelia,Finnish,su,6,14
+Viru-Jaagupi,,,,,,,,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,North Estonian,viP,5,54
+Viru-Nigula,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,124
+Vuokkiniemi,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,,,,,,,,,,,,0,1,0,0,0,0,East Karelia/Veps/Tver,Karelian Proper,ka,8,138
+Vuole,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Ingria,Finnish,su,10,124
+Väike-Maarja,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,7,154
+Vändra,,,,,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,,,,,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,166
+Võnnu,,,,,,,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Estonia core/west,South Estonian,viE,6,101
+Yläne,,,,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,0,0,1,0,0,0,,,,,,,Finland/Savo-Karelia,Finnish,su,5,13
+Äksi,,,,,,,,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Estonia core/west,North Estonian,viP,6,93
+Östmark,1,0,1,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,,,,,,,,,,,,,,,,Finland/Savo-Karelia,Finnish,su,6,18

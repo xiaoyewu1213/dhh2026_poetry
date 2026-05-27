@@ -1,0 +1,42 @@
+feature,variant_index,variant
+Ilmarinen,1,Ilmarinen
+Ilmarinen,2,Other
+Väinämöinen,1,Väinämöinen
+Lemminkäinen,1,Lemminkäinen
+Jesus / Christ,1,Jeesus
+Jesus / Christ,2,Christ/Kristus
+Jesus / Christ,3,Other
+Mary / Maria / Maarja / Mari,1,Mari
+Mary / Maria / Maarja / Mari,2,Maria
+Mary / Maria / Maarja / Mari,3,Maija/Maie
+Mary / Maria / Maarja / Mari,4,Maarja
+Mary / Maria / Maarja / Mari,5,Maaria
+Mary / Maria / Maarja / Mari,6,Other
+John / Jaan / Jussi / Hans,1,Jaan
+John / Jaan / Jussi / Hans,2,Jussi/Juss
+John / Jaan / Jussi / Hans,3,Hans
+John / Jaan / Jussi / Hans,4,Ants
+John / Jaan / Jussi / Hans,5,Iivana
+John / Jaan / Jussi / Hans,6,Other
+Peter / Pietari / Peeter,1,Pietari
+Peter / Pietari / Peeter,2,Peeter
+Peter / Pietari / Peeter,3,Pekka
+Peter / Pietari / Peeter,4,Petteri/Petri
+Peter / Pietari / Peeter,5,Other
+Martin / Mart / Märt,1,Märt
+Martin / Mart / Märt,2,Mart/Martin
+Martin / Mart / Märt,3,Mard/Mardi
+Martin / Mart / Märt,4,Martti
+Martin / Mart / Märt,5,Other
+Catherine / Kadri / Katri,1,Kadri
+Catherine / Kadri / Katri,2,Katri
+Catherine / Kadri / Katri,3,Kaisa
+Catherine / Kadri / Katri,4,Kati
+Catherine / Kadri / Katri,5,Katariina/Katriina
+Catherine / Kadri / Katri,6,Other
+Anna / Anne / Ann / Anni,1,Anne
+Anna / Anne / Ann / Anni,2,Anni
+Anna / Anne / Ann / Anni,3,Ann
+Anna / Anne / Ann / Anni,4,Anna
+Anna / Anne / Ann / Anni,5,Anu
+Anna / Anne / Ann / Anni,6,Other

@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Name Variant Area Maps</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f5ef;
+      --panel: #fffdf8;
+      --ink: #26231d;
+      --muted: #676157;
+      --line: #d6cdbc;
+      --active: #2f7d6d;
+      --active-ink: #ffffff;
+      --button: #ebe5d9;
+      --shadow: 0 14px 36px rgba(56, 49, 39, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .shell {
+      min-height: 100vh;
+      display: grid;
+      grid-template-rows: auto auto 1fr;
+    }
+
+    header {
+      padding: 20px 28px 12px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 253, 248, 0.86);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 3;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+      line-height: 1.2;
+      font-weight: 720;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 12px 28px;
+      border-bottom: 1px solid var(--line);
+      background: #f1ede3;
+      position: sticky;
+      top: 82px;
+      z-index: 2;
+    }
+
+    button {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: var(--button);
+      color: var(--ink);
+      border-radius: 8px;
+      padding: 9px 12px;
+      white-space: nowrap;
+      font: inherit;
+      font-size: 14px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    button:hover {
+      border-color: #a99d89;
+      background: #f7f1e6;
+    }
+
+    button[aria-pressed="true"] {
+      background: var(--active);
+      border-color: var(--active);
+      color: var(--active-ink);
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 18px;
+      padding: 18px 28px 28px;
+      align-items: start;
+    }
+
+    .map-stage {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      min-height: 460px;
+      overflow: hidden;
+    }
+
+    .map-stage img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: calc(100vh - 190px);
+      object-fit: contain;
+      background: #f7f5ef;
+    }
+
+    aside {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      padding: 16px;
+      position: sticky;
+      top: 146px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.25;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+
+    .meta {
+      margin: 10px 0 14px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .metric {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      padding: 8px 0;
+      border-top: 1px solid #e7dece;
+      font-size: 13px;
+    }
+
+    .metric span:first-child {
+      color: var(--muted);
+    }
+
+    .variant-list {
+      margin-top: 10px;
+      display: grid;
+      gap: 6px;
+    }
+
+    .variant {
+      display: grid;
+      grid-template-columns: 12px 1fr auto;
+      gap: 8px;
+      align-items: center;
+      font-size: 13px;
+    }
+
+    .swatch {
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+      border: 1px solid rgba(0, 0, 0, 0.25);
+    }
+
+    .footnote {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    @media (max-width: 980px) {
+      header {
+        padding-inline: 16px;
+      }
+
+      .toolbar {
+        top: 84px;
+        padding-inline: 16px;
+      }
+
+      main {
+        grid-template-columns: 1fr;
+        padding: 14px 16px 22px;
+      }
+
+      aside {
+        position: static;
+        order: -1;
+      }
+
+      .map-stage img {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <h1>Name Variant Area Maps</h1>
+      <p class="subtitle">Dominant standard-lemma variant by mapped area, using areas.geojson polygons.</p>
+    </header>
+
+    <nav class="toolbar" aria-label="Map selector">
+      <button type="button" data-map="overview" aria-pressed="true">Overview</button>
+      <button type="button" data-map="jesus">Jesus / Christ</button>
+      <button type="button" data-map="mary">Mary / Maria / Mari</button>
+      <button type="button" data-map="john">John / Jaan / Jussi</button>
+      <button type="button" data-map="peter">Peter / Pietari</button>
+      <button type="button" data-map="martin">Martin / Mart / Märt</button>
+      <button type="button" data-map="catherine">Catherine / Kadri</button>
+      <button type="button" data-map="anna">Anna / Anne / Anni</button>
+    </nav>
+
+    <main>
+      <section class="map-stage" aria-label="Selected map">
+        <img id="map-image" src="selected_6_name_variant_area_dominance.jpg" alt="Overview of remaining name group variant maps">
+      </section>
+
+      <aside aria-label="Selected map details">
+        <h2 id="map-title">Overview</h2>
+        <p class="meta" id="map-meta">Six non-Jesus groups shown together. Color marks the dominant variant in each matched area; opacity follows total mapped mentions.</p>
+        <div id="metrics"></div>
+        <div class="variant-list" id="variants"></div>
+        <p class="footnote">Counts are mapped mentions only. Pale areas have no matched mentions for the selected group.</p>
+      </aside>
+    </main>
+  </div>
+
+  <script>
+    const palette = ["#2f7d6d", "#3568b8", "#b35c2e", "#7b5ca8", "#c05f5f", "#8a8a8a"];
+
+    const maps = {
+      overview: {
+        title: "Overview",
+        image: "selected_6_name_variant_area_dominance.jpg",
+        alt: "Overview of remaining name group variant maps",
+        meta: "Six non-Jesus groups shown together. Color marks the dominant variant in each matched area; opacity follows total mapped mentions.",
+        metrics: [
+          ["Groups", "6"],
+          ["Map type", "dominant variant"]
+        ],
+        variants: []
+      },
+      jesus: {
+        title: "Jesus / Christ",
+        image: "jesus_christ_variant_area_dominance.jpg",
+        alt: "Jesus and Christ variant dominance map",
+        meta: "Three-category trial map: Jeesus, Christ/Kristus, and Other.",
+        metrics: [
+          ["Mapped", "2124 / 2235"],
+          ["Matched", "95.0%"],
+          ["Cramér's V", "0.356"]
+        ],
+        variants: [
+          ["Jeesus", 1625, "#5b63b7"],
+          ["Christ/Kristus", 197, "#b35c2e"],
+          ["Other", 302, "#8a8a8a"]
+        ]
+      },
+      mary: {
+        title: "Mary / Maria / Mari",
+        image: "area_variant_maps_remaining/mary_maria_mari_variant_area_dominance.jpg",
+        alt: "Mary Maria Mari variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "4683 / 5063"], ["Matched", "92.5%"], ["Cramér's V", "0.505"]],
+        variants: [["Mari", 2191], ["Maria", 736], ["Maija/Maie", 617], ["Maarja", 464], ["Maaria", 432], ["Other", 243]]
+      },
+      john: {
+        title: "John / Jaan / Jussi / Hans",
+        image: "area_variant_maps_remaining/john_jaan_jussi_hans_variant_area_dominance.jpg",
+        alt: "John Jaan Jussi Hans variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "2418 / 2624"], ["Matched", "92.1%"], ["Cramér's V", "0.613"]],
+        variants: [["Jaan", 933], ["Jussi/Juss", 603], ["Hans", 396], ["Ants", 229], ["Iivana", 26], ["Other", 231]]
+      },
+      peter: {
+        title: "Peter / Pietari / Peeter",
+        image: "area_variant_maps_remaining/peter_pietari_peeter_variant_area_dominance.jpg",
+        alt: "Peter Pietari Peeter variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "1678 / 1795"], ["Matched", "93.5%"], ["Cramér's V", "0.686"]],
+        variants: [["Pietari", 717], ["Peeter", 438], ["Pekka", 350], ["Petteri/Petri", 100], ["Other", 73]]
+      },
+      martin: {
+        title: "Martin / Mart / Märt",
+        image: "area_variant_maps_remaining/martin_mart_mart_variant_area_dominance.jpg",
+        alt: "Martin Mart Märt variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "3322 / 3503"], ["Matched", "94.8%"], ["Cramér's V", "0.602"]],
+        variants: [["Märt", 1290], ["Mart/Martin", 950], ["Mard/Mardi", 584], ["Märti", 205], ["Martti", 52], ["Other", 241]]
+      },
+      catherine: {
+        title: "Catherine / Kadri / Katri",
+        image: "area_variant_maps_remaining/catherine_kadri_katri_variant_area_dominance.jpg",
+        alt: "Catherine Kadri Katri variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "2002 / 2169"], ["Matched", "92.3%"], ["Cramér's V", "0.648"]],
+        variants: [["Kadri", 1003], ["Katri", 383], ["Kaisa", 226], ["Kati", 98], ["Katariina/Katriina", 51], ["Other", 241]]
+      },
+      anna: {
+        title: "Anna / Anne / Anni",
+        image: "area_variant_maps_remaining/anna_anne_anni_variant_area_dominance.jpg",
+        alt: "Anna Anne Anni variant dominance map",
+        meta: "Variants grouped by case-insensitive standard lemma.",
+        metrics: [["Mapped", "2116 / 2263"], ["Matched", "93.5%"], ["Cramér's V", "0.499"]],
+        variants: [["Anne", 986], ["Anni", 501], ["Ann", 412], ["Anna", 64], ["Anu", 41], ["Other", 112]]
+      }
+    };
+
+    const buttons = Array.from(document.querySelectorAll("[data-map]"));
+    const image = document.getElementById("map-image");
+    const title = document.getElementById("map-title");
+    const meta = document.getElementById("map-meta");
+    const metrics = document.getElementById("metrics");
+    const variants = document.getElementById("variants");
+
+    function setMap(key) {
+      const item = maps[key];
+      if (!item) return;
+      buttons.forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset.map === key));
+      });
+      image.src = item.image;
+      image.alt = item.alt;
+      title.textContent = item.title;
+      meta.textContent = item.meta;
+      metrics.innerHTML = item.metrics.map(([label, value]) => (
+        `<div class="metric"><span>${label}</span><strong>${value}</strong></div>`
+      )).join("");
+      variants.innerHTML = item.variants.map(([label, count, color], index) => {
+        const swatch = color || palette[index % palette.length];
+        return `<div class="variant"><i class="swatch" style="background:${swatch}"></i><span>${label}</span><strong>${count}</strong></div>`;
+      }).join("");
+    }
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => setMap(button.dataset.map));
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+person_category,tokens,variant_tokens,clusters,variation_rate
+unmapped_possible_person_name,11873,2092,4349,0.1761980965215194
+religious_title_or_deity,10018,2040,1,0.20363345977240965
+given_name_family,9138,2262,6,0.247537754432042
+biblical_religious,7351,2492,4,0.3390014963950483
+given_name_family_or_biblical,5783,1223,8,0.21148192979422445
+given_name_family_or_saint,4192,648,4,0.15458015267175573
+mythic_or_religious_deity,2179,216,1,0.09912804038549794
+mythic_epic,2030,752,4,0.3704433497536946
+mythic_deity,946,170,3,0.17970401691331925
+mythic_epic_or_name,685,191,1,0.27883211678832115

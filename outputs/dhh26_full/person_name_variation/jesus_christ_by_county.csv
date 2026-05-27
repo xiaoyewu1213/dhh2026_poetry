@@ -1,0 +1,36 @@
+broad_region,county,Christ-type,Jesus-type,Other Jesus-cluster,total,jesus_share,christ_share
+East Karelia/Veps/Tver,Laatokan Karjala (Raja-Karjala),39,350,0,389,0.8997429305912596,0.10025706940874037
+Finland/Savo-Karelia,Pohjois-Karjala,18,208,0,226,0.9203539823008849,0.07964601769911504
+Finland/Savo-Karelia,Häme,16,142,0,158,0.8987341772151899,0.10126582278481013
+Ingria,Länsi-Inkeri,16,114,0,130,0.8769230769230769,0.12307692307692308
+Ingria,Keski-Inkeri,10,116,0,126,0.9206349206349206,0.07936507936507936
+Ingria,Itä- ja Pohjois-Inkeri,2,116,0,118,0.9830508474576272,0.01694915254237288
+South Estonia/Seto,Võrumaa,7,96,0,103,0.9320388349514563,0.06796116504854369
+Finland/Savo-Karelia,Etelä-Savo,7,89,0,96,0.9270833333333334,0.07291666666666667
+Finland/Savo-Karelia,Pohjois-Savo,4,68,0,72,0.9444444444444444,0.05555555555555555
+South Estonia/Seto,Setumaa,0,65,0,65,1.0,0.0
+Estonia core/west,Virumaa,0,61,0,61,1.0,0.0
+Finland/Savo-Karelia,Etelä-Karjala,5,56,0,61,0.9180327868852459,0.08196721311475409
+Estonia core/west,Tartumaa,16,40,0,56,0.7142857142857143,0.2857142857142857
+Finland/Savo-Karelia,Satakunta,9,45,0,54,0.8333333333333334,0.16666666666666666
+Finland/Savo-Karelia,Etelä-Pohjanmaa,11,41,0,52,0.7884615384615384,0.21153846153846154
+Estonia core/west,Viljandimaa,6,43,0,49,0.8775510204081632,0.12244897959183673
+Estonia core/west,Pärnumaa,5,39,0,44,0.8863636363636364,0.11363636363636363
+East Karelia/Veps/Tver,Aunus,15,26,0,41,0.6341463414634146,0.36585365853658536
+Estonia core/west,Harjumaa,6,32,0,38,0.8421052631578947,0.15789473684210525
+Finland/Savo-Karelia,Peräpohjola,2,34,0,36,0.9444444444444444,0.05555555555555555
+Finland/Savo-Karelia,Varsinais-Suomi,12,23,0,35,0.6571428571428571,0.34285714285714286
+Finland/Savo-Karelia,Metsäsuomalaisten alue,4,30,0,34,0.8823529411764706,0.11764705882352941
+East Karelia/Veps/Tver,Viena,1,28,0,29,0.9655172413793104,0.034482758620689655
+Finland/Savo-Karelia,Pohjois-Pohjanmaa,1,27,0,28,0.9642857142857143,0.03571428571428571
+Estonia core/west,Järvamaa,4,24,0,28,0.8571428571428571,0.14285714285714285
+Other/unclear,,2,22,0,24,0.9166666666666666,0.08333333333333333
+Finland/Savo-Karelia,Kainuu,0,19,0,19,1.0,0.0
+Finland/Savo-Karelia,Länsipohja,1,17,0,18,0.9444444444444444,0.05555555555555555
+Estonia core/west,Läänemaa,4,10,0,14,0.7142857142857143,0.2857142857142857
+Finland/Savo-Karelia,Keski-Suomi,0,9,0,9,1.0,0.0
+Finland/Savo-Karelia,Ruija,1,5,0,6,0.8333333333333334,0.16666666666666666
+Estonia core/west,Saaremaa,0,6,0,6,1.0,0.0
+Other/unclear,välismaa,3,2,0,5,0.4,0.6
+East Karelia/Veps/Tver,Vepsäläisalueet,3,0,0,3,0.0,1.0
+Finland/Savo-Karelia,Uusimaa,1,1,0,2,0.5,0.5

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>word_in_english Variant Maps</title>
+  <style>
+    :root { --bg:#f7f5ef; --panel:#fffdf8; --ink:#26231d; --muted:#676157; --line:#d6cdbc; --active:#3568b8; --button:#ebe5d9; --shadow:0 14px 36px rgba(56,49,39,.12); }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    header { padding:20px 28px 12px; border-bottom:1px solid var(--line); background:rgba(255,253,248,.88); position:sticky; top:0; z-index:3; backdrop-filter:blur(10px); }
+    h1 { margin:0; font-size:24px; line-height:1.2; letter-spacing:0; }
+    .subtitle { margin:6px 0 0; color:var(--muted); font-size:14px; line-height:1.35; }
+    .toolbar { display:flex; gap:8px; overflow-x:auto; padding:12px 28px; border-bottom:1px solid var(--line); background:#f1ede3; position:sticky; top:82px; z-index:2; }
+    button { appearance:none; border:1px solid var(--line); background:var(--button); color:var(--ink); border-radius:8px; padding:9px 12px; white-space:nowrap; font:inherit; font-size:14px; line-height:1; cursor:pointer; }
+    button:hover { border-color:#a99d89; background:#f7f1e6; }
+    button[aria-pressed="true"] { background:var(--active); border-color:var(--active); color:white; }
+    main { display:grid; grid-template-columns:minmax(0,1fr) 290px; gap:18px; padding:18px 28px 28px; align-items:start; }
+    .map-stage { background:var(--panel); border:1px solid var(--line); border-radius:8px; box-shadow:var(--shadow); min-height:460px; overflow:hidden; }
+    .map-stage img { display:block; width:100%; height:auto; max-height:calc(100vh - 190px); object-fit:contain; background:#f7f5ef; }
+    aside { background:var(--panel); border:1px solid var(--line); border-radius:8px; box-shadow:var(--shadow); padding:16px; position:sticky; top:146px; }
+    h2 { margin:0; font-size:18px; line-height:1.25; letter-spacing:0; }
+    .meta { margin:10px 0 14px; color:var(--muted); font-size:13px; line-height:1.35; }
+    .metric { display:grid; grid-template-columns:1fr auto; gap:8px; padding:8px 0; border-top:1px solid #e7dece; font-size:13px; }
+    .metric span:first-child { color:var(--muted); }
+    .variant-list { margin-top:10px; display:grid; gap:6px; }
+    .variant { display:grid; grid-template-columns:12px 1fr auto; gap:8px; align-items:center; font-size:13px; }
+    .swatch { width:12px; height:12px; border-radius:2px; border:1px solid rgba(0,0,0,.25); }
+    .footnote { margin-top:14px; color:var(--muted); font-size:12px; line-height:1.35; }
+    @media (max-width:980px) { header,.toolbar { padding-inline:16px; } main { grid-template-columns:1fr; padding:14px 16px 22px; } aside { position:static; order:-1; } .map-stage img { max-height:none; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>word_in_english Variant Maps</h1>
+    <p class="subtitle">Dominant cleaned English-gloss category by mapped area, using areas.geojson polygons.</p>
+  </header>
+  <nav class="toolbar" aria-label="Map selector">
+    <button type="button" data-map="overview" aria-pressed="true">Overview</button><button type="button" data-map="mary_maria_mari">Mary/Maria/Mari</button><button type="button" data-map="jesus_christ">Jesus/Christ</button><button type="button" data-map="john_jaan_jussi_hans">John/Jaan/Jussi/Hans</button><button type="button" data-map="peter_pietari_peeter">Peter/Pietari/Peeter</button><button type="button" data-map="martin_mart_mart">Martin/Mart/Märt</button><button type="button" data-map="catherine_kadri_katri">Catherine/Kadri/Katri</button><button type="button" data-map="anna_anne_anni">Anna/Anne/Anni</button>
+  </nav>
+  <main>
+    <section class="map-stage" aria-label="Selected map">
+      <img id="map-image" src="word_in_english_name_variant_area_dominance.jpg" alt="Overview of word_in_english name variant maps">
+    </section>
+    <aside aria-label="Selected map details">
+      <h2 id="map-title">Overview</h2>
+      <p class="meta" id="map-meta">Seven groups shown together. Color marks the dominant word_in_english category in each matched area.</p>
+      <div id="metrics"></div>
+      <div class="variant-list" id="variants"></div>
+      <p class="footnote">Counts are mapped mentions only. Frequent non-name glosses such as Berry, Gift, Petersburg, Refrain, and Bear/Spirit are deliberately retained.</p>
+    </aside>
+  </main>
+  <script>
+    const maps = {
+      overview: {
+        title: "Overview",
+        image: "word_in_english_name_variant_area_dominance.jpg",
+        alt: "Overview of word_in_english name variant maps",
+        meta: "Seven groups shown together. Color marks the dominant word_in_english category in each matched area.",
+        metrics: [["Groups", "7"], ["Map type", "dominant English category"]],
+        variants: []
+      },mary_maria_mari: {
+        title: "Mary/Maria/Mari",
+        image: "word_in_english_area_variant_maps/mary_maria_mari_word_in_english_area_dominance.jpg",
+        alt: "Mary/Maria/Mari word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "4683 / 5063"], ["Matched", "92.5%"], ["Cramér's V", "0.452"]],
+        variants: [["Mary", 1483, "#2f7d6d"], ["Mari", 836, "#3568b8"], ["Maija/Maie", 458, "#b35c2e"], ["Maria/Maaria", 181, "#7b5ca8"], ["Berry", 1045, "#c05f5f"], ["Other", 680, "#8a7b2f"]]
+      },jesus_christ: {
+        title: "Jesus/Christ",
+        image: "word_in_english_area_variant_maps/jesus_christ_word_in_english_area_dominance.jpg",
+        alt: "Jesus/Christ word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "2124 / 2235"], ["Matched", "95.0%"], ["Cramér's V", "0.338"]],
+        variants: [["Jesus", 1461, "#2f7d6d"], ["Christ", 154, "#3568b8"], ["Other", 509, "#b35c2e"]]
+      },john_jaan_jussi_hans: {
+        title: "John/Jaan/Jussi/Hans",
+        image: "word_in_english_area_variant_maps/john_jaan_jussi_hans_word_in_english_area_dominance.jpg",
+        alt: "John/Jaan/Jussi/Hans word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "2418 / 2624"], ["Matched", "92.1%"], ["Cramér's V", "0.518"]],
+        variants: [["Jussi", 521, "#2f7d6d"], ["Jaan/Jaani", 397, "#3568b8"], ["Hans", 321, "#b35c2e"], ["John/St John", 243, "#7b5ca8"], ["Ants", 172, "#c05f5f"], ["Juhan", 62, "#8a7b2f"], ["Other", 702, "#8a8a8a"]]
+      },peter_pietari_peeter: {
+        title: "Peter/Pietari/Peeter",
+        image: "word_in_english_area_variant_maps/peter_pietari_peeter_word_in_english_area_dominance.jpg",
+        alt: "Peter/Pietari/Peeter word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "1678 / 1795"], ["Matched", "93.5%"], ["Cramér's V", "0.543"]],
+        variants: [["Peter", 799, "#2f7d6d"], ["Peeter", 88, "#3568b8"], ["Pekka/Pekko", 293, "#b35c2e"], ["Petteri/Pietari", 57, "#7b5ca8"], ["Petersburg", 88, "#c05f5f"], ["Other", 353, "#8a7b2f"]]
+      },martin_mart_mart: {
+        title: "Martin/Mart/Märt",
+        image: "word_in_english_area_variant_maps/martin_mart_mart_word_in_english_area_dominance.jpg",
+        alt: "Martin/Mart/Märt word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "3322 / 3503"], ["Matched", "94.8%"], ["Cramér's V", "0.503"]],
+        variants: [["Martin", 1098, "#2f7d6d"], ["Mart/Marti", 463, "#3568b8"], ["Märt/Märti", 631, "#b35c2e"], ["Mardi/Mard", 329, "#7b5ca8"], ["Refrain", 234, "#c05f5f"], ["Bear/Spirit", 132, "#8a7b2f"], ["Other", 435, "#8a8a8a"]]
+      },catherine_kadri_katri: {
+        title: "Catherine/Kadri/Katri",
+        image: "word_in_english_area_variant_maps/catherine_kadri_katri_word_in_english_area_dominance.jpg",
+        alt: "Catherine/Kadri/Katri word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "2002 / 2169"], ["Matched", "92.3%"], ["Cramér's V", "0.599"]],
+        variants: [["Kadri", 1134, "#2f7d6d"], ["Katri/Katrina", 270, "#3568b8"], ["Kaisa/Kaie", 182, "#b35c2e"], ["Kati", 85, "#7b5ca8"], ["Catherine/Katherine", 41, "#c05f5f"], ["Refrain", 131, "#8a7b2f"], ["Other", 159, "#8a8a8a"]]
+      },anna_anne_anni: {
+        title: "Anna/Anne/Anni",
+        image: "word_in_english_area_variant_maps/anna_anne_anni_word_in_english_area_dominance.jpg",
+        alt: "Anna/Anne/Anni word_in_english area dominance map",
+        meta: "Variants/categories are derived from cleaned word_in_english glosses, with non-name meanings retained when frequent.",
+        metrics: [["Mapped", "2116 / 2263"], ["Matched", "93.5%"], ["Cramér's V", "0.448"]],
+        variants: [["Anne", 636, "#2f7d6d"], ["Ann", 444, "#3568b8"], ["Anni/Annie", 420, "#b35c2e"], ["Anna", 68, "#7b5ca8"], ["Anu", 39, "#c05f5f"], ["Gift", 263, "#8a7b2f"], ["Other", 246, "#8a8a8a"]]
+      }
+    };
+    const buttons = Array.from(document.querySelectorAll("[data-map]"));
+    const image = document.getElementById("map-image");
+    const title = document.getElementById("map-title");
+    const meta = document.getElementById("map-meta");
+    const metrics = document.getElementById("metrics");
+    const variants = document.getElementById("variants");
+    function setMap(key) {
+      const item = maps[key];
+      if (!item) return;
+      buttons.forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.map === key)));
+      image.src = item.image;
+      image.alt = item.alt;
+      title.textContent = item.title;
+      meta.textContent = item.meta;
+      metrics.innerHTML = item.metrics.map(([label, value]) => `<div class="metric"><span>${label}</span><strong>${value}</strong></div>`).join("");
+      variants.innerHTML = item.variants.map(([label, count, color]) => `<div class="variant"><i class="swatch" style="background:${color}"></i><span>${label}</span><strong>${count}</strong></div>`).join("");
+    }
+    buttons.forEach((button) => button.addEventListener("click", () => setMap(button.dataset.map)));
+    setMap("overview");
+  </script>
+</body>
+</html>
