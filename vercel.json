@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/map",
+      "destination": "/outputs/dhh26_full/person_name_variation/name_variant_maps_integrated_viewer.html"
+    }
+  ]
+}
