@@ -1,0 +1,573 @@
+person_cluster,area_name,category,mentions,poems
+Smith / Blacksmith,Alatornio,Other,3,2
+Smith / Blacksmith,Alavus,Other,1,1
+Smith / Blacksmith,Ambla,Other,2,2
+Smith / Blacksmith,Ambla,compound -sepp,5,3
+Smith / Blacksmith,Ambla,sepp,7,5
+Smith / Blacksmith,Anseküla,sepp,4,2
+Smith / Blacksmith,Anttola,seppä,5,1
+Smith / Blacksmith,Asikkala,seppä,6,3
+Smith / Blacksmith,Askainen,seppä,4,1
+Smith / Blacksmith,Audru,Other,1,1
+Smith / Blacksmith,Audru,compound -sepp,8,2
+Smith / Blacksmith,Audru,sepp,27,7
+Smith / Blacksmith,Emmaste,sepp,2,1
+Smith / Blacksmith,Eno,seppä,5,4
+Smith / Blacksmith,Eura,seppä,3,1
+Smith / Blacksmith,Forssa,compound -sepp,1,1
+Smith / Blacksmith,Haapavesi,seppä,2,1
+Smith / Blacksmith,Hageri,Other,1,1
+Smith / Blacksmith,Hailuoto,compound -sepp,1,1
+Smith / Blacksmith,Hailuoto,seppä,1,1
+Smith / Blacksmith,Halikko,Other,1,1
+Smith / Blacksmith,Halikko,seppä,9,2
+Smith / Blacksmith,Haljala,Other,3,3
+Smith / Blacksmith,Haljala,compound -sepp,10,9
+Smith / Blacksmith,Haljala,sepp,14,11
+Smith / Blacksmith,Halliste,Other,4,4
+Smith / Blacksmith,Halliste,compound -sepp,8,6
+Smith / Blacksmith,Halliste,sepp,25,15
+Smith / Blacksmith,Halsua,seppä,1,1
+Smith / Blacksmith,Hanila,compound -sepp,3,1
+Smith / Blacksmith,Hanila,sepp,8,1
+Smith / Blacksmith,Hankasalmi,seppä,2,1
+Smith / Blacksmith,Hargla,compound -sepp,1,1
+Smith / Blacksmith,Hargla,sepp,7,5
+Smith / Blacksmith,Harjavalta,seppä,1,1
+Smith / Blacksmith,Harju-Jaani,Other,5,2
+Smith / Blacksmith,Harju-Jaani,compound -sepp,3,1
+Smith / Blacksmith,Harju-Jaani,sepp,12,5
+Smith / Blacksmith,Hartola,seppä,2,1
+Smith / Blacksmith,Hattula,Other,3,3
+Smith / Blacksmith,Hattula,compound -sepp,1,1
+Smith / Blacksmith,Hattula,seppä,23,9
+Smith / Blacksmith,Hauho,seppä,5,3
+Smith / Blacksmith,Haukivuori,seppä,3,2
+Smith / Blacksmith,Hausjärvi,seppä,10,3
+Smith / Blacksmith,Heinjoki,Other,1,1
+Smith / Blacksmith,Heinjoki,compound -sepp,1,1
+Smith / Blacksmith,Heinjoki,seppä,2,2
+Smith / Blacksmith,Heinola,seppä,10,2
+Smith / Blacksmith,Heinävesi,seppo,1,1
+Smith / Blacksmith,Heinävesi,seppä,5,5
+Smith / Blacksmith,Helme,Other,4,2
+Smith / Blacksmith,Helme,compound -sepp,2,2
+Smith / Blacksmith,Helme,sepp,21,11
+Smith / Blacksmith,Hietamäki,compound -sepp,1,1
+Smith / Blacksmith,Hietamäki,seppä,4,3
+Smith / Blacksmith,Hiitola,seppä,1,1
+Smith / Blacksmith,Hinnerjoki,seppä,1,1
+Smith / Blacksmith,Hirvensalmi,seppä,1,1
+Smith / Blacksmith,Humppila,seppä,4,1
+Smith / Blacksmith,Hyrynsalmi,compound -sepp,1,1
+Smith / Blacksmith,Häädemeeste,sepp,4,3
+Smith / Blacksmith,Iisaku,Other,1,1
+Smith / Blacksmith,Iisaku,sepp,2,1
+Smith / Blacksmith,Iisalmi,seppä,3,3
+Smith / Blacksmith,Ilomantsi,Other,5,4
+Smith / Blacksmith,Ilomantsi,seppo,5,1
+Smith / Blacksmith,Ilomantsi,seppä,78,26
+Smith / Blacksmith,Impilahti,Other,1,1
+Smith / Blacksmith,Impilahti,seppä,12,11
+Smith / Blacksmith,Impilahti,takoja,2,2
+Smith / Blacksmith,Inkere,seppä,2,1
+Smith / Blacksmith,Isojoki,Other,1,1
+Smith / Blacksmith,Jaakkima,seppä,1,1
+Smith / Blacksmith,Jaani,Other,1,1
+Smith / Blacksmith,Jaani,sepp,2,2
+Smith / Blacksmith,Joensuu,Other,1,1
+Smith / Blacksmith,Johannes,Other,1,1
+Smith / Blacksmith,Jokioinen,seppä,7,2
+Smith / Blacksmith,Joroinen,seppo,1,1
+Smith / Blacksmith,Joroinen,seppä,1,1
+Smith / Blacksmith,Joutsa,Other,1,1
+Smith / Blacksmith,Joutsa,compound -sepp,1,1
+Smith / Blacksmith,Joutseno,seppä,3,1
+Smith / Blacksmith,Juuru,sepp,2,1
+Smith / Blacksmith,Juva,seppä,9,4
+Smith / Blacksmith,Järva-Jaani,Other,2,2
+Smith / Blacksmith,Järva-Jaani,sepp,10,4
+Smith / Blacksmith,Järva-Madise,sepp,5,4
+Smith / Blacksmith,Jääski,seppä,1,1
+Smith / Blacksmith,Jõelähtme,Other,1,1
+Smith / Blacksmith,Jõelähtme,sepp,4,3
+Smith / Blacksmith,Jõhvi,Other,5,4
+Smith / Blacksmith,Jõhvi,compound -sepp,5,4
+Smith / Blacksmith,Jõhvi,sepp,14,10
+Smith / Blacksmith,Jüri,sepp,4,3
+Smith / Blacksmith,Kaarina,compound -sepp,1,1
+Smith / Blacksmith,Kaarina,seppä,1,1
+Smith / Blacksmith,Kaarma,sepp,2,1
+Smith / Blacksmith,Kaavi,Other,2,2
+Smith / Blacksmith,Kaavi,seppä,5,4
+Smith / Blacksmith,Kadrina,Other,7,6
+Smith / Blacksmith,Kadrina,compound -sepp,19,7
+Smith / Blacksmith,Kadrina,sepp,22,10
+Smith / Blacksmith,Kalajoki,seppä,1,1
+Smith / Blacksmith,Kalvola,compound -sepp,1,1
+Smith / Blacksmith,Kalvola,seppä,1,1
+Smith / Blacksmith,Kanepi,compound -sepp,3,2
+Smith / Blacksmith,Kangaslampi,seppä,2,2
+Smith / Blacksmith,Kangasniemi,seppä,4,3
+Smith / Blacksmith,Kaprio,Other,5,2
+Smith / Blacksmith,Kaprio,compound -sepp,1,1
+Smith / Blacksmith,Kaprio,seppä,38,15
+Smith / Blacksmith,Kaprio,takoja,4,3
+Smith / Blacksmith,Karkku,seppä,1,1
+Smith / Blacksmith,Karksi,Other,4,3
+Smith / Blacksmith,Karksi,compound -sepp,10,8
+Smith / Blacksmith,Karksi,sepp,52,13
+Smith / Blacksmith,Karstula,seppä,1,1
+Smith / Blacksmith,Karttula,seppä,1,1
+Smith / Blacksmith,Karula,Other,1,1
+Smith / Blacksmith,Karula,compound -sepp,2,1
+Smith / Blacksmith,Karula,sepp,3,2
+Smith / Blacksmith,Karuna,Other,1,1
+Smith / Blacksmith,Karuse,Other,1,1
+Smith / Blacksmith,Karuse,compound -sepp,19,5
+Smith / Blacksmith,Karuse,sepp,11,2
+Smith / Blacksmith,Karvia,seppä,2,2
+Smith / Blacksmith,Kattila,Other,1,1
+Smith / Blacksmith,Kattila,seppä,2,1
+Smith / Blacksmith,Kattila,takoja,1,1
+Smith / Blacksmith,Kauhava,seppä,1,1
+Smith / Blacksmith,Kaukola,seppä,6,3
+Smith / Blacksmith,Kauvatsa,seppä,2,2
+Smith / Blacksmith,Keila,compound -sepp,1,1
+Smith / Blacksmith,Keila,sepp,3,2
+Smith / Blacksmith,Keltto,seppä,4,4
+Smith / Blacksmith,Keltto,takoja,2,2
+Smith / Blacksmith,Kemi,Other,1,1
+Smith / Blacksmith,Kemi,seppä,7,6
+Smith / Blacksmith,Kerimäki,seppä,2,2
+Smith / Blacksmith,Kesälahti,seppo,1,1
+Smith / Blacksmith,Kesälahti,seppä,6,4
+Smith / Blacksmith,Kiestinki,seppä,1,1
+Smith / Blacksmith,Kihelkonna,sepp,3,2
+Smith / Blacksmith,Kihnu,compound -sepp,3,2
+Smith / Blacksmith,Kihnu,sepp,5,3
+Smith / Blacksmith,Kiihtelysvaara,seppo,1,1
+Smith / Blacksmith,Kiihtelysvaara,seppä,2,2
+Smith / Blacksmith,Kiikala,seppä,2,1
+Smith / Blacksmith,Kiimaisjärvi,seppä,1,1
+Smith / Blacksmith,Kiiminki,compound -sepp,1,1
+Smith / Blacksmith,Kirvu,seppo,1,1
+Smith / Blacksmith,Kirvu,seppä,2,2
+Smith / Blacksmith,Kitee,Other,1,1
+Smith / Blacksmith,Kitee,compound -sepp,1,1
+Smith / Blacksmith,Kitee,seppä,20,11
+Smith / Blacksmith,Kiuruvesi,seppä,2,2
+Smith / Blacksmith,Kivennapa,seppä,4,2
+Smith / Blacksmith,Kivijärvi,seppä,1,1
+Smith / Blacksmith,Kodavere,compound -sepp,5,3
+Smith / Blacksmith,Kodavere,sepp,3,1
+Smith / Blacksmith,Koeru,Other,5,4
+Smith / Blacksmith,Koeru,compound -sepp,11,6
+Smith / Blacksmith,Koeru,sepp,15,9
+Smith / Blacksmith,Koivisto,compound -sepp,1,1
+Smith / Blacksmith,Kokemäki,compound -sepp,1,1
+Smith / Blacksmith,Kokemäki,seppä,1,1
+Smith / Blacksmith,Kolga-Jaani,Other,2,1
+Smith / Blacksmith,Kolga-Jaani,compound -sepp,13,7
+Smith / Blacksmith,Kolga-Jaani,sepp,16,8
+Smith / Blacksmith,Kontiolahti,seppo,1,1
+Smith / Blacksmith,Kontiolahti,seppä,3,3
+Smith / Blacksmith,Kontokki,Other,1,1
+Smith / Blacksmith,Kontokki,seppä,3,2
+Smith / Blacksmith,Kontokki,takoja,1,1
+Smith / Blacksmith,Koprina,Other,1,1
+Smith / Blacksmith,Koprina,compound -sepp,2,2
+Smith / Blacksmith,Koprina,seppä,4,4
+Smith / Blacksmith,Korpilahti,Other,1,1
+Smith / Blacksmith,Korpilahti,seppä,5,1
+Smith / Blacksmith,Korpiselkä,compound -sepp,1,1
+Smith / Blacksmith,Korpiselkä,seppo,7,2
+Smith / Blacksmith,Korpiselkä,seppä,19,9
+Smith / Blacksmith,Kose,Other,6,2
+Smith / Blacksmith,Kose,sepp,6,4
+Smith / Blacksmith,Koskenpää,seppä,1,1
+Smith / Blacksmith,Koski Hl.,seppä,4,2
+Smith / Blacksmith,Koski Tl.,seppä,4,1
+Smith / Blacksmith,Kuhmoinen,seppä,2,1
+Smith / Blacksmith,Kuopio,Other,1,1
+Smith / Blacksmith,Kuopio,seppä,1,1
+Smith / Blacksmith,Kuorevesi,seppä,2,2
+Smith / Blacksmith,Kupanitsa,compound -sepp,1,1
+Smith / Blacksmith,Kupanitsa,seppä,5,3
+Smith / Blacksmith,Kupanitsa,takoja,3,2
+Smith / Blacksmith,Kurikka,compound -sepp,2,2
+Smith / Blacksmith,Kursi,Other,1,1
+Smith / Blacksmith,Kursi,compound -sepp,4,1
+Smith / Blacksmith,Kursi,sepp,2,2
+Smith / Blacksmith,Kuusalu,Other,2,2
+Smith / Blacksmith,Kuusalu,compound -sepp,26,14
+Smith / Blacksmith,Kuusalu,sepp,35,16
+Smith / Blacksmith,Kuusamo,seppä,4,1
+Smith / Blacksmith,Kuusjoki,seppä,10,3
+Smith / Blacksmith,Kuusjärvi,seppä,2,2
+Smith / Blacksmith,Kylmäkoski,seppä,8,2
+Smith / Blacksmith,Käkisalmi,seppä,1,1
+Smith / Blacksmith,Kärla,sepp,4,2
+Smith / Blacksmith,Lahti,compound -sepp,1,1
+Smith / Blacksmith,Lahti,seppä,1,1
+Smith / Blacksmith,Laihia,Other,1,1
+Smith / Blacksmith,Laihia,seppä,1,1
+Smith / Blacksmith,Laitila,compound -sepp,1,1
+Smith / Blacksmith,Laitila,seppä,4,2
+Smith / Blacksmith,Laiuse,sepp,6,5
+Smith / Blacksmith,Lammi,seppä,8,3
+Smith / Blacksmith,Lapinlahti,seppä,5,1
+Smith / Blacksmith,Lavansaari,seppä,4,3
+Smith / Blacksmith,Lemi,compound -sepp,1,1
+Smith / Blacksmith,Lemi,seppä,5,3
+Smith / Blacksmith,Lempaala,Other,1,1
+Smith / Blacksmith,Lempaala,compound -sepp,13,9
+Smith / Blacksmith,Lempaala,seppä,46,28
+Smith / Blacksmith,Lempaala,takoja,6,5
+Smith / Blacksmith,Leppävirta,Other,1,1
+Smith / Blacksmith,Lieto,compound -sepp,1,1
+Smith / Blacksmith,Liissilä,seppä,12,4
+Smith / Blacksmith,Liperi,seppo,1,1
+Smith / Blacksmith,Liperi,seppä,5,4
+Smith / Blacksmith,Liperi,takoja,1,1
+Smith / Blacksmith,Loimaa,seppä,1,1
+Smith / Blacksmith,Lokalahti,seppä,1,1
+Smith / Blacksmith,Loppi,seppä,10,4
+Smith / Blacksmith,Luhanka,Other,1,1
+Smith / Blacksmith,Luopioinen,seppä,2,1
+Smith / Blacksmith,Lüganuse,Other,1,1
+Smith / Blacksmith,Lüganuse,compound -sepp,3,3
+Smith / Blacksmith,Lüganuse,sepp,9,4
+Smith / Blacksmith,Maaninka,seppä,3,3
+Smith / Blacksmith,Maaria,seppä,5,1
+Smith / Blacksmith,Maarja-Magdaleena,Other,2,1
+Smith / Blacksmith,Maarja-Magdaleena,compound -sepp,1,1
+Smith / Blacksmith,Maarja-Magdaleena,sepp,4,2
+Smith / Blacksmith,Metsäpirtti,Other,1,1
+Smith / Blacksmith,Metsäpirtti,compound -sepp,1,1
+Smith / Blacksmith,Metsäpirtti,seppä,4,3
+Smith / Blacksmith,Mihkli,Other,1,1
+Smith / Blacksmith,Mihkli,compound -sepp,2,1
+Smith / Blacksmith,Mihkli,sepp,1,1
+Smith / Blacksmith,Moloskovitsa,compound -sepp,2,2
+Smith / Blacksmith,Moloskovitsa,seppä,7,5
+Smith / Blacksmith,Moloskovitsa,takoja,2,2
+Smith / Blacksmith,Mouhijärvi,seppä,5,1
+Smith / Blacksmith,Muhu,Other,4,3
+Smith / Blacksmith,Muhu,compound -sepp,1,1
+Smith / Blacksmith,Muhu,sepp,9,5
+Smith / Blacksmith,Muolaa,Other,1,1
+Smith / Blacksmith,Muolaa,compound -sepp,1,1
+Smith / Blacksmith,Muolaa,seppä,2,2
+Smith / Blacksmith,Mustjala,compound -sepp,6,1
+Smith / Blacksmith,Mustjala,sepp,2,2
+Smith / Blacksmith,Muurla,Other,1,1
+Smith / Blacksmith,Muurla,compound -sepp,1,1
+Smith / Blacksmith,Muurla,seppä,1,1
+Smith / Blacksmith,Muuruvesi,seppä,2,2
+Smith / Blacksmith,Mynämäki,Other,1,1
+Smith / Blacksmith,Mäntyharju,seppä,1,1
+Smith / Blacksmith,Märjamaa,Other,2,1
+Smith / Blacksmith,Märjamaa,compound -sepp,5,3
+Smith / Blacksmith,Märjamaa,sepp,4,3
+Smith / Blacksmith,Narvusi,Other,5,4
+Smith / Blacksmith,Narvusi,compound -sepp,15,14
+Smith / Blacksmith,Narvusi,seppo,2,1
+Smith / Blacksmith,Narvusi,seppä,182,85
+Smith / Blacksmith,Narvusi,takoja,16,14
+Smith / Blacksmith,Nilsiä,seppo,1,1
+Smith / Blacksmith,Nilsiä,seppä,3,2
+Smith / Blacksmith,Nivala,Other,1,1
+Smith / Blacksmith,Nivala,compound -sepp,1,1
+Smith / Blacksmith,Nousiainen,seppä,2,2
+Smith / Blacksmith,Nurmes,Other,1,1
+Smith / Blacksmith,Nurmes,compound -sepp,2,2
+Smith / Blacksmith,Nurmes,seppä,4,3
+Smith / Blacksmith,Nurmijärvi,seppä,4,1
+Smith / Blacksmith,Nõo,sepp,3,1
+Smith / Blacksmith,Orimattila,seppä,2,2
+Smith / Blacksmith,Otepää,sepp,6,1
+Smith / Blacksmith,Paide,Other,1,1
+Smith / Blacksmith,Paide,compound -sepp,2,1
+Smith / Blacksmith,Paistu,Other,3,3
+Smith / Blacksmith,Paistu,compound -sepp,12,9
+Smith / Blacksmith,Paistu,sepp,27,14
+Smith / Blacksmith,Palamuse,Other,6,5
+Smith / Blacksmith,Palamuse,compound -sepp,3,3
+Smith / Blacksmith,Palamuse,sepp,8,6
+Smith / Blacksmith,Paltamo,seppä,3,1
+Smith / Blacksmith,Parikkala,seppä,5,3
+Smith / Blacksmith,Peetri,Other,2,2
+Smith / Blacksmith,Peetri,compound -sepp,2,1
+Smith / Blacksmith,Peetri,sepp,3,3
+Smith / Blacksmith,Perho,seppä,1,1
+Smith / Blacksmith,Perniö,seppä,10,2
+Smith / Blacksmith,Petroskoi,seppä,2,1
+Smith / Blacksmith,Pieksämäki,compound -sepp,2,1
+Smith / Blacksmith,Pieksämäki,seppä,1,1
+Smith / Blacksmith,Pielavesi,seppä,1,1
+Smith / Blacksmith,Pielisjärvi,Other,2,1
+Smith / Blacksmith,Pielisjärvi,seppä,7,6
+Smith / Blacksmith,Piikkiö,seppä,4,2
+Smith / Blacksmith,Piippola,seppä,1,1
+Smith / Blacksmith,Pilistvere,compound -sepp,2,2
+Smith / Blacksmith,Pilistvere,sepp,9,4
+Smith / Blacksmith,Polvijärvi,seppä,3,3
+Smith / Blacksmith,Porajärvi,compound -sepp,2,2
+Smith / Blacksmith,Porajärvi,seppä,22,5
+Smith / Blacksmith,Pudasjärvi,seppä,1,1
+Smith / Blacksmith,Puhja,compound -sepp,3,2
+Smith / Blacksmith,Puhja,sepp,5,4
+Smith / Blacksmith,Pulkkila,seppä,1,1
+Smith / Blacksmith,Punkalaidun,seppä,2,1
+Smith / Blacksmith,Puolanka,compound -sepp,1,1
+Smith / Blacksmith,Puolanka,seppä,3,2
+Smith / Blacksmith,Puumala,seppä,2,2
+Smith / Blacksmith,Pyhäjärvi Vpl.,seppä,6,5
+Smith / Blacksmith,Pylkönmäki,seppä,1,1
+Smith / Blacksmith,Pälkjärvi,compound -sepp,1,1
+Smith / Blacksmith,Pärnu,Other,1,1
+Smith / Blacksmith,Pärnu,compound -sepp,6,4
+Smith / Blacksmith,Pärnu,sepp,5,3
+Smith / Blacksmith,Pärnu-Jaagupi,sepp,1,1
+Smith / Blacksmith,Põltsamaa,compound -sepp,4,2
+Smith / Blacksmith,Põltsamaa,sepp,6,5
+Smith / Blacksmith,Põlva,sepp,4,2
+Smith / Blacksmith,Pöide,compound -sepp,3,2
+Smith / Blacksmith,Pöide,sepp,7,4
+Smith / Blacksmith,Pöytyä,Other,1,1
+Smith / Blacksmith,Pöytyä,seppä,16,4
+Smith / Blacksmith,Pühalepa,Other,1,1
+Smith / Blacksmith,Pühalepa,sepp,3,2
+Smith / Blacksmith,Rannu,sepp,2,2
+Smith / Blacksmith,Rantasalmi,seppo,1,1
+Smith / Blacksmith,Rantsila,compound -sepp,3,3
+Smith / Blacksmith,Ranua,Other,1,1
+Smith / Blacksmith,Ranua,seppä,1,1
+Smith / Blacksmith,Rapla,Other,1,1
+Smith / Blacksmith,Rapla,sepp,4,2
+Smith / Blacksmith,Rautavaara,seppä,2,2
+Smith / Blacksmith,Rautjärvi,seppä,3,3
+Smith / Blacksmith,Rautu,seppä,7,4
+Smith / Blacksmith,Repola,seppä,18,8
+Smith / Blacksmith,Repola,takoja,1,1
+Smith / Blacksmith,Ridala,Other,1,1
+Smith / Blacksmith,Ridala,compound -sepp,2,1
+Smith / Blacksmith,Ridala,sepp,2,2
+Smith / Blacksmith,Risti,Other,1,1
+Smith / Blacksmith,Risti,compound -sepp,1,1
+Smith / Blacksmith,Risti,sepp,11,5
+Smith / Blacksmith,Ristijärvi,seppä,1,1
+Smith / Blacksmith,Rovaniemi,seppä,1,1
+Smith / Blacksmith,Ruameška,seppä,1,1
+Smith / Blacksmith,Ruokolahti,seppä,1,1
+Smith / Blacksmith,Ruskeala,seppä,1,1
+Smith / Blacksmith,Rymättylä,compound -sepp,1,1
+Smith / Blacksmith,Räisälä,seppä,9,3
+Smith / Blacksmith,Räpina,compound -sepp,1,1
+Smith / Blacksmith,Räpina,sepp,2,1
+Smith / Blacksmith,Rääkkylä,seppä,5,4
+Smith / Blacksmith,Rõngu,Other,1,1
+Smith / Blacksmith,Rõngu,compound -sepp,2,2
+Smith / Blacksmith,Rõngu,sepp,7,5
+Smith / Blacksmith,Saarde,Other,3,3
+Smith / Blacksmith,Saarde,compound -sepp,5,3
+Smith / Blacksmith,Saarde,sepp,11,7
+Smith / Blacksmith,Saarijärvi,compound -sepp,3,3
+Smith / Blacksmith,Saarijärvi,seppä,7,5
+Smith / Blacksmith,Sahalahti,seppä,3,3
+Smith / Blacksmith,Sakkola,seppä,5,5
+Smith / Blacksmith,Sakkola,takoja,1,1
+Smith / Blacksmith,Salmi,Other,3,1
+Smith / Blacksmith,Salmi,compound -sepp,1,1
+Smith / Blacksmith,Salmi,seppo,18,1
+Smith / Blacksmith,Salmi,seppä,15,6
+Smith / Blacksmith,Salo,Other,1,1
+Smith / Blacksmith,Salo,seppä,5,2
+Smith / Blacksmith,Sammatti,seppä,4,1
+Smith / Blacksmith,Sandova,seppä,2,2
+Smith / Blacksmith,Sangaste,Other,1,1
+Smith / Blacksmith,Sangaste,compound -sepp,3,3
+Smith / Blacksmith,Sangaste,sepp,2,2
+Smith / Blacksmith,Sauvo,Other,1,1
+Smith / Blacksmith,Sauvo,seppä,3,1
+Smith / Blacksmith,Savitaipale,seppä,1,1
+Smith / Blacksmith,Savukoski,seppä,1,1
+Smith / Blacksmith,Seiskari,Other,1,1
+Smith / Blacksmith,Seiskari,compound -sepp,2,2
+Smith / Blacksmith,Seiskari,seppä,1,1
+Smith / Blacksmith,Serepetta,Other,2,1
+Smith / Blacksmith,Serepetta,compound -sepp,2,1
+Smith / Blacksmith,Serepetta,seppä,31,13
+Smith / Blacksmith,Setumaa,Other,3,2
+Smith / Blacksmith,Setumaa,compound -sepp,6,4
+Smith / Blacksmith,Setumaa,sepp,15,6
+Smith / Blacksmith,Sievi,seppä,1,1
+Smith / Blacksmith,Siikainen,seppä,3,1
+Smith / Blacksmith,Siilinjärvi,seppä,2,2
+Smith / Blacksmith,Simuna,Other,1,1
+Smith / Blacksmith,Simuna,compound -sepp,5,1
+Smith / Blacksmith,Simuna,sepp,2,1
+Smith / Blacksmith,Sippola,seppä,1,1
+Smith / Blacksmith,Skuoritsa,seppo,4,1
+Smith / Blacksmith,Skuoritsa,seppä,4,2
+Smith / Blacksmith,Skuoritsa,takoja,1,1
+Smith / Blacksmith,Soanlahti,compound -sepp,2,2
+Smith / Blacksmith,Soanlahti,seppä,2,1
+Smith / Blacksmith,Soikkola,Other,14,10
+Smith / Blacksmith,Soikkola,compound -sepp,7,5
+Smith / Blacksmith,Soikkola,seppo,1,1
+Smith / Blacksmith,Soikkola,seppä,102,40
+Smith / Blacksmith,Soikkola,takoja,9,5
+Smith / Blacksmith,Soini,seppä,1,1
+Smith / Blacksmith,Somero,seppä,4,2
+Smith / Blacksmith,Sonkajärvi,seppä,1,1
+Smith / Blacksmith,Sortavala,seppä,1,1
+Smith / Blacksmith,Sotkamo,seppä,1,1
+Smith / Blacksmith,Soutjärvi,Other,1,1
+Smith / Blacksmith,Soutjärvi,seppä,4,2
+Smith / Blacksmith,Spankkova,seppä,17,2
+Smith / Blacksmith,Spiirova,compound -sepp,1,1
+Smith / Blacksmith,Spiirova,seppä,1,1
+Smith / Blacksmith,Suistamo,Other,4,4
+Smith / Blacksmith,Suistamo,compound -sepp,3,3
+Smith / Blacksmith,Suistamo,seppo,1,1
+Smith / Blacksmith,Suistamo,seppä,51,30
+Smith / Blacksmith,Suistamo,takoja,1,1
+Smith / Blacksmith,Sulkava,seppä,1,1
+Smith / Blacksmith,Suojärvi,Other,9,7
+Smith / Blacksmith,Suojärvi,compound -sepp,5,3
+Smith / Blacksmith,Suojärvi,seppo,50,13
+Smith / Blacksmith,Suojärvi,seppä,64,28
+Smith / Blacksmith,Suojärvi,takoja,8,3
+Smith / Blacksmith,Suomenniemi,seppä,3,1
+Smith / Blacksmith,Suomusjärvi,seppä,1,1
+Smith / Blacksmith,Suomussalmi,compound -sepp,1,1
+Smith / Blacksmith,Suomussalmi,seppä,11,3
+Smith / Blacksmith,Suure-Jaani,Other,1,1
+Smith / Blacksmith,Suure-Jaani,compound -sepp,3,2
+Smith / Blacksmith,Sysmä,seppä,3,2
+Smith / Blacksmith,Säkkijärvi,seppä,1,1
+Smith / Blacksmith,Säräisniemi,seppä,3,3
+Smith / Blacksmith,Sääminki,compound -sepp,1,1
+Smith / Blacksmith,Säämäjärvi,seppo,9,2
+Smith / Blacksmith,Säämäjärvi,seppä,3,2
+Smith / Blacksmith,Taivassalo,seppä,7,2
+Smith / Blacksmith,Tammela,Other,1,1
+Smith / Blacksmith,Tammela,compound -sepp,1,1
+Smith / Blacksmith,Tammela,seppä,16,7
+Smith / Blacksmith,Tampere,seppä,1,1
+Smith / Blacksmith,Tartu-Maarja,compound -sepp,2,1
+Smith / Blacksmith,Tartu-Maarja,sepp,1,1
+Smith / Blacksmith,Tarvastu,Other,1,1
+Smith / Blacksmith,Tarvastu,compound -sepp,6,4
+Smith / Blacksmith,Tarvastu,sepp,15,7
+Smith / Blacksmith,Terijoki,seppä,3,1
+Smith / Blacksmith,Tervo,seppä,1,1
+Smith / Blacksmith,Tohmajärvi,seppä,2,1
+Smith / Blacksmith,Toksova,compound -sepp,1,1
+Smith / Blacksmith,Toksova,seppä,18,9
+Smith / Blacksmith,Toksova,takoja,2,1
+Smith / Blacksmith,Tolmačču,seppä,2,2
+Smith / Blacksmith,Tori,sepp,5,4
+Smith / Blacksmith,Torma,compound -sepp,1,1
+Smith / Blacksmith,Torma,sepp,2,1
+Smith / Blacksmith,Tulemajärvi,Other,1,1
+Smith / Blacksmith,Tulemajärvi,seppä,17,6
+Smith / Blacksmith,Turku,seppä,5,1
+Smith / Blacksmith,Turtola,compound -sepp,2,1
+Smith / Blacksmith,Turtola,seppä,2,2
+Smith / Blacksmith,Tuulos,seppä,7,3
+Smith / Blacksmith,Tuupovaara,seppä,4,2
+Smith / Blacksmith,Tuusniemi,seppä,1,1
+Smith / Blacksmith,Tuutari,compound -sepp,1,1
+Smith / Blacksmith,Tyrväntö,seppä,2,1
+Smith / Blacksmith,Tyrvää,compound -sepp,2,2
+Smith / Blacksmith,Tyrvää,seppä,10,3
+Smith / Blacksmith,Tyrö,Other,1,1
+Smith / Blacksmith,Tyrö,compound -sepp,2,2
+Smith / Blacksmith,Tyrö,seppo,5,2
+Smith / Blacksmith,Tyrö,seppä,18,13
+Smith / Blacksmith,Tyrö,takoja,2,2
+Smith / Blacksmith,Tõstamaa,Other,2,1
+Smith / Blacksmith,Tõstamaa,compound -sepp,6,3
+Smith / Blacksmith,Tõstamaa,sepp,1,1
+Smith / Blacksmith,Töysä,compound -sepp,1,1
+Smith / Blacksmith,Töysä,seppä,3,2
+Smith / Blacksmith,Türi,compound -sepp,4,2
+Smith / Blacksmith,Uhtua,seppä,1,1
+Smith / Blacksmith,Urjala,seppä,4,1
+Smith / Blacksmith,Urvaste,Other,2,2
+Smith / Blacksmith,Urvaste,compound -sepp,6,3
+Smith / Blacksmith,Urvaste,sepp,4,3
+Smith / Blacksmith,Uskela,Other,3,3
+Smith / Blacksmith,Uskela,compound -sepp,7,7
+Smith / Blacksmith,Uskela,seppä,25,14
+Smith / Blacksmith,Uukuniemi,Other,1,1
+Smith / Blacksmith,Uukuniemi,compound -sepp,1,1
+Smith / Blacksmith,Uukuniemi,seppä,2,2
+Smith / Blacksmith,Uusikaupunki,Other,1,1
+Smith / Blacksmith,Uusikaupunki,seppä,7,6
+Smith / Blacksmith,Uusikirkko Tl.,seppä,1,1
+Smith / Blacksmith,Vaivara,Other,2,1
+Smith / Blacksmith,Vaivara,compound -sepp,2,2
+Smith / Blacksmith,Vaivara,sepp,8,5
+Smith / Blacksmith,Valkeasaari,seppä,3,2
+Smith / Blacksmith,Valtimo,seppä,1,1
+Smith / Blacksmith,Vanaja,seppä,2,1
+Smith / Blacksmith,Varbla,compound -sepp,6,3
+Smith / Blacksmith,Varbla,sepp,2,1
+Smith / Blacksmith,Varkaus,seppä,4,2
+Smith / Blacksmith,Vastseliina,sepp,3,1
+Smith / Blacksmith,Vehmaa,seppä,1,1
+Smith / Blacksmith,Venjoki,compound -sepp,3,3
+Smith / Blacksmith,Venjoki,seppo,1,1
+Smith / Blacksmith,Venjoki,seppä,16,11
+Smith / Blacksmith,Venjoki,takoja,2,2
+Smith / Blacksmith,Vesilahti,seppä,4,3
+Smith / Blacksmith,Veteli,seppä,1,1
+Smith / Blacksmith,Veśśi,seppä,1,1
+Smith / Blacksmith,Vieljärvi,seppo,2,1
+Smith / Blacksmith,Vieljärvi,seppä,18,4
+Smith / Blacksmith,Vigala,compound -sepp,1,1
+Smith / Blacksmith,Vigala,sepp,1,1
+Smith / Blacksmith,Vihanti,compound -sepp,1,1
+Smith / Blacksmith,Vihti,seppä,2,2
+Smith / Blacksmith,Viipuri,seppä,1,1
+Smith / Blacksmith,Viitasaari,seppä,2,1
+Smith / Blacksmith,Viljakkala,seppä,5,1
+Smith / Blacksmith,Viljandi,Other,1,1
+Smith / Blacksmith,Viljandi,compound -sepp,7,6
+Smith / Blacksmith,Viljandi,sepp,21,14
+Smith / Blacksmith,Virolahti,seppä,2,2
+Smith / Blacksmith,Viru-Jaagupi,Other,2,1
+Smith / Blacksmith,Viru-Jaagupi,compound -sepp,2,2
+Smith / Blacksmith,Viru-Jaagupi,sepp,3,1
+Smith / Blacksmith,Viru-Nigula,Other,1,1
+Smith / Blacksmith,Viru-Nigula,sepp,16,6
+Smith / Blacksmith,Vuokkiniemi,seppä,11,9
+Smith / Blacksmith,Vuokkiniemi,takoja,3,2
+Smith / Blacksmith,Vuole,compound -sepp,4,3
+Smith / Blacksmith,Vuole,seppo,1,1
+Smith / Blacksmith,Vuole,seppä,37,21
+Smith / Blacksmith,Vuole,takoja,1,1
+Smith / Blacksmith,Väike-Maarja,Other,2,2
+Smith / Blacksmith,Väike-Maarja,compound -sepp,7,4
+Smith / Blacksmith,Väike-Maarja,sepp,13,8
+Smith / Blacksmith,Vändra,Other,1,1
+Smith / Blacksmith,Vändra,compound -sepp,4,2
+Smith / Blacksmith,Vändra,sepp,9,6
+Smith / Blacksmith,Võnnu,compound -sepp,2,1
+Smith / Blacksmith,Võnnu,sepp,1,1
+Smith / Blacksmith,Ylikiiminki,seppä,1,1
+Smith / Blacksmith,Ylistaro,seppä,2,1
+Smith / Blacksmith,Ylitornio,compound -sepp,1,1
+Smith / Blacksmith,Ylämaa,Other,1,1
+Smith / Blacksmith,Ylämaa,seppä,1,1
+Smith / Blacksmith,Yläne,seppä,4,1
+Smith / Blacksmith,Ypäjä,seppä,4,1
+Smith / Blacksmith,Ähtäri,compound -sepp,1,1
+Smith / Blacksmith,Ähtäri,seppä,6,2
+Smith / Blacksmith,Äksi,Other,2,2
+Smith / Blacksmith,Äksi,compound -sepp,2,1
+Smith / Blacksmith,Äksi,sepp,5,2
