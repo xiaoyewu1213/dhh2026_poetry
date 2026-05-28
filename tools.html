@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Finnic Poetry Research Tools</title>
+  <style>
+    :root {
+      --background: #ffffff;
+      --foreground: #27231f;
+      --muted: #77716a;
+      --border: #dedbd6;
+      --primary: #2f6f9f;
+      --primary-dark: #234f72;
+      --accent: #c56a2f;
+      --green: #547f62;
+      --ink: #111111;
+      --soft: #f7f7f5;
+      --panel: #fbfbfa;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      color: var(--foreground);
+      background: var(--background);
+    }
+    main {
+      width: min(1120px, calc(100vw - 40px));
+      margin: 0 auto;
+      padding: 42px 0 56px;
+    }
+    header {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 22px;
+      margin-bottom: 18px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 20px;
+      align-items: end;
+      position: relative;
+    }
+    header::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: -18px;
+      height: 4px;
+      background: linear-gradient(90deg, var(--primary-dark), var(--primary), var(--accent));
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(28px, 4.6vw, 56px);
+      line-height: 1;
+      font-weight: 700;
+      color: var(--primary-dark);
+      letter-spacing: 0;
+    }
+    .subtitle {
+      margin: 0;
+      max-width: 780px;
+      font-size: 14px;
+      line-height: 1.55;
+      color: var(--muted);
+    }
+    .badge {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      padding: 10px 12px;
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    a.card {
+      display: flex;
+      min-height: 252px;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      border: 1px solid var(--border);
+      background: var(--soft);
+      transition: border-color 160ms ease, background 160ms ease, box-shadow 160ms ease;
+      position: relative;
+      overflow: hidden;
+      isolation: isolate;
+    }
+    a.card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(135deg, rgba(47,111,159,0.13), transparent 46%),
+        linear-gradient(315deg, rgba(197,106,47,0.12), transparent 45%);
+      opacity: 0.55;
+      transition: opacity 160ms ease;
+      z-index: -1;
+    }
+    a.card::after {
+      content: "";
+      position: absolute;
+      left: 18px;
+      right: 18px;
+      top: 58px;
+      height: 1px;
+      background: var(--border);
+    }
+    a.card:hover {
+      border-color: var(--primary);
+      background: #ffffff;
+      box-shadow: 0 0 0 2px rgba(47, 111, 159, 0.08);
+    }
+    a.card:hover::before { opacity: 0.9; }
+    .tag {
+      width: fit-content;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.68);
+      padding: 7px 9px;
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .tag.template { color: var(--accent); border-color: rgba(197,106,47,.42); }
+    .tag.map { color: var(--primary-dark); border-color: rgba(47,111,159,.42); }
+    .tag.simile { color: var(--green); border-color: rgba(84,127,98,.42); }
+    h2 {
+      margin: 24px 0 10px;
+      font-size: 24px;
+      line-height: 1.15;
+      color: var(--foreground);
+    }
+    .desc {
+      margin: 0;
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--muted);
+    }
+    .url {
+      margin-top: 22px;
+      overflow-wrap: anywhere;
+      font-size: 11px;
+      color: var(--primary);
+    }
+    footer {
+      margin-top: 18px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 11px;
+    }
+    @media (max-width: 860px) {
+      main { padding-top: 36px; }
+      header { grid-template-columns: 1fr; align-items: start; }
+      .badge { width: fit-content; }
+      .grid { grid-template-columns: 1fr; }
+      a.card { min-height: 210px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Finnic Poetry Research Tools</h1>
+        <p class="subtitle">A compact entry page for exploring Finnic dialect variation, simile entities, and runosong templates.</p>
+      </div>
+      <div class="badge">DHH 2026 / tool portal</div>
+    </header>
+
+    <section class="grid" aria-label="Research tool links">
+      <a class="card" href="https://dhh-poetry.vercel.app/?q=smith">
+        <span class="tag template">Template search</span>
+        <div>
+          <h2>Runosong Template Explorer</h2>
+          <p class="desc">Search and inspect runosong templates, examples, and recurring lexical patterns.</p>
+        </div>
+        <span class="url">dhh-poetry.vercel.app/?q=smith</span>
+      </a>
+
+      <a class="card" href="https://name-variant-map.vercel.app/outputs/dhh26_full/person_name_variation/name_variant_maps_design_preview.html">
+        <span class="tag map">Variation map</span>
+        <div>
+          <h2>Finnic Dialect Variation Map</h2>
+          <p class="desc">Interactive regional maps for lexical and name-variant patterns across Finnic varieties.</p>
+        </div>
+        <span class="url">name-variant-map.vercel.app</span>
+      </a>
+
+      <a class="card" href="https://simile-explorer.vercel.app/">
+        <span class="tag simile">Simile explorer</span>
+        <div>
+          <h2>Finnic Simile Entity Explorer</h2>
+          <p class="desc">Explore simile entities and comparison patterns in the Finnic poetry corpus.</p>
+        </div>
+        <span class="url">simile-explorer.vercel.app</span>
+      </a>
+    </section>
+
+    <footer>
+      Digital Humanities Helsinki 2026 · Finnic poetry and dialect variation research interface
+    </footer>
+  </main>
+</body>
+</html>
