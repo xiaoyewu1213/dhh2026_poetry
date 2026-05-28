@@ -772,6 +772,131 @@
       background: color-mix(in oklch, var(--background) 97%, transparent);
       box-shadow: 0 14px 30px color-mix(in oklch, var(--foreground) 12%, transparent);
     }
+
+    @media (max-width: 760px) {
+      header {
+        position: static;
+        padding: 14px 14px 10px;
+      }
+
+      h1 {
+        font-size: 22px;
+      }
+
+      .subtitle {
+        font-size: 11px;
+      }
+
+      .sourcebar,
+      .groupbar {
+        flex-wrap: wrap;
+        position: static;
+        padding-inline: 14px;
+        gap: 7px;
+      }
+
+      .sourcebar {
+        padding-top: 8px;
+        padding-bottom: 5px;
+      }
+
+      .groupbar {
+        padding-top: 5px;
+        padding-bottom: 8px;
+      }
+
+      .filter-label {
+        min-width: auto;
+        padding-right: 8px;
+        box-shadow: none;
+      }
+
+      .button-row {
+        flex: 1 1 calc(100% - 96px);
+        overflow-x: auto;
+      }
+
+      .search-control {
+        margin-left: 0;
+        flex: 1 0 100%;
+        order: 3;
+        justify-content: flex-start;
+        padding-top: 3px;
+      }
+
+      .feature-search {
+        width: min(100%, 360px);
+      }
+
+      main {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        gap: 12px;
+        padding: 12px 14px 18px;
+      }
+
+      .map-card {
+        position: relative;
+        top: auto;
+        height: 62dvh;
+        min-height: 390px;
+        max-height: 680px;
+      }
+
+      .map-toolbar {
+        padding: 9px 10px;
+      }
+
+      .map-title {
+        font-size: 12px;
+      }
+
+      .zoom-buttons button {
+        width: 32px;
+        height: 28px;
+      }
+
+      .map-wrap {
+        min-height: 310px;
+      }
+
+      .side-stack {
+        gap: 10px;
+      }
+
+      .metric-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .info-map {
+        height: 230px;
+      }
+    }
+
+    @media (max-width: 420px) {
+      .map-card {
+        height: 58dvh;
+        min-height: 340px;
+      }
+
+      .button-row {
+        gap: 6px;
+      }
+
+      button {
+        padding: 7px 9px;
+        font-size: 11px;
+      }
+
+      .search-control span {
+        display: inline;
+      }
+
+      .feature-search {
+        width: min(100%, 260px);
+        font-size: 12px;
+      }
+    }
   </style>
 </head>
 <body>
